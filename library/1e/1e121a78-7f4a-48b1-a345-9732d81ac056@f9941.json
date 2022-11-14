@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_b_d8",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 130,
+      "height": 202
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 130,
+      "height": 202
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1e121a78-7f4a-48b1-a345-9732d81ac056@6c48a",
+    "packable": true
+  }
+}

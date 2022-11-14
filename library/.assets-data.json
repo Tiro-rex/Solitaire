@@ -1,0 +1,1014 @@
+{
+  "9c66d26b-785a-4639-85fa-a0f534952cf5": {
+    "url": "db://assets/Image Assets",
+    "value": {}
+  },
+  "78044a79-d926-4ad5-b6ee-70d04e41d77c": {
+    "url": "db://assets/Image Assets/cards",
+    "value": {}
+  },
+  "70df6f56-b6e2-469b-ba66-b0a9e3607bbf": {
+    "url": "db://assets/Image Assets/decks",
+    "value": {}
+  },
+  "78dcc5b0-51c6-4b39-b44d-599c9ee25db0": {
+    "url": "db://assets/Image Assets/cards/Set_A",
+    "value": {}
+  },
+  "89ce19bd-cf0e-4495-8431-1a630151b3a8": {
+    "url": "db://assets/Image Assets/cards/Set_B",
+    "value": {}
+  },
+  "d2b6ae74-b85e-48c0-a866-4ee62e345446": {
+    "url": "db://assets/Image Assets/decks/large",
+    "value": {}
+  },
+  "c276bf1d-8a99-4d39-8f69-f7f442802880": {
+    "url": "db://assets/Image Assets/decks/small",
+    "value": {}
+  },
+  "ac04d0d6-003a-4992-ac1f-5e398d1700f1": {
+    "url": "db://assets/Image Assets/cards/Set_A/large",
+    "value": {}
+  },
+  "0baa5552-4fac-4591-8b5d-98b38b9c22df": {
+    "url": "db://assets/Image Assets/cards/Set_A/small",
+    "value": {}
+  },
+  "3b8491c8-1660-43e3-ac29-38ee644a4043": {
+    "url": "db://assets/Image Assets/cards/Set_B/large",
+    "value": {}
+  },
+  "f342e60c-85a6-4c9e-a330-be53e4ad6ab3": {
+    "url": "db://assets/Image Assets/cards/small",
+    "value": {}
+  },
+  "de8ab99c-39e1-439d-829d-f1a52441344e": {
+    "url": "db://assets/Image Assets/decks/large/deck_1_large.png",
+    "value": {}
+  },
+  "cf09f005-d18e-42dd-9352-1f24d68b3f34": {
+    "url": "db://assets/Image Assets/decks/large/deck_2_large.png",
+    "value": {}
+  },
+  "7fe57875-8803-4b4a-a5d7-948ac05a2fdb": {
+    "url": "db://assets/Image Assets/decks/large/deck_3_large.png",
+    "value": {}
+  },
+  "326407cd-1d38-41e3-8a8c-66b24d4e91c7": {
+    "url": "db://assets/Image Assets/decks/large/deck_4_large.png",
+    "value": {}
+  },
+  "3b44ddcc-8ba4-4d99-895f-c816cb73de53": {
+    "url": "db://assets/Image Assets/decks/large/deck_5_large.png",
+    "value": {}
+  },
+  "f472b565-131d-4df2-b2ff-fee3d76112ee": {
+    "url": "db://assets/Image Assets/decks/large/deck_6_large.png",
+    "value": {}
+  },
+  "00dcc5df-a664-4e01-8881-b56a7d77ca9e": {
+    "url": "db://assets/Image Assets/decks/small/deck_1.png",
+    "value": {}
+  },
+  "a5a1955f-cba0-47dc-9297-0c299c108a0a": {
+    "url": "db://assets/Image Assets/decks/small/deck_2.png",
+    "value": {}
+  },
+  "4c2c13b5-6a0f-4df1-b063-753e13ad588f": {
+    "url": "db://assets/Image Assets/decks/small/deck_3.png",
+    "value": {}
+  },
+  "3d361a75-1b53-4d6d-abd1-f2d076db4eb2": {
+    "url": "db://assets/Image Assets/decks/small/deck_4.png",
+    "value": {}
+  },
+  "a1676583-c738-4dfe-b489-646048a2c64a": {
+    "url": "db://assets/Image Assets/decks/small/deck_5.png",
+    "value": {}
+  },
+  "e3962518-a7ea-42e2-9482-2f09dbb38bbf": {
+    "url": "db://assets/Image Assets/decks/small/deck_6.png",
+    "value": {}
+  },
+  "4ac4046a-d43b-42ec-b57e-b088e4c5e53b": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c10_large.png",
+    "value": {}
+  },
+  "97840139-9711-4872-ad56-785bf2a7b4b6": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c2_large.png",
+    "value": {}
+  },
+  "063bc5df-a595-47a4-91cb-9596c4259b33": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c3_large.png",
+    "value": {}
+  },
+  "c8ecfebd-723e-4973-aa0c-d7882167a5c8": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c4_large.png",
+    "value": {}
+  },
+  "11a62eb5-c808-4cc4-8570-0fc9e3752ce8": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c5_large.png",
+    "value": {}
+  },
+  "6455d5d1-bbc1-40d9-ac8d-43deb7d1de34": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c6_large.png",
+    "value": {}
+  },
+  "3ca378f7-77e2-4623-9312-04032234d10c": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c7_large.png",
+    "value": {}
+  },
+  "74dae4b6-ad83-4b27-9bc4-d750ade19e5a": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c8_large.png",
+    "value": {}
+  },
+  "11e72b47-6751-43b2-8fc7-1286632a64b0": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_c9_large.png",
+    "value": {}
+  },
+  "d8e28065-7218-41ff-94fd-eb847f793fef": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_ca_large.png",
+    "value": {}
+  },
+  "3e15b3c6-22c9-4008-9d98-b0577f87b1c6": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_cj_large.png",
+    "value": {}
+  },
+  "6feb380f-101f-40f3-b6df-5507bff0fdaa": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_ck_large.png",
+    "value": {}
+  },
+  "31d35425-2799-4b7b-8d21-4515d36f59ba": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_cq_large.png",
+    "value": {}
+  },
+  "cced30ec-3fe1-4101-94c4-9346cf626ee9": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d10_large.png",
+    "value": {}
+  },
+  "075c3a56-e7c7-4f31-b57d-7c86cc7d1530": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d2_large.png",
+    "value": {}
+  },
+  "4b95b9c0-5481-4537-8511-70a134f9d472": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d3_large.png",
+    "value": {}
+  },
+  "981d5a6b-4868-4642-b249-968ee7ea2b49": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d4_large.png",
+    "value": {}
+  },
+  "4ed44b60-d918-49d7-b8e0-36004a3e3a5b": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d5_large.png",
+    "value": {}
+  },
+  "494782e3-6b96-4f71-91fb-32d002230478": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d6_large.png",
+    "value": {}
+  },
+  "410a41f2-1d4f-467e-905d-b02d840d78bf": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d7_large.png",
+    "value": {}
+  },
+  "3ab58e61-51ac-4b7a-88f2-d0b3316e5078": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d8_large.png",
+    "value": {}
+  },
+  "7a221e04-9b25-4d1b-a7ba-ffb4dee97b33": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_d9_large.png",
+    "value": {}
+  },
+  "eb4f9fc3-e561-47b2-8f40-0d908cb76023": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_da_large.png",
+    "value": {}
+  },
+  "ae7ce5fb-93b0-49fd-a1b5-d8d9deff2d22": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_dj_large.png",
+    "value": {}
+  },
+  "a2ef5cc7-4c50-4f3b-95c7-549786aa4baa": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_dk_large.png",
+    "value": {}
+  },
+  "3e6709bc-ad34-4c7b-95f3-2e03f39cef3c": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_dq_large.png",
+    "value": {}
+  },
+  "bf8445bb-3954-4209-8007-eac29f9eb159": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h10_large.png",
+    "value": {}
+  },
+  "6d2ebffa-3070-41b8-9608-5789ccc2a0f6": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h2_large.png",
+    "value": {}
+  },
+  "eec52d18-bf0c-4f33-bba0-fdcbae3c78d9": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h3_large.png",
+    "value": {}
+  },
+  "f526dd61-35d3-4554-8289-aab67592e515": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h4_large.png",
+    "value": {}
+  },
+  "963e148c-f020-45dd-af2c-0f060fc38b69": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h5_large.png",
+    "value": {}
+  },
+  "28db1d4b-42e5-4e7d-82ab-270b00c27ce9": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h6_large.png",
+    "value": {}
+  },
+  "7ae714eb-c145-41c6-92c1-70c363503376": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h7_large.png",
+    "value": {}
+  },
+  "9410c183-efa7-422f-b96a-d19f3c851002": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h8_large.png",
+    "value": {}
+  },
+  "d24e2bf3-6445-43ff-8c48-d09f3dc593f9": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_h9_large.png",
+    "value": {}
+  },
+  "06dca129-b040-45d4-b461-5ff0066f746a": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_ha_large.png",
+    "value": {}
+  },
+  "9850eb04-3fe4-454d-b0f4-3d10104db0d6": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_hj_large.png",
+    "value": {}
+  },
+  "6186c84d-7273-4e2b-a675-3710cb5e2415": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_hk_large.png",
+    "value": {}
+  },
+  "adc33bad-f620-4f0a-b955-b212dbe07c31": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_hq_large.png",
+    "value": {}
+  },
+  "f84f1761-8e2d-408b-9503-fd35b8f97a89": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s10_large.png",
+    "value": {}
+  },
+  "b8289740-1fa7-4270-a6c3-a92b327fe634": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s2_large.png",
+    "value": {}
+  },
+  "4b3fc8fa-855a-4a14-8e03-acf894f9e85c": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s3_large.png",
+    "value": {}
+  },
+  "5dbb35f3-9f16-4943-8d7a-f82a54ea3e39": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s4_large.png",
+    "value": {}
+  },
+  "461fccee-1768-4007-b59f-eab163f0ac33": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s5_large.png",
+    "value": {}
+  },
+  "bac09bea-a4d9-42a4-8d3e-e109f647b550": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s6_large.png",
+    "value": {}
+  },
+  "314e655b-08b7-4f20-87d9-4a50819c4643": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s7_large.png",
+    "value": {}
+  },
+  "5b869fd6-c082-4f3e-850d-3c11d6838d5b": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s8_large.png",
+    "value": {}
+  },
+  "9c0b0f7a-42fe-4a91-ba75-12da4e0e86ac": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_s9_large.png",
+    "value": {}
+  },
+  "656c5953-7a6b-4a98-b024-9b957c234c65": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_sa_large.png",
+    "value": {}
+  },
+  "8f1f871e-ce31-47de-8a36-43a05ece7f94": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_sj_large.png",
+    "value": {}
+  },
+  "ef6a9c59-9046-447a-993a-3c3b16fc5c4a": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_sk_large.png",
+    "value": {}
+  },
+  "dc269925-e0d5-4a7d-a821-8373c6085069": {
+    "url": "db://assets/Image Assets/cards/Set_A/large/card_a_sq_large.png",
+    "value": {}
+  },
+  "330664ca-30d4-4957-acaa-43c1b23ada2b": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c10.png",
+    "value": {}
+  },
+  "9fbba016-7b7c-43e9-80d8-b074cc488849": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c2.png",
+    "value": {}
+  },
+  "02f2600e-1ec3-43d2-a694-e8becc84b0e2": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c3.png",
+    "value": {}
+  },
+  "75a57806-9373-4d90-a021-00eec64ce088": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c4.png",
+    "value": {}
+  },
+  "9ede27cd-c825-44bd-8a9c-5f7d608e9854": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c5.png",
+    "value": {}
+  },
+  "400bbc40-a9f7-4c4f-896c-f6600785d834": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c6.png",
+    "value": {}
+  },
+  "b9337e15-ef56-419e-a83a-9cbf7d97520c": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c7.png",
+    "value": {}
+  },
+  "77fb53eb-b6ec-4380-8a31-d50c6b845b87": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c8.png",
+    "value": {}
+  },
+  "6318aace-159d-4e62-9646-ad052c81c8ea": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_c9.png",
+    "value": {}
+  },
+  "5ef12dff-8880-4a28-93d8-c1f7582d6753": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_ca.png",
+    "value": {}
+  },
+  "3cc669e0-7e50-41b6-af05-e513b2273d86": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_cj.png",
+    "value": {}
+  },
+  "5c39518c-4278-4d9d-94cd-a5c884334aee": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_ck.png",
+    "value": {}
+  },
+  "60c81283-2f85-4b0d-bcd9-6230dd4b6018": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_cq.png",
+    "value": {}
+  },
+  "be30bf26-892c-4d3e-acf8-d9b782dbf0ad": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d10.png",
+    "value": {}
+  },
+  "d0edefd6-7c96-4389-a1a8-1f2d0bd81ad4": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d2.png",
+    "value": {}
+  },
+  "77e7f60b-2363-416a-b543-3e7232f00420": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d3.png",
+    "value": {}
+  },
+  "58223b23-77f6-42f1-b343-f857564acaa5": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d4.png",
+    "value": {}
+  },
+  "00e83581-1436-49d7-916d-9b2e4e08e7ee": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d5.png",
+    "value": {}
+  },
+  "37810b0c-f102-4b66-ad52-a855da226b26": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d6.png",
+    "value": {}
+  },
+  "676d5aab-a686-4289-853b-37b4c3563e2a": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d7.png",
+    "value": {}
+  },
+  "01d7d6f1-1375-4661-99a5-32fef305a100": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d8.png",
+    "value": {}
+  },
+  "58cc569f-ebd6-4f0c-b51d-2c6c5fc11dbd": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_d9.png",
+    "value": {}
+  },
+  "525f4fd8-fa95-47cf-b90d-caae9608f552": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_da.png",
+    "value": {}
+  },
+  "d5bee55e-7a4f-468d-9d6f-da922f23b2ac": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_dj.png",
+    "value": {}
+  },
+  "b03530a2-68ba-4841-b0c9-3dd6ae2d47c2": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_dk.png",
+    "value": {}
+  },
+  "e4eca7a0-2b79-4bc2-a0c8-5bbbe483aade": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_dq.png",
+    "value": {}
+  },
+  "50a41e41-9fe8-4949-91eb-36ac8a7a77a2": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h10.png",
+    "value": {}
+  },
+  "f9c5fe11-451b-4bbc-b248-41c3794ee2cb": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h2.png",
+    "value": {}
+  },
+  "6806229a-a417-4761-a604-1ac3acc65832": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h3.png",
+    "value": {}
+  },
+  "2bb16743-f4ac-4cf8-99b9-96b6f84031a4": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h4.png",
+    "value": {}
+  },
+  "67254231-31f4-4029-b214-ae4fe7ca123c": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h5.png",
+    "value": {}
+  },
+  "6dc316d2-0567-4979-aaa1-7ac3b9b5c38a": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h6.png",
+    "value": {}
+  },
+  "855397b8-be11-46a4-8d50-2f5720f70fa2": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h7.png",
+    "value": {}
+  },
+  "e1f873a0-a622-48bb-9e16-90abe66f8b1e": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h8.png",
+    "value": {}
+  },
+  "2257da93-b962-42af-ad53-46d2d9c0d627": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_h9.png",
+    "value": {}
+  },
+  "136fa1ef-f469-4455-8bcf-fc85e9295524": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_ha.png",
+    "value": {}
+  },
+  "42d2dce5-68ad-4d46-9a08-bb3f3a6cda9a": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_hj.png",
+    "value": {}
+  },
+  "2f171773-5c2d-4cf0-a9b7-286b0210dc8d": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_hk.png",
+    "value": {}
+  },
+  "ac1b54d9-1ae3-429c-94d6-cd75575fb64c": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_hq.png",
+    "value": {}
+  },
+  "c2d91dc7-d598-40d3-ba41-d0c4574a4b0e": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s10.png",
+    "value": {}
+  },
+  "76db33be-9976-4d01-9712-bb79d7543c85": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s2.png",
+    "value": {}
+  },
+  "9ab7efc8-e022-4e30-aaa4-f4a534ec9a9d": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s3.png",
+    "value": {}
+  },
+  "dc10b0bb-fbe1-47b2-b074-a05ac5ba8f30": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s4.png",
+    "value": {}
+  },
+  "0cf35c64-40ee-4e39-b14b-2f8e911fadd7": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s5.png",
+    "value": {}
+  },
+  "c95e991a-6211-4f2a-8d5c-6143a60b5185": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s6.png",
+    "value": {}
+  },
+  "ee502e46-dddd-4d45-bbe4-07b74ec5186b": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s7.png",
+    "value": {}
+  },
+  "30c8a597-af67-4fa6-ad99-053e9c5ec062": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s8.png",
+    "value": {}
+  },
+  "66eb0bee-080f-46f4-be00-0c606faa4d17": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_s9.png",
+    "value": {}
+  },
+  "01da797d-19e0-4a2c-a4d9-d590f00f0b5a": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_sa.png",
+    "value": {}
+  },
+  "5e98e5d4-f53c-49ec-8f2c-2bbf372885b9": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_sj.png",
+    "value": {}
+  },
+  "9c49a586-2452-4ad7-bf11-6956d3b0c59c": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_sk.png",
+    "value": {}
+  },
+  "837d86ec-87c7-4b5c-a7e9-6d0a51641269": {
+    "url": "db://assets/Image Assets/cards/Set_A/small/card_a_sq.png",
+    "value": {}
+  },
+  "1ea5cc5c-98a6-497a-902d-2331cf79636c": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c10_large.png",
+    "value": {}
+  },
+  "f73e0ff7-90bf-489d-9aac-167b9e854245": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c2_large.png",
+    "value": {}
+  },
+  "9314e12e-32b1-4b31-89bf-2550cef53a88": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c3_large.png",
+    "value": {}
+  },
+  "947114fe-d0f5-45e2-9453-dea4536228f0": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c4_large.png",
+    "value": {}
+  },
+  "ffd5f133-3b42-4888-ac38-743e1267c70d": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c5_large.png",
+    "value": {}
+  },
+  "6fadf997-2ea2-4b61-9efb-619e2664c652": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c6_large.png",
+    "value": {}
+  },
+  "e5580d46-f350-48ef-a858-731b07c2f0e9": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c7_large.png",
+    "value": {}
+  },
+  "461be0f0-0ae1-4341-b8a5-7ef5f4868c4e": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c8_large.png",
+    "value": {}
+  },
+  "3529ca36-f6ba-476c-ae1b-9262eacdf2ad": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_c9_large.png",
+    "value": {}
+  },
+  "d088d148-c26c-4b35-8344-4a11dbe0c0d2": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_ca_large.png",
+    "value": {}
+  },
+  "9ae730af-5d67-4beb-9a96-f231f2dd8758": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_cj_large.png",
+    "value": {}
+  },
+  "dec4bbb5-e967-40fb-8b40-eb6511364e7a": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_ck_large.png",
+    "value": {}
+  },
+  "d07d456a-fc1b-4f37-9227-0f7caac1d9bf": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_cq_large.png",
+    "value": {}
+  },
+  "3dd96786-43a5-45ed-9f3e-8fa4493a8eac": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d10_large.png",
+    "value": {}
+  },
+  "d1d3e09d-9fcb-4b4b-b8f8-4aee5af32e21": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d2_large.png",
+    "value": {}
+  },
+  "e431c02c-4461-4e36-a1bc-c46e14dd6c6a": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d3_large.png",
+    "value": {}
+  },
+  "992885ae-7668-445d-be7b-3122612d7b8a": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d4_large.png",
+    "value": {}
+  },
+  "fb45f850-4969-4e73-b099-a10611a63872": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d5_large.png",
+    "value": {}
+  },
+  "7785018a-5883-4662-bddf-8427dbef3d58": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d6_large.png",
+    "value": {}
+  },
+  "ce2ca043-c69e-40eb-9f58-94477e1da67a": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d7_large.png",
+    "value": {}
+  },
+  "a696459a-de7e-4907-b651-32241525f9ec": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d8_large.png",
+    "value": {}
+  },
+  "6e47df8a-e205-469b-9148-c253adf62f16": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_d9_large.png",
+    "value": {}
+  },
+  "a648ed67-1052-4f89-bdae-5ffe143fffb4": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_da_large.png",
+    "value": {}
+  },
+  "d82da82d-faf5-49cf-b910-4c96287a7db2": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_dj_large.png",
+    "value": {}
+  },
+  "836bbc7b-6df7-40ca-9f81-4561e95233a3": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_dk_large.png",
+    "value": {}
+  },
+  "03e2af5f-71d2-4df4-845a-e47c388ef85c": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_dq_large.png",
+    "value": {}
+  },
+  "6fb7c541-b694-4821-910b-dc69ba04b3f6": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h10_large.png",
+    "value": {}
+  },
+  "e8c81403-5b1d-43ab-b453-08fbaaa4703d": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h2_large.png",
+    "value": {}
+  },
+  "d59d8a23-7bb8-4fd7-ab2a-82655f3f0679": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h3_large.png",
+    "value": {}
+  },
+  "219d7913-b604-4f71-ad68-ea395919fec9": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h4_large.png",
+    "value": {}
+  },
+  "9f1cefc9-e3f9-4dcd-80fc-3f2fe225d43c": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h5_large.png",
+    "value": {}
+  },
+  "3f2935d2-4561-43b1-9cf2-4f97abdeecc0": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h6_large.png",
+    "value": {}
+  },
+  "9b3684fc-497d-498c-9f28-1250e4e4fa61": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h7_large.png",
+    "value": {}
+  },
+  "e0124806-6e11-4f9d-86e3-4976d97d7f1d": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h8_large.png",
+    "value": {}
+  },
+  "7fd798cf-8577-4225-9a48-9c7f1e795831": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_h9_large.png",
+    "value": {}
+  },
+  "1c584fb0-6975-4bde-bf8f-cf5b9fc9ddb0": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_ha_large.png",
+    "value": {}
+  },
+  "6f32b170-b47b-4a43-a179-d2b55bb751ae": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_hj_large.png",
+    "value": {}
+  },
+  "b958ae57-5476-4968-a848-b2993b198bb9": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_hk_large.png",
+    "value": {}
+  },
+  "70bab4e4-21a8-49b2-84ef-56f90eff46ca": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_hq_large.png",
+    "value": {}
+  },
+  "92ef394f-e0ba-4540-8528-b39b195b6a84": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s10_large.png",
+    "value": {}
+  },
+  "aa584850-2286-48d0-bbd6-a3f9c7267dd0": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s2_large.png",
+    "value": {}
+  },
+  "c9cc6466-ec38-4fbb-aa9b-3218e57db014": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s3_large.png",
+    "value": {}
+  },
+  "a6205c8f-1d28-4d31-aa75-c9053a63cade": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s4_large.png",
+    "value": {}
+  },
+  "4789b1a4-2eae-4aad-84bb-4b4075cd0317": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s5_large.png",
+    "value": {}
+  },
+  "06adb89b-8c25-4c93-bf75-2dbd792414a3": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s6_large.png",
+    "value": {}
+  },
+  "3a7b00c6-6ade-4496-b6de-f85112313d45": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s7_large.png",
+    "value": {}
+  },
+  "65bc6fae-bcb6-4c07-8e37-330f1e923336": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s8_large.png",
+    "value": {}
+  },
+  "3fbd070f-141f-475e-8238-0d8975a2b99f": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_s9_large.png",
+    "value": {}
+  },
+  "ffe25ae6-8d0b-47f3-b260-2ac242be6c0a": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_sa_large.png",
+    "value": {}
+  },
+  "b2ebb412-f6b0-4e4e-857a-1731484c8d00": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_sj_large.png",
+    "value": {}
+  },
+  "1ac7171e-e023-480a-805a-e29299f57270": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_sk_large.png",
+    "value": {}
+  },
+  "c6d29350-d4be-4cf5-8323-5d2005cf3b69": {
+    "url": "db://assets/Image Assets/cards/Set_B/large/card_b_sq_large.png",
+    "value": {}
+  },
+  "6c730423-d9b3-4656-98fb-baeeb3134109": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c10.png",
+    "value": {}
+  },
+  "0267a9a9-0fa7-4ffd-b97d-8a34efe80658": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c2.png",
+    "value": {}
+  },
+  "e478493e-35ed-48d4-bb47-bbca1f75ad9d": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c3.png",
+    "value": {}
+  },
+  "bb5a5dbc-cdaa-4894-a7a9-0593e5faa38d": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c4.png",
+    "value": {}
+  },
+  "e913021d-ffb9-4bed-94a2-a3368425003e": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c5.png",
+    "value": {}
+  },
+  "175dd4ba-56d7-4a0e-9576-ad0534312b60": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c6.png",
+    "value": {}
+  },
+  "123d7c1f-8b3c-4671-8adb-fd30b42ce9d8": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c7.png",
+    "value": {}
+  },
+  "f046d2ca-1d4f-4f5b-81a8-c110598899e8": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c8.png",
+    "value": {}
+  },
+  "10e68983-8702-43b0-b1a7-3812029b0d40": {
+    "url": "db://assets/Image Assets/cards/small/card_b_c9.png",
+    "value": {}
+  },
+  "0398751a-cfd3-46d9-a1a5-c36cf15ead3b": {
+    "url": "db://assets/Image Assets/cards/small/card_b_ca.png",
+    "value": {}
+  },
+  "ffb0124b-9e30-49ef-8186-75460302ceda": {
+    "url": "db://assets/Image Assets/cards/small/card_b_cj.png",
+    "value": {}
+  },
+  "ffbe4175-7e15-434b-b80a-c7f1368f38cd": {
+    "url": "db://assets/Image Assets/cards/small/card_b_ck.png",
+    "value": {}
+  },
+  "c4b9adba-b0e4-4dae-8c9d-69843fdf9d84": {
+    "url": "db://assets/Image Assets/cards/small/card_b_cq.png",
+    "value": {}
+  },
+  "736275c2-a97a-4754-aec0-8959b5236ea5": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d10.png",
+    "value": {}
+  },
+  "140f8d78-4b0e-4297-a8ab-6064af7377a4": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d2.png",
+    "value": {}
+  },
+  "1bb1627f-9a64-4d12-bab2-cb049fcad268": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d3.png",
+    "value": {}
+  },
+  "65e32d5b-8f5d-4ac2-b2e8-f281e15b6b50": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d4.png",
+    "value": {}
+  },
+  "f71a5deb-d444-4667-86e3-5f43d9170f59": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d5.png",
+    "value": {}
+  },
+  "568a5a9b-3c6c-4384-bbb3-276a75ecc935": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d6.png",
+    "value": {}
+  },
+  "a7ee5d95-832f-4822-a08e-c612cf8111fc": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d7.png",
+    "value": {}
+  },
+  "1e121a78-7f4a-48b1-a345-9732d81ac056": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d8.png",
+    "value": {}
+  },
+  "7b8793a0-dbe5-4b6e-ad31-4128c3e30ee8": {
+    "url": "db://assets/Image Assets/cards/small/card_b_d9.png",
+    "value": {}
+  },
+  "320ae7a7-2668-4ac7-8532-5b5f203766d8": {
+    "url": "db://assets/Image Assets/cards/small/card_b_da.png",
+    "value": {}
+  },
+  "aeaf47d9-46ea-4574-a6ca-7da1c27fd7ef": {
+    "url": "db://assets/Image Assets/cards/small/card_b_dj.png",
+    "value": {}
+  },
+  "5842aafe-e389-453b-987d-4498ec4f336d": {
+    "url": "db://assets/Image Assets/cards/small/card_b_dk.png",
+    "value": {}
+  },
+  "54c311a3-1dc8-4157-a1a3-fe54fe9aa3fc": {
+    "url": "db://assets/Image Assets/cards/small/card_b_dq.png",
+    "value": {}
+  },
+  "9fbdab39-036a-4cae-8a1a-eb278bb81808": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h10.png",
+    "value": {}
+  },
+  "6e0e0dc6-f865-4cbb-9221-3b9639deeefa": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h2.png",
+    "value": {}
+  },
+  "8f632919-673e-42c2-aeec-ec174d685ebd": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h3.png",
+    "value": {}
+  },
+  "05bac137-8778-47b3-91c2-723111aec2ae": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h4.png",
+    "value": {}
+  },
+  "00bd77be-b1cc-4b6b-b84c-4ee4ab3c1a49": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h5.png",
+    "value": {}
+  },
+  "5c8a674b-800a-4ab1-9a9b-1470b527b246": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h6.png",
+    "value": {}
+  },
+  "4baa27ec-5147-4942-aa23-36187dd16d64": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h7.png",
+    "value": {}
+  },
+  "78b168a6-01d1-4296-b0b1-12bc5fbd1829": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h8.png",
+    "value": {}
+  },
+  "54c117a0-207d-406f-9c07-b080240b9518": {
+    "url": "db://assets/Image Assets/cards/small/card_b_h9.png",
+    "value": {}
+  },
+  "f5404be1-396e-4e6f-b838-aaae1b336335": {
+    "url": "db://assets/Image Assets/cards/small/card_b_ha.png",
+    "value": {}
+  },
+  "1ed85cb0-8c3f-4edd-b3fe-51b955bdff7f": {
+    "url": "db://assets/Image Assets/cards/small/card_b_hj.png",
+    "value": {}
+  },
+  "ecbb8fc3-0524-43c5-b996-c98ae6f9e4d7": {
+    "url": "db://assets/Image Assets/cards/small/card_b_hk.png",
+    "value": {}
+  },
+  "fd75ef18-fc49-453f-83eb-9620035259e7": {
+    "url": "db://assets/Image Assets/cards/small/card_b_hq.png",
+    "value": {}
+  },
+  "64e23148-602e-4083-ab42-82967b356b05": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s10.png",
+    "value": {}
+  },
+  "4098e7f1-0f74-4d69-a64c-5e09a7b3f3fd": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s2.png",
+    "value": {}
+  },
+  "7822c242-60f0-4dcd-8b8b-7c1bbc95f47b": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s3.png",
+    "value": {}
+  },
+  "25f6fa73-67ab-4e82-b37f-c99bb1e6dd92": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s4.png",
+    "value": {}
+  },
+  "a8874257-b154-4acf-bf47-172c2f83ce7b": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s5.png",
+    "value": {}
+  },
+  "feb072fa-e147-4786-bd7c-17c82484a383": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s6.png",
+    "value": {}
+  },
+  "8b13a051-46c7-42cd-8dcd-5d2b96969bc8": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s7.png",
+    "value": {}
+  },
+  "700e4a28-ba82-42d5-b4c3-e8cd235ec85e": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s8.png",
+    "value": {}
+  },
+  "a37794ae-0651-4d70-b9db-1b20b9d5cb2b": {
+    "url": "db://assets/Image Assets/cards/small/card_b_s9.png",
+    "value": {}
+  },
+  "1a8b57f4-3570-4e84-8a06-b8a88ce461df": {
+    "url": "db://assets/Image Assets/cards/small/card_b_sa.png",
+    "value": {}
+  },
+  "504c88ec-a3bc-4115-8d3d-0587b7600ab9": {
+    "url": "db://assets/Image Assets/cards/small/card_b_sj.png",
+    "value": {}
+  },
+  "35a6bcad-6adc-4088-817f-37017be472c6": {
+    "url": "db://assets/Image Assets/cards/small/card_b_sk.png",
+    "value": {}
+  },
+  "d59d2ff6-0bcf-44c9-b19b-b7fa06ac847e": {
+    "url": "db://assets/Image Assets/cards/small/card_b_sq.png",
+    "value": {}
+  },
+  "26cf9da8-9e91-4c2d-ba06-5e72a8c5d902": {
+    "url": "db://assets/NewComponent.ts",
+    "value": {}
+  },
+  "b2734858-705b-48bf-8898-58806343b802": {
+    "url": "db://assets/Script",
+    "value": {}
+  },
+  "14581c44-c957-443f-8168-49fa1e684a59": {
+    "url": "db://assets/Scene",
+    "value": {}
+  },
+  "6164111e-fdf6-4bec-88f0-047c515addb0": {
+    "url": "db://assets/Scene/Main.scene",
+    "value": {}
+  },
+  "c389a1cc-6f81-422e-8e00-fefb9271ccd1": {
+    "url": "db://assets/Image Assets/BackGround.jpg",
+    "value": {}
+  },
+  "47869f75-eab5-4867-9712-3ba946bb4a75": {
+    "url": "db://assets/Image Assets/decks/small",
+    "value": {}
+  },
+  "f64ad112-a3e0-4b5a-92dd-9d7a43d00da1": {
+    "url": "db://assets/Script/GameManager.ts",
+    "value": {}
+  },
+  "670162d8-df7a-4f8e-9305-edb91dc16ca5": {
+    "url": "db://assets/Script/GameScreen.ts",
+    "value": {}
+  },
+  "537dac7e-8fc2-4f77-a431-5d27bc0c184f": {
+    "url": "db://assets/Script/MovingOfCard.ts",
+    "value": {}
+  },
+  "6d331d6b-c939-4242-9117-759de79ae4a3": {
+    "url": "db://assets/Script/GameConstant.ts",
+    "value": {}
+  },
+  "615f5629-06de-402a-846f-41b3c139b345": {
+    "url": "db://assets/Script/ReaveldCard.ts",
+    "value": {}
+  },
+  "0fbb5fe5-d260-4853-ab78-d313c62c6eb9": {
+    "url": "db://assets/Prefeb",
+    "value": {}
+  },
+  "cc93621b-feef-4cf1-a10e-1254080c6fd1": {
+    "url": "db://assets/Prefeb/Card.prefab",
+    "value": {}
+  },
+  "c3079222-4f24-44b2-802b-35a992eec8de": {
+    "url": "db://assets/Prefeb/Card.prefab",
+    "value": {}
+  },
+  "f8dae32f-ca4c-4227-a997-d07e5f9cd5b4": {
+    "url": "db://assets/Image Assets/CardType/diamonds.png",
+    "value": {}
+  },
+  "115808c5-d662-4f4b-ac13-9d2a76d600c4": {
+    "url": "db://assets/Image Assets/CardType/flowers.png",
+    "value": {}
+  },
+  "45c981a8-4e1d-430e-8b60-a694aeb3648c": {
+    "url": "db://assets/Image Assets/CardType/hearts.png",
+    "value": {}
+  },
+  "c1d90d9a-60ff-4f37-997a-9e6ede3843bf": {
+    "url": "db://assets/Image Assets/CardType/spades.png",
+    "value": {}
+  },
+  "e902fc96-da12-4468-bbe3-8995d0139092": {
+    "url": "db://assets/Image Assets/CardType",
+    "value": {}
+  },
+  "1b63b449-cabc-4ae7-a07e-c65102520706": {
+    "url": "db://assets/Script/card.json",
+    "value": {}
+  },
+  "94050352-2735-402f-a544-98c22f8b7346": {
+    "url": "db://assets/Script/DeckUtile.ts",
+    "value": {}
+  },
+  "8c8740d7-e4dc-4210-a883-fafa9c48f2c5": {
+    "url": "db://assets/Script/Card.ts",
+    "value": {}
+  }
+}

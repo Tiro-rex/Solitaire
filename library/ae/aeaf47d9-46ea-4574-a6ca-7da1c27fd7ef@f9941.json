@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_b_dj",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 130,
+      "height": 202
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 130,
+      "height": 202
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "aeaf47d9-46ea-4574-a6ca-7da1c27fd7ef@6c48a",
+    "packable": true
+  }
+}

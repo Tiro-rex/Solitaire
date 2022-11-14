@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hearts",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 8,
+      "width": 100,
+      "height": 85
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 100,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "45c981a8-4e1d-430e-8b60-a694aeb3648c@6c48a",
+    "packable": true
+  }
+}

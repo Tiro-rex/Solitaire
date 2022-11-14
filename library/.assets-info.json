@@ -1,0 +1,650 @@
+{
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets.meta": {
+    "time": 1668088782225.0117
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets": {
+    "time": 1668172589183.5247,
+    "uuid": "9c66d26b-785a-4639-85fa-a0f534952cf5",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards.meta": {
+    "time": 1668088791299.7256
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks.meta": {
+    "time": 1668088791300.723
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards": {
+    "time": 1668147046607.9202,
+    "uuid": "78044a79-d926-4ad5-b6ee-70d04e41d77c",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks": {
+    "time": 1668146877831.4768,
+    "uuid": "70df6f56-b6e2-469b-ba66-b0a9e3607bbf",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script.meta": {
+    "time": 1668088813008.4475
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script": {
+    "time": 1668411890431.2124,
+    "uuid": "b2734858-705b-48bf-8898-58806343b802",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Scene.meta": {
+    "time": 1668089256373.2454
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Scene": {
+    "time": 1668089311253.2769,
+    "uuid": "14581c44-c957-443f-8168-49fa1e684a59",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Scene\\Main.scene.meta": {
+    "time": 1668089311264.246
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Scene\\Main.scene": {
+    "time": 1668424470051.3313,
+    "uuid": "6164111e-fdf6-4bec-88f0-047c515addb0",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\BackGround.jpg.meta": {
+    "time": 1668146131912.5847
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\BackGround.jpg": {
+    "time": 1668146021338.5046,
+    "uuid": "c389a1cc-6f81-422e-8e00-fefb9271ccd1",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small.meta": {
+    "time": 1668146877839.4968
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_1.png.meta": {
+    "time": 1668146607147.8274
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_2.png.meta": {
+    "time": 1668146607139.827
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_3.png.meta": {
+    "time": 1668146607139.827
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_4.png.meta": {
+    "time": 1668146607155.8274
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_5.png.meta": {
+    "time": 1668146607163.8274
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_6.png.meta": {
+    "time": 1668146607195.843
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small": {
+    "time": 1668088791166.0835,
+    "uuid": "47869f75-eab5-4867-9712-3ba946bb4a75",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_1.png": {
+    "time": 1668088716301.5886,
+    "uuid": "00dcc5df-a664-4e01-8881-b56a7d77ca9e",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_4.png": {
+    "time": 1668088716339.4883,
+    "uuid": "3d361a75-1b53-4d6d-abd1-f2d076db4eb2",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_5.png": {
+    "time": 1668088716352.4531,
+    "uuid": "a1676583-c738-4dfe-b489-646048a2c64a",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_2.png": {
+    "time": 1668088716314.5542,
+    "uuid": "a5a1955f-cba0-47dc-9297-0c299c108a0a",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_3.png": {
+    "time": 1668088716326.5217,
+    "uuid": "4c2c13b5-6a0f-4df1-b063-753e13ad588f",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\decks\\small\\deck_6.png": {
+    "time": 1668088716365.4197,
+    "uuid": "e3962518-a7ea-42e2-9482-2f09dbb38bbf",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small.meta": {
+    "time": 1668088791314.6858
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small": {
+    "time": 1668088791297.7312,
+    "uuid": "f342e60c-85a6-4c9e-a330-be53e4ad6ab3",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c3.png.meta": {
+    "time": 1668146972077.7495
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c3.png": {
+    "time": 1668088714900.2415,
+    "uuid": "e478493e-35ed-48d4-bb47-bbca1f75ad9d",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c2.png.meta": {
+    "time": 1668146927082.6052
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c2.png": {
+    "time": 1668088714887.276,
+    "uuid": "0267a9a9-0fa7-4ffd-b97d-8a34efe80658",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c10.png.meta": {
+    "time": 1668146971981.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c10.png": {
+    "time": 1668088714875.3062,
+    "uuid": "6c730423-d9b3-4656-98fb-baeeb3134109",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c4.png.meta": {
+    "time": 1668146972069.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c4.png": {
+    "time": 1668088714912.2097,
+    "uuid": "bb5a5dbc-cdaa-4894-a7a9-0593e5faa38d",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c5.png.meta": {
+    "time": 1668146972053.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c5.png": {
+    "time": 1668088714925.1746,
+    "uuid": "e913021d-ffb9-4bed-94a2-a3368425003e",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c6.png.meta": {
+    "time": 1668146972053.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c6.png": {
+    "time": 1668088714937.1433,
+    "uuid": "175dd4ba-56d7-4a0e-9576-ad0534312b60",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c7.png.meta": {
+    "time": 1668146972029.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c7.png": {
+    "time": 1668088714951.106,
+    "uuid": "123d7c1f-8b3c-4671-8adb-fd30b42ce9d8",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c8.png.meta": {
+    "time": 1668146972021.75
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c8.png": {
+    "time": 1668088714963.073,
+    "uuid": "f046d2ca-1d4f-4f5b-81a8-c110598899e8",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c9.png.meta": {
+    "time": 1668146971997.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_c9.png": {
+    "time": 1668088714977.0376,
+    "uuid": "10e68983-8702-43b0-b1a7-3812029b0d40",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_ca.png.meta": {
+    "time": 1668146971957.7488
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_ca.png": {
+    "time": 1668088714990.0022,
+    "uuid": "0398751a-cfd3-46d9-a1a5-c36cf15ead3b",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_cj.png.meta": {
+    "time": 1668146971949.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_cj.png": {
+    "time": 1668088715001.969,
+    "uuid": "ffb0124b-9e30-49ef-8186-75460302ceda",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_ck.png.meta": {
+    "time": 1668146971949.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_ck.png": {
+    "time": 1668088715015.9316,
+    "uuid": "ffbe4175-7e15-434b-b80a-c7f1368f38cd",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_cq.png.meta": {
+    "time": 1668146971933.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_cq.png": {
+    "time": 1668088715027.9001,
+    "uuid": "c4b9adba-b0e4-4dae-8c9d-69843fdf9d84",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d10.png.meta": {
+    "time": 1668146971781.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d10.png": {
+    "time": 1668088715040.8652,
+    "uuid": "736275c2-a97a-4754-aec0-8959b5236ea5",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d2.png.meta": {
+    "time": 1668146971893.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d2.png": {
+    "time": 1668088715052.8684,
+    "uuid": "140f8d78-4b0e-4297-a8ab-6064af7377a4",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d5.png.meta": {
+    "time": 1668146971845.7507
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d5.png": {
+    "time": 1668088715090.7322,
+    "uuid": "f71a5deb-d444-4667-86e3-5f43d9170f59",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d3.png.meta": {
+    "time": 1668146971901.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d3.png": {
+    "time": 1668088715065.8262,
+    "uuid": "1bb1627f-9a64-4d12-bab2-cb049fcad268",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d4.png.meta": {
+    "time": 1668146971877.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d4.png": {
+    "time": 1668088715077.7668,
+    "uuid": "65e32d5b-8f5d-4ac2-b2e8-f281e15b6b50",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d6.png.meta": {
+    "time": 1668146971845.7507
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d6.png": {
+    "time": 1668088715102.7,
+    "uuid": "568a5a9b-3c6c-4384-bbb3-276a75ecc935",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d7.png.meta": {
+    "time": 1668146971797.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d7.png": {
+    "time": 1668088715114.668,
+    "uuid": "a7ee5d95-832f-4822-a08e-c612cf8111fc",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d9.png.meta": {
+    "time": 1668146971773.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d9.png": {
+    "time": 1668088715139.6016,
+    "uuid": "7b8793a0-dbe5-4b6e-ad31-4128c3e30ee8",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d8.png.meta": {
+    "time": 1668146971813.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_d8.png": {
+    "time": 1668088715127.6345,
+    "uuid": "1e121a78-7f4a-48b1-a345-9732d81ac056",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_da.png.meta": {
+    "time": 1668146971773.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_da.png": {
+    "time": 1668088715152.5664,
+    "uuid": "320ae7a7-2668-4ac7-8532-5b5f203766d8",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_dj.png.meta": {
+    "time": 1668146971725.7505
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_dj.png": {
+    "time": 1668088715164.5344,
+    "uuid": "aeaf47d9-46ea-4574-a6ca-7da1c27fd7ef",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_dk.png.meta": {
+    "time": 1668146971717.753
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_dk.png": {
+    "time": 1668088715177.501,
+    "uuid": "5842aafe-e389-453b-987d-4498ec4f336d",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h2.png.meta": {
+    "time": 1668146971693.7498
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h2.png": {
+    "time": 1668088715216.3965,
+    "uuid": "6e0e0dc6-f865-4cbb-9221-3b9639deeefa",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h10.png.meta": {
+    "time": 1668146971549.7495
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h10.png": {
+    "time": 1668088715202.4333,
+    "uuid": "9fbdab39-036a-4cae-8a1a-eb278bb81808",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_dq.png.meta": {
+    "time": 1668146971685.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_dq.png": {
+    "time": 1668088715190.465,
+    "uuid": "54c311a3-1dc8-4157-a1a3-fe54fe9aa3fc",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h3.png.meta": {
+    "time": 1668146971685.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h3.png": {
+    "time": 1668088715228.3638,
+    "uuid": "8f632919-673e-42c2-aeec-ec174d685ebd",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h4.png.meta": {
+    "time": 1668146971653.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h4.png": {
+    "time": 1668088715241.3303,
+    "uuid": "05bac137-8778-47b3-91c2-723111aec2ae",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h6.png.meta": {
+    "time": 1668146971621.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h6.png": {
+    "time": 1668088715267.2605,
+    "uuid": "5c8a674b-800a-4ab1-9a9b-1470b527b246",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h5.png.meta": {
+    "time": 1668146971653.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h5.png": {
+    "time": 1668088715253.2976,
+    "uuid": "00bd77be-b1cc-4b6b-b84c-4ee4ab3c1a49",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h7.png.meta": {
+    "time": 1668146971613.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h7.png": {
+    "time": 1668088715279.2283,
+    "uuid": "4baa27ec-5147-4942-aa23-36187dd16d64",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h8.png.meta": {
+    "time": 1668146971613.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h8.png": {
+    "time": 1668088715292.194,
+    "uuid": "78b168a6-01d1-4296-b0b1-12bc5fbd1829",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h9.png.meta": {
+    "time": 1668146971581.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_h9.png": {
+    "time": 1668088715305.1606,
+    "uuid": "54c117a0-207d-406f-9c07-b080240b9518",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_ha.png.meta": {
+    "time": 1668146971573.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_ha.png": {
+    "time": 1668088715318.1238,
+    "uuid": "f5404be1-396e-4e6f-b838-aaae1b336335",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_hj.png.meta": {
+    "time": 1668146971541.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_hj.png": {
+    "time": 1668088715330.0918,
+    "uuid": "1ed85cb0-8c3f-4edd-b3fe-51b955bdff7f",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_hk.png.meta": {
+    "time": 1668146971533.7498
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_hk.png": {
+    "time": 1668088715343.059,
+    "uuid": "ecbb8fc3-0524-43c5-b996-c98ae6f9e4d7",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_hq.png.meta": {
+    "time": 1668146971485.7488
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_hq.png": {
+    "time": 1668088715356.023,
+    "uuid": "fd75ef18-fc49-453f-83eb-9620035259e7",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s10.png.meta": {
+    "time": 1668146971325.75
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s10.png": {
+    "time": 1668088715367.9902,
+    "uuid": "64e23148-602e-4083-ab42-82967b356b05",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s2.png.meta": {
+    "time": 1668146971477.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s2.png": {
+    "time": 1668088715379.9587,
+    "uuid": "4098e7f1-0f74-4d69-a64c-5e09a7b3f3fd",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s3.png.meta": {
+    "time": 1668146971485.7488
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s3.png": {
+    "time": 1668088715392.9236,
+    "uuid": "7822c242-60f0-4dcd-8b8b-7c1bbc95f47b",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s4.png.meta": {
+    "time": 1668146971477.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s4.png": {
+    "time": 1668088715405.89,
+    "uuid": "25f6fa73-67ab-4e82-b37f-c99bb1e6dd92",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s5.png.meta": {
+    "time": 1668146971445.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s5.png": {
+    "time": 1668088715417.858,
+    "uuid": "a8874257-b154-4acf-bf47-172c2f83ce7b",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s6.png.meta": {
+    "time": 1668146971413.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s6.png": {
+    "time": 1668088715430.8228,
+    "uuid": "feb072fa-e147-4786-bd7c-17c82484a383",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s7.png.meta": {
+    "time": 1668146971405.7495
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s7.png": {
+    "time": 1668088715442.7903,
+    "uuid": "8b13a051-46c7-42cd-8dcd-5d2b96969bc8",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s8.png.meta": {
+    "time": 1668146971405.7495
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s8.png": {
+    "time": 1668088715455.7563,
+    "uuid": "700e4a28-ba82-42d5-b4c3-e8cd235ec85e",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s9.png.meta": {
+    "time": 1668146971397.749
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_s9.png": {
+    "time": 1668088715468.7212,
+    "uuid": "a37794ae-0651-4d70-b9db-1b20b9d5cb2b",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sa.png.meta": {
+    "time": 1668146971277.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sa.png": {
+    "time": 1668088715481.687,
+    "uuid": "1a8b57f4-3570-4e84-8a06-b8a88ce461df",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sq.png.meta": {
+    "time": 1668146971277.7493
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sq.png": {
+    "time": 1668088715516.8457,
+    "uuid": "d59d2ff6-0bcf-44c9-b19b-b7fa06ac847e",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sj.png.meta": {
+    "time": 1668146971285.7495
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sj.png": {
+    "time": 1668088715493.7434,
+    "uuid": "504c88ec-a3bc-4115-8d3d-0587b7600ab9",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sk.png.meta": {
+    "time": 1668146971309.7495
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\cards\\small\\card_b_sk.png": {
+    "time": 1668088715504.6814,
+    "uuid": "35a6bcad-6adc-4088-817f-37017be472c6",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\MovingOfCard.ts.meta": {
+    "time": 1668148118278.1086
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\MovingOfCard.ts": {
+    "time": 1668148118266.8909,
+    "uuid": "537dac7e-8fc2-4f77-a431-5d27bc0c184f",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\GameConstant.ts.meta": {
+    "time": 1668148157899.9583
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\GameConstant.ts": {
+    "time": 1668421390087.6292,
+    "uuid": "6d331d6b-c939-4242-9117-759de79ae4a3",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\GameScreen.ts.meta": {
+    "time": 1668148088282.7173
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\GameScreen.ts": {
+    "time": 1668424408574.462,
+    "uuid": "670162d8-df7a-4f8e-9305-edb91dc16ca5",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\GameManager.ts.meta": {
+    "time": 1668148070675.3774
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\GameManager.ts": {
+    "time": 1668411467867.027,
+    "uuid": "f64ad112-a3e0-4b5a-92dd-9d7a43d00da1",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\ReaveldCard.ts.meta": {
+    "time": 1668150731228.6404
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\ReaveldCard.ts": {
+    "time": 1668423579968.856,
+    "uuid": "615f5629-06de-402a-846f-41b3c139b345",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Prefeb.meta": {
+    "time": 1668166440604.8557
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Prefeb": {
+    "time": 1668171266156.1687,
+    "uuid": "0fbb5fe5-d260-4853-ab78-d313c62c6eb9",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Prefeb\\Card.prefab.meta": {
+    "time": 1668171266236.166
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Prefeb\\Card.prefab": {
+    "time": 1668423229667.7537,
+    "uuid": "c3079222-4f24-44b2-802b-35a992eec8de",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType.meta": {
+    "time": 1668172583927.2969
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType": {
+    "time": 1668172589183.5247,
+    "uuid": "e902fc96-da12-4468-bbe3-8995d0139092",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\flowers.png.meta": {
+    "time": 1668172597835.9956
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\flowers.png": {
+    "time": 1668172479373.325,
+    "uuid": "115808c5-d662-4f4b-ac13-9d2a76d600c4",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\hearts.png.meta": {
+    "time": 1668172597835.9956
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\hearts.png": {
+    "time": 1668172483464.8713,
+    "uuid": "45c981a8-4e1d-430e-8b60-a694aeb3648c",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\diamonds.png.meta": {
+    "time": 1668172597835.9956
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\diamonds.png": {
+    "time": 1668172473480.2595,
+    "uuid": "f8dae32f-ca4c-4227-a997-d07e5f9cd5b4",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\spades.png.meta": {
+    "time": 1668172597843.9946
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Image Assets\\CardType\\spades.png": {
+    "time": 1668172487374.1274,
+    "uuid": "c1d90d9a-60ff-4f37-997a-9e6ede3843bf",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\card.json.meta": {
+    "time": 1668402405155.7239
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\card.json": {
+    "time": 1668402386468.343,
+    "uuid": "1b63b449-cabc-4ae7-a07e-c65102520706",
+    "missing": false
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\Card.ts.meta": {
+    "time": 1668405021799.884
+  },
+  "D:\\GAMIXLABS\\Solitaire\\assets\\Script\\Card.ts": {
+    "time": 1668421637736.6504,
+    "uuid": "8c8740d7-e4dc-4210-a883-fafa9c48f2c5",
+    "missing": false
+  }
+}

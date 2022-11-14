@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/GAMIXLABS/Solitaire/assets/Script/GameConstant.ts"],"names":["GAMECONSTANT","CARDCONSTANT"],"mappings":";;;;;;;;;;;;;;8BAAaA,Y,GAAa,E;;8BAIbC,Y,GAAa,CACtB;AADsB,O","sourcesContent":["export const GAMECONSTANT={\n\n}\n\nexport const CARDCONSTANT={\n    //\n}"]}

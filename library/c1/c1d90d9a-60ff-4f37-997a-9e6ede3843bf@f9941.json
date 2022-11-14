@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spades",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 98,
+      "height": 100
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 98,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c1d90d9a-60ff-4f37-997a-9e6ede3843bf@6c48a",
+    "packable": true
+  }
+}
