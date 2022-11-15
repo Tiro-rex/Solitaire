@@ -956,7 +956,7 @@
     "value": {}
   },
   "537dac7e-8fc2-4f77-a431-5d27bc0c184f": {
-    "url": "db://assets/Script/MovingOfCard.ts",
+    "url": "db://assets/Script/SetCrd.ts",
     "value": {}
   },
   "6d331d6b-c939-4242-9117-759de79ae4a3": {
@@ -1009,6 +1009,18 @@
   },
   "8c8740d7-e4dc-4210-a883-fafa9c48f2c5": {
     "url": "db://assets/Script/Card.ts",
+    "value": {}
+  },
+  "b1822d4a-bff5-4b8c-97ae-6c2f9ee16f77": {
+    "url": "db://assets/Script/GameLogic.ts",
+    "value": {}
+  },
+  "483462c0-1acc-4435-a21d-588677ce50ac": {
+    "url": "db://assets/Script/Pile.ts",
+    "value": {}
+  },
+  "d4d5d1b2-daab-4b40-82ca-02334e088a57": {
+    "url": "db://assets/Script/PileMaxFanOperation.ts",
     "value": {}
   }
 }

@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 14930.033699989319,
+      "mTimestamp": 21356.907599925995,
       "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
       "imports": [
         {
@@ -493,8 +493,8 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 14994.697800159454,
-      "chunkId": "f24891e8e38a2f9a13966f6e3cf69b2dabd1888a",
+      "mTimestamp": 4033591.692099571,
+      "chunkId": "0a9720cd6802460e9ee754bdc90c884642eb8e69",
       "imports": [
         {
           "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/Card.ts",
@@ -525,7 +525,7 @@
           }
         },
         {
-          "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts",
+          "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameLogic.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -534,49 +534,77 @@
             },
             "end": {
               "line": 5,
-              "column": 244
+              "column": 242
+            }
+          }
+        },
+        {
+          "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 258
+            },
+            "end": {
+              "line": 5,
+              "column": 319
             }
           }
         },
         {
           "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts",
-          "resolved": "__unresolved_3",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 260
-            },
-            "end": {
-              "line": 5,
-              "column": 320
-            }
-          }
-        },
-        {
-          "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/MovingOfCard.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
               "line": 5,
-              "column": 336
+              "column": 335
             },
             "end": {
               "line": 5,
-              "column": 398
+              "column": 395
+            }
+          }
+        },
+        {
+          "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/Pile.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 411
+            },
+            "end": {
+              "line": 5,
+              "column": 465
+            }
+          }
+        },
+        {
+          "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/PileMaxFanOperation.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 481
+            },
+            "end": {
+              "line": 5,
+              "column": 550
             }
           }
         },
         {
           "value": "file:///D:/GAMIXLABS/Solitaire/assets/Script/ReaveldCard.ts",
-          "resolved": "__unresolved_5",
+          "resolved": "__unresolved_7",
           "loc": {
             "start": {
               "line": 5,
-              "column": 414
+              "column": 566
             },
             "end": {
               "line": 5,
-              "column": 475
+              "column": 627
             }
           }
         }
@@ -600,6 +628,13 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameLogic.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts"
           },
           "messages": []
@@ -614,7 +649,14 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/MovingOfCard.ts"
+            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/Pile.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/PileMaxFanOperation.ts"
           },
           "messages": []
         },
@@ -724,10 +766,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts": {
       "mTimestamp": {
-        "mtime": 1668411467867.027,
+        "mtime": 1668499304333.9739,
         "uuid": "f64ad112-a3e0-4b5a-92dd-9d7a43d00da1"
       },
-      "chunkId": "43e91e0d599911334272224ca8ed61e278fe0ffd",
+      "chunkId": "109babb5ce7b46fb8a102a37d3c675bd16e58ddf",
       "imports": [
         {
           "value": "cc"
@@ -808,10 +850,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameConstant.ts": {
       "mTimestamp": {
-        "mtime": 1668421390087.6292,
+        "mtime": 1668501239264.2441,
         "uuid": "6d331d6b-c939-4242-9117-759de79ae4a3"
       },
-      "chunkId": "dd8bf838df06ba743c09604a5324be6e3e1465aa",
+      "chunkId": "f73ca75ca0a09a7fc754f6bb3415e64f65448a08",
       "imports": [
         {
           "value": "cc"
@@ -829,7 +871,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1668426874143,
+      "mTimestamp": 1668514597789,
       "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
       "imports": [],
       "type": "esm",
@@ -911,10 +953,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts": {
       "mTimestamp": {
-        "mtime": 1668424408574.462,
+        "mtime": 1668515789043.9568,
         "uuid": "670162d8-df7a-4f8e-9305-edb91dc16ca5"
       },
-      "chunkId": "bbd7e554a400bc36e15a26ac72ca6ff61832c685",
+      "chunkId": "9298247dfc551819a8964aa46491da99f4568065",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -928,11 +970,11 @@
           "loc": {
             "start": {
               "line": 2,
-              "column": 96
+              "column": 104
             },
             "end": {
               "line": 2,
-              "column": 100
+              "column": 108
             }
           }
         },
@@ -941,25 +983,39 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 4,
+              "line": 5,
               "column": 28
             },
             "end": {
-              "line": 4,
+              "line": 5,
               "column": 44
             }
           }
         },
         {
-          "value": "./ReaveldCard",
+          "value": "./GameManager",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
-              "line": 5,
+              "line": 6,
+              "column": 28
+            },
+            "end": {
+              "line": 6,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./ReaveldCard",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
               "column": 24
             },
             "end": {
-              "line": 5,
+              "line": 7,
               "column": 39
             }
           }
@@ -998,6 +1054,13 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/ReaveldCard.ts"
           },
           "messages": []
@@ -1006,11 +1069,15 @@
     },
     "file:///D:/GAMIXLABS/Solitaire/assets/Script/ReaveldCard.ts": {
       "mTimestamp": {
-        "mtime": 1668423579968.856,
+        "mtime": 1668517059908.4978,
         "uuid": "615f5629-06de-402a-846f-41b3c139b345"
       },
-      "chunkId": "a94679f4c4a72f38c261fa7a8dfe8780944728ae",
+      "chunkId": "0f5dae981accb2cea95ae4707ad3d7ac157a7c90",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -1019,11 +1086,25 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 98
+              "column": 105
             },
             "end": {
               "line": 1,
-              "column": 102
+              "column": 109
+            }
+          }
+        },
+        {
+          "value": "./GameConstant",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 37
+            },
+            "end": {
+              "line": 3,
+              "column": 53
             }
           }
         }
@@ -1033,6 +1114,13 @@
         {
           "resolved": {
             "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "cce:/internal/x/cc"
           },
           "messages": []
@@ -1041,6 +1129,13 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameConstant.ts"
           },
           "messages": []
         }
@@ -1122,10 +1217,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire/assets/Script/Card.ts": {
       "mTimestamp": {
-        "mtime": 1668421637736.6504,
+        "mtime": 1668516714588.7053,
         "uuid": "8c8740d7-e4dc-4210-a883-fafa9c48f2c5"
       },
-      "chunkId": "4d2a39d7e4471033a4c1c322af27af97f1cbaf3b",
+      "chunkId": "2ab2c6a4e83437164789419a1d3041fb3d5c806d",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1146,18 +1241,169 @@
               "column": 48
             }
           }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
         },
         {
-          "value": "./GameConstant",
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/GAMIXLABS/Solitaire/assets/Script/SetCrd.ts": {
+      "mTimestamp": {
+        "mtime": 1668428100787.19,
+        "uuid": "537dac7e-8fc2-4f77-a431-5d27bc0c184f"
+      },
+      "chunkId": "9673dd084ca7979cb4ff160af38dea0271cb1c05",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameLogic.ts": {
+      "mTimestamp": {
+        "mtime": 1668488399134.0754,
+        "uuid": "b1822d4a-bff5-4b8c-97ae-6c2f9ee16f77"
+      },
+      "chunkId": "bba262336afce67cca7d8e93ef9b068b07fe07bd",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/GAMIXLABS/Solitaire/assets/Script/Pile.ts": {
+      "mTimestamp": {
+        "mtime": 1668518588678.0398,
+        "uuid": "483462c0-1acc-4435-a21d-588677ce50ac"
+      },
+      "chunkId": "be31097628d3df0455e5d33eaee947696f1389ab",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 102
+            },
+            "end": {
+              "line": 1,
+              "column": 106
+            }
+          }
+        },
+        {
+          "value": "./GameManager",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 2,
+              "line": 4,
               "column": 28
             },
             "end": {
-              "line": 2,
-              "column": 44
+              "line": 4,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./PileMaxFanOperation",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 36
+            },
+            "end": {
+              "line": 6,
+              "column": 59
             }
           }
         }
@@ -1188,7 +1434,67 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameConstant.ts"
+            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/GAMIXLABS/Solitaire/assets/Script/PileMaxFanOperation.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/GAMIXLABS/Solitaire/assets/Script/PileMaxFanOperation.ts": {
+      "mTimestamp": {
+        "mtime": 1668510400006.209,
+        "uuid": "d4d5d1b2-daab-4b40-82ca-02334e088a57"
+      },
+      "chunkId": "2739e6e6a4c504af7dbe4ce4c17b92d4f388014e",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
           },
           "messages": []
         }

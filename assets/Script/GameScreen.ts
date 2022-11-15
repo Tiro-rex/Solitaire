@@ -1,7 +1,9 @@
 
-import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3 } from 'cc';
+import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3, Button } from 'cc';
 import { Card } from './Card';
+
 import { CARDS_ARRAY } from './GameConstant';
+import { GameManager } from './GameManager';
 import ReaveldCard from './ReaveldCard';
 const { ccclass, property } = _decorator;
 
@@ -11,6 +13,12 @@ export class GameScreen extends Component {
     cardPrefeb: Prefab;
     @property(Node)
     reaveldCard: Node;
+    @property(Button)
+    deck: (Button);
+    @property(GameManager)
+    game: GameManager;
+    @property(Node)
+    mainArea: Node
 
 
 
@@ -20,30 +28,34 @@ export class GameScreen extends Component {
 
 
     OnLoad() {
-
+        // Deck.make()
     }
     start() {
         this.arrayOfCard2 = CARDS_ARRAY;
+
     }
     OnClick() {
-        this.getDeckOfCard();
+        this.creatCard();
+
+        if (this.h == 52) {
+            this.deck.interactable = false;
+
+        }
         // this.getComponent(Card).init();
     }
 
 
-    getDeckOfCard() {
+    creatCard() {
         //console.log("dhoom dhoom");
-        // for (let i = 0; i < ; i++) {
+        // for (let i = 0; i < 1; i++) {
         let card = instantiate(this.cardPrefeb);
-        //card.getComponent(Card).randCardGenrate();
         this.reaveldCard.addChild(card);
         card.getComponent(ReaveldCard).init(this.arrayOfCard2[0]);
         this.arrayOfCard2.splice(0, 1);
-
-        // this.h = this.arrayOfCard.push(card);
+        this.h = this.arrayOfCard.push(card);
         console.log("Array", this.h);
-        // }
     }
+    //}
 
 
 }
