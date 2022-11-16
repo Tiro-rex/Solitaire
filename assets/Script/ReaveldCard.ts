@@ -1,8 +1,9 @@
-import { _decorator, Component, Node, TERRAIN_HEIGHT_BASE, color, Label, Vec2, Vec3, Touch, Color } from 'cc';
+import { _decorator, Component, Node, TERRAIN_HEIGHT_BASE, color, Label, Vec2, Vec3, Touch, Color, math } from 'cc';
 import { Card } from './Card';
 import { Colour, Ranks, Suits } from './GameConstant';
 import { CARDS_ARRAY } from './GameConstant';
 import { GameManager } from './GameManager';
+import { GameScreen } from './GameScreen';
 const { ccclass, property } = _decorator;
 
 
@@ -14,8 +15,12 @@ export default class ReaveldCard extends Component {
     cardRank2: Label;
     @property(Label)
     cardFace: Label;
-    // @property(GameManager)
-    // game: GameManager;
+    @property(Node)
+    faceUp: Node;
+    @property(Node)
+    faceDown: Node;
+    // @property(GameScreen)
+    // game: GameScreen;
 
 
 
@@ -31,13 +36,15 @@ export default class ReaveldCard extends Component {
     lastPosition = new Vec2()
     zoomPercentage = 100;
     lastZoomPercentage = 100;
+    game: GameScreen;
 
 
 
+    
 
     init(data) {
-        // CARDS_ARRAY.values()
-        // console.log(data)
+        // let get = this.game.Shuffel(data)
+        // console.log(get);
 
         this.cardFace.string = data.suit;
         this.cardRank.string = data.rank;
@@ -70,8 +77,7 @@ export default class ReaveldCard extends Component {
         this.touchStart = e.getUILocation();
         Vec2.subtract(this.offSet, this.node.getParent().getPosition() as unknown as Vec2, this.touchStart);
         console.log("heyys", this.cardace, this.cardNumber);
-
-
+        // this.game.onCollisionEnter(this.node);
 
     }
     onMoveStart(e: Touch) {
@@ -84,34 +90,20 @@ export default class ReaveldCard extends Component {
         let nodePos = this.node.getPosition() as unknown as Vec2;
         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);
         this.touchStart = this.lastPosition;
-        console.log("heyys3 ", this.node.getPosition());
-        console.log("lastPos", this.lastPosition)
+        //console.log("heyys3 ", this.node.getPosition());
+     //  console.log("lastPos", this.lastPosition)
         // this.node.worldPosition = this.newPosition;
         // this.newPosition = new Vec3(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.);
         //this.getComponent(Card).mainArea();
     }
     onTouchEnd(e: Touch) {
+       
         console.log("Position", this.node.worldPosition);
     }
-    private getCardValue_(data) {
-        switch (data.rank) {
-            case Ranks.Ace: return 1;
-            case Ranks.Two: return 2;
-            case Ranks.Three: return 3;
-            case Ranks.Four: return 4;
-            case Ranks.Five: return 5;
-            case Ranks.Six: return 6;
-            case Ranks.Seven: return 7;
-            case Ranks.Eight: return 8;
-            case Ranks.Nine: return 9;
-            case Ranks.Ten: return 10;
-            case Ranks.Jack: return 11;
-            case Ranks.Queen: return 12;
-            case Ranks.King: return 13;
-            default: console.error();
-        }
+    flipOperation(){
+        
     }
-    
+
 
 
 }

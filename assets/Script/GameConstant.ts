@@ -33,6 +33,11 @@ export const Places = {
     PILE: 'PILE',
     DECK: 'DECK'
 };
+export const CardType={
+    none:0,
+    faceup:1,
+    facedown:2
+}
 
 export const ActionTypes = {
     TURN_CARD: 'TURN_CARD',
