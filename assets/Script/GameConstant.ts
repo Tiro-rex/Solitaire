@@ -38,11 +38,6 @@ export const CardType={
     faceup:1,
     facedown:2
 }
-
-export const ActionTypes = {
-    TURN_CARD: 'TURN_CARD',
-    MOVE_CARD: 'MOVE_CARD'
-};
 export const enum Colour {
     None,
     Black,

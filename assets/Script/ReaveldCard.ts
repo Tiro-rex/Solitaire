@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, TERRAIN_HEIGHT_BASE, color, Label, Vec2, Vec3, Touch, Color, math } from 'cc';
+import { _decorator, Component, Node, TERRAIN_HEIGHT_BASE, color, Label, Vec2, Vec3, Touch, Color, math, systemEvent } from 'cc';
 import { Card } from './Card';
 import { Colour, Ranks, Suits } from './GameConstant';
 import { CARDS_ARRAY } from './GameConstant';
@@ -36,12 +36,13 @@ export default class ReaveldCard extends Component {
     lastPosition = new Vec2()
     zoomPercentage = 100;
     lastZoomPercentage = 100;
-    game: GameScreen;
+    gameS: GameScreen;
 
 
 
-    
 
+    onLaod() {
+    }
     init(data) {
         // let get = this.game.Shuffel(data)
         // console.log(get);
@@ -50,9 +51,10 @@ export default class ReaveldCard extends Component {
         this.cardRank.string = data.rank;
         this.cardRank2.string = data.rank;
         this.cardNumber = data.rank;
-        this.cardace = data.suit;
         if (this.cardFace.string == '♥' || this.cardFace.string == '♦') {
+            this.cardace = data.suit;
             this.cardRank.color = new Color(255, 0, 0);
+
             this.cardRank2.color = new Color(255, 0, 0);
             this.cardFace.color = new Color(255, 0, 0);
         }
@@ -61,13 +63,14 @@ export default class ReaveldCard extends Component {
             this.cardRank2.color = new Color(0, 0, 0, 255);
             this.cardFace.color = new Color(0, 0, 0, 255);
         }
-
+        // this.node.on(Node.EventType.MOUSE_DOWN, this.onTouchStart.bind(this));
         this.node.on(Node.EventType.TOUCH_START, this.onTouchStart.bind(this));
         this.node.on(Node.EventType.TOUCH_MOVE, this.onMoveStart.bind(this));
         this.node.on(Node.EventType.TOUCH_END, this.onTouchEnd.bind(this));
         // this.game.mainArea();
 
     }
+
     onTouchStart(e: Touch) {
         if (e._allTouches.length == 2) {
             this.distance = 0;
@@ -77,10 +80,10 @@ export default class ReaveldCard extends Component {
         this.touchStart = e.getUILocation();
         Vec2.subtract(this.offSet, this.node.getParent().getPosition() as unknown as Vec2, this.touchStart);
         console.log("heyys", this.cardace, this.cardNumber);
-        // this.game.onCollisionEnter(this.node);
+        console.log("Parent", this.node.getParent())
 
     }
-    onMoveStart(e: Touch) {
+    onMoveStart(e: Touch | null) {
         // if (e._allTouches.length == 1) {
 
         // this.move(e);
@@ -90,22 +93,15 @@ export default class ReaveldCard extends Component {
         let nodePos = this.node.getPosition() as unknown as Vec2;
         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);
         this.touchStart = this.lastPosition;
-        //console.log("heyys3 ", this.node.getPosition());
-     //  console.log("lastPos", this.lastPosition)
-        // this.node.worldPosition = this.newPosition;
-        // this.newPosition = new Vec3(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.);
-        //this.getComponent(Card).mainArea();
+        window.moveCard = true;
+        console.log("heyys3 ", this.node.getPosition());
+        console.log("lastPos", this.lastPosition)
+        //this.node.worldPosition = this.newPosition;
+        // this.newPosition = new Vec3(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.9);
     }
     onTouchEnd(e: Touch) {
-       
-        console.log("Position", this.node.worldPosition);
+        // this.node.setSiblingIndex(9);
     }
-    flipOperation(){
-        
-    }
-
-
-
 }
 
 

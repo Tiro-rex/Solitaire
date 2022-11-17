@@ -3000,3 +3000,552 @@ https://github.com/browserslist/browserslist#browsers-data-updating
 2022-11-15T12:17:51.753Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'cardRank') in http://localhost:7456/scripting/x/chunks/68/6880025f43f260efdc5f8732212405b56464e205.js
 2022-11-15T12:17:57.517Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'cardRank') in http://localhost:7456/scripting/x/chunks/68/6880025f43f260efdc5f8732212405b56464e205.js
 2022-11-15T13:53:41.307Z - warn: Metrics: no valid info
+2022-11-16T05:00:19.428Z - log: [Package] menu@1.0.0 enable
+2022-11-16T05:00:19.432Z - log: [Package] profile@1.0.0 enable
+2022-11-16T05:00:19.445Z - log: [Package] project@1.0.2 enable
+2022-11-16T05:00:19.454Z - log: [Package] messages@1.0.0 enable
+2022-11-16T05:00:19.459Z - log: [Package] program@1.0.0 enable
+2022-11-16T05:00:19.471Z - log: [Package] tester@1.0.0 enable
+2022-11-16T05:00:19.480Z - log: [Package] preferences@1.0.0 enable
+2022-11-16T05:00:20.315Z - log: Setup mods mgr.: 416.27ms
+2022-11-16T05:00:20.346Z - verbose: [Engine] QuickCompile engine (782ms)
+2022-11-16T05:00:20.350Z - log: [Package] engine@1.0.6 enable
+2022-11-16T05:00:21.709Z - log: [Package] programming@1.0.0 enable
+2022-11-16T05:00:22.141Z - log: [Package] device@1.0.1 enable
+2022-11-16T05:00:22.174Z - log: [Package] ui-kit@1.0.1 enable
+2022-11-16T05:00:22.201Z - log: [Package] engine-extends@1.0.0 enable
+2022-11-16T05:00:22.287Z - log: [Package] asset-db@1.0.0 enable
+2022-11-16T05:00:22.337Z - log: [Package] scene@1.0.0 enable
+2022-11-16T05:00:22.594Z - log: [Package] server@1.0.0 enable
+2022-11-16T05:00:22.641Z - log: [Package] utils@1.0.0 enable
+2022-11-16T05:00:27.558Z - log: [Package] preview@1.0.1 enable
+2022-11-16T05:00:27.599Z - log: [Package] animator@1.0.0 enable
+2022-11-16T05:00:29.047Z - log: [Package] builder@1.3.2 enable
+2022-11-16T05:00:29.088Z - log: [Package] shortcuts@1.0.1 enable
+2022-11-16T05:00:29.132Z - log: [Package] animation-graph@1.0.0 enable
+2022-11-16T05:00:29.160Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-11-16T05:00:29.191Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-11-16T05:00:29.249Z - log: [Package] about@1.0.0 enable
+2022-11-16T05:00:29.291Z - log: [Package] assets@1.0.0 enable
+2022-11-16T05:00:29.338Z - log: [Package] console@1.0.0 enable
+2022-11-16T05:00:29.612Z - log: [Package] extension@3.0.16 enable
+2022-11-16T05:00:29.654Z - log: [Package] hierarchy@1.0.0 enable
+2022-11-16T05:00:29.709Z - log: [Package] inspector@1.0.0 enable
+2022-11-16T05:00:29.750Z - log: [Package] lightmap@1.0.4 enable
+2022-11-16T05:00:29.816Z - log: [Package] node-library@1.0.1 enable
+2022-11-16T05:00:29.842Z - log: [Package] package-asset@1.0.0 enable
+2022-11-16T05:00:29.882Z - log: [Package] process@1.0.0 enable
+2022-11-16T05:00:29.926Z - log: [Package] reference-image@1.0.0 enable
+2022-11-16T05:00:29.958Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-11-16T05:00:29.984Z - log: [Package] android@1.0.0 enable
+2022-11-16T05:00:30.015Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-11-16T05:00:30.042Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-11-16T05:00:30.076Z - log: [Package] cocos-play@1.0.0 enable
+2022-11-16T05:00:30.116Z - log: [Package] huawei-agc@1.0.0 enable
+2022-11-16T05:00:30.147Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-11-16T05:00:30.197Z - log: [Package] ios@1.0.0 enable
+2022-11-16T05:00:30.225Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-11-16T05:00:30.268Z - log: [Package] link-sure@1.0.0 enable
+2022-11-16T05:00:30.280Z - verbose: [AssetDB] Require engine code (1832ms)
+2022-11-16T05:00:30.297Z - log: [Package] linux@1.0.0 enable
+2022-11-16T05:00:30.323Z - log: [Package] mac@1.0.0 enable
+2022-11-16T05:00:30.493Z - log: [Package] native@1.0.0 enable
+2022-11-16T05:00:30.534Z - log: [Package] ohos@1.0.0 enable
+2022-11-16T05:00:30.573Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-11-16T05:00:30.598Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-11-16T05:00:30.632Z - log: [Package] qtt@1.0.0 enable
+2022-11-16T05:00:30.663Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-11-16T05:00:30.715Z - log: [Package] web-desktop@1.0.0 enable
+2022-11-16T05:00:30.770Z - log: [Package] web-mobile@1.0.0 enable
+2022-11-16T05:00:30.815Z - log: [Package] wechatgame@1.0.1 enable
+2022-11-16T05:00:30.845Z - log: [Package] windows@1.0.0 enable
+2022-11-16T05:00:30.873Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-11-16T05:00:31.291Z - log: [Package] cocos-service@3.0.3 enable
+2022-11-16T05:00:31.341Z - log: [Package] importer@1.0.0 enable
+2022-11-16T05:00:31.753Z - log: [Im-plugin] Check im-plugin version.
+2022-11-16T05:00:31.778Z - log: [Package] im-plugin@3.0.8 enable
+2022-11-16T05:00:38.005Z - log: [Im-plugin] No online info of im-plugin.
+2022-11-16T05:00:38.667Z - verbose: [Scene] Require engine code (2ms)
+2022-11-16T05:00:38.671Z - verbose: [Scene] Startup engine (3ms)
+2022-11-16T05:00:38.728Z - log: [Scene] Cocos Creator v3.5.2
+2022-11-16T05:00:39.534Z - verbose: [Scene] Open engine (863ms)
+2022-11-16T05:00:39.534Z - verbose: [Scene] Configure engine (1ms)
+2022-11-16T05:00:38.869Z - info: [Scene] Forward render pipeline initialized.
+2022-11-16T05:01:32.293Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-11-16T05:36:39.787Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading '0') in http://localhost:7456/scripting/x/chunks/ff/ffb9737178fbc256598bbf6ac39786a4a2f5385b.js
+2022-11-16T05:37:03.661Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading '0') in http://localhost:7456/scripting/x/chunks/ff/ffb9737178fbc256598bbf6ac39786a4a2f5385b.js
+2022-11-16T05:43:30.116Z - warn: [Scene] Found possible circular reference in "pack:///chunks/34/34827aa25c82d76a13054503559797f8153f9074.js", happened when use "GameScreen" imported from "./GameScreen"  Error
+    at Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/34/34827aa25c82d76a13054503559797f8153f9074.js:42:16)
+    at doExec (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:487:32)
+    at postOrderExec (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:483:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:469:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:467:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:440:12
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)Error: [Scene] Found possible circular reference in "pack:///chunks/34/34827aa25c82d76a13054503559797f8153f9074.js", happened when use "GameScreen" imported from "./GameScreen"  Error
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:469:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:467:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:440:12
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.warn (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)
+    at Module.report (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js:16:13)
+    at _reportPossibleCrUseOfGameScreen (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/34/34827aa25c82d76a13054503559797f8153f9074.js:13:17)
+    at Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/34/34827aa25c82d76a13054503559797f8153f9074.js:41:197)
+    at doExec (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:487:32)
+    at postOrderExec (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:483:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:469:28
+    at Array.forEach (<anonymous>)
+2022-11-16T05:43:30.117Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "game" of cc class "ReaveldCard".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "game" of cc class "ReaveldCard".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.warn (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)
+    at warn (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:146276:10)
+    at warnID (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:146495:3)
+    at parseAttributes (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109502:23)
+    at defineProp (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109099:3)
+    at declareProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109333:9)
+    at CCClass (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109378:5)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:215726:34
+2022-11-16T05:43:30.119Z - warn: [Scene] Please specifiy a default value for "ReaveldCard.game" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;Error: [Scene] Please specifiy a default value for "ReaveldCard.game" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+    at warn (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:146276:10)
+    at warnID (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:146495:3)
+    at parseAttributes (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109552:23)
+    at defineProp (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109099:3)
+    at declareProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109333:9)
+    at CCClass (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:109378:5)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:215726:34
+2022-11-16T05:43:38.843Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'Shuffel') in http://localhost:7456/scripting/x/chunks/20/205808ba33435d9b2020c24d88a9d07214272481.js
+2022-11-16T05:45:07.620Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'Shuffel') in http://localhost:7456/scripting/x/chunks/da/da097d98919492471d88933e27dce7e174432142.js
+2022-11-16T05:46:26.944Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'Shuffel') in http://localhost:7456/scripting/x/chunks/fb/fb2d78285d8a75bd964dfbe73b1abb1182af6582.js
+2022-11-16T05:46:58.969Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'Shuffel') in http://localhost:7456/scripting/x/chunks/86/86441eab80775d61869be9af5852731e0f7cad4f.js
+2022-11-16T05:47:01.828Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'Shuffel') in http://localhost:7456/scripting/x/chunks/86/86441eab80775d61869be9af5852731e0f7cad4f.js
+2022-11-16T06:41:36.989Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T06:41:37.139Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T06:41:37.309Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T07:53:47.205Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T07:55:10.473Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T07:56:00.205Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/0c/0c897774e493421bc0cf0e0fda21258bad3cb814.js
+2022-11-16T07:56:00.543Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/0c/0c897774e493421bc0cf0e0fda21258bad3cb814.js
+2022-11-16T07:56:17.071Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/09/090c19f839a8d16710a072c85f3c078cf3f19afc.js
+2022-11-16T07:57:43.924Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T07:58:49.717Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T08:05:53.842Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T08:07:29.381Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T08:08:23.120Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/ac/ac8f3c29dc59696ed04781eea16c92e0405f6159.js
+2022-11-16T10:06:42.779Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.  
+|         ^  
+104 |         console.log("last", this.lastindex);  
+105 |         //console.log("array", this.h2);  
+106 |     }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-16T10:06:42.922Z - warn: [Scene] Missing class: 67016LY33pPjpMF7bkdwWylError: [Scene] Missing class: 67016LY33pPjpMF7bkdwWyl
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-16T10:06:42.930Z - error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+Error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-16T10:06:42.937Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.  
+|         ^  
+104 |         console.log("last", this.lastindex);  
+105 |         //console.log("array", this.h2);  
+106 |     }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-16T10:06:45.362Z - error: [Preview]Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-16T10:06:45.379Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-16T10:07:40.597Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.  
+|         ^  
+104 |         console.log("last", this.lastindex);  
+105 |         //console.log("array", this.h2);  
+106 |     }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-16T10:07:40.698Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Unexpected token (103:8)
+
+  101 |             // }
+  102 |             // console.log("hey", cardLast)
+> 103 |         }
+      |         ^
+  104 |         console.log("last", this.lastindex);
+  105 |         //console.log("array", this.h2);
+  106 |     }.  
+|         ^  
+104 |         console.log("last", this.lastindex);  
+105 |         //console.log("array", this.h2);  
+106 |     }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-16T10:07:42.984Z - error: [Preview]Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-16T10:07:42.986Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-16T10:07:45.133Z - warn: [Scene] Missing class: 67016LY33pPjpMF7bkdwWylError: [Scene] Missing class: 67016LY33pPjpMF7bkdwWyl
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-16T10:07:45.143Z - error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+Error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-16T10:07:49.371Z - error: [Preview]Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-16T10:07:49.385Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-16T12:25:14.010Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/ReaveldCard.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\ReaveldCard.ts: Missing semicolon. (88:45)
+
+  86 |         // this.move(e);
+  87 |         // }
+> 88 |         this.lastPosition = e.getUILocation());
+     |                                              ^
+  89 |         Vec2.subtract(this.offSet, this.touchStart, this.lastPosition);
+  90 |         let nodePos = this.node.getPosition() as unknown as Vec2;
+  91 |         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/ReaveldCard.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\ReaveldCard.ts: Missing semicolon. (88:45)
+
+  86 |         // this.move(e);
+  87 |         // }
+> 88 |         this.lastPosition = e.getUILocation());
+     |                                              ^
+  89 |         Vec2.subtract(this.offSet, this.touchStart, this.lastPosition);
+  90 |         let nodePos = this.node.getPosition() as unknown as Vec2;
+  91 |         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);.  
+|                                              ^  
+89 |         Vec2.subtract(this.offSet, this.touchStart, this.lastPosition);  
+90 |         let nodePos = this.node.getPosition() as unknown as Vec2;  
+91 |         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-16T12:25:14.055Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/ReaveldCard.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\ReaveldCard.ts: Missing semicolon. (88:45)
+
+  86 |         // this.move(e);
+  87 |         // }
+> 88 |         this.lastPosition = e.getUILocation());
+     |                                              ^
+  89 |         Vec2.subtract(this.offSet, this.touchStart, this.lastPosition);
+  90 |         let nodePos = this.node.getPosition() as unknown as Vec2;
+  91 |         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/ReaveldCard.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\ReaveldCard.ts: Missing semicolon. (88:45)
+
+  86 |         // this.move(e);
+  87 |         // }
+> 88 |         this.lastPosition = e.getUILocation());
+     |                                              ^
+  89 |         Vec2.subtract(this.offSet, this.touchStart, this.lastPosition);
+  90 |         let nodePos = this.node.getPosition() as unknown as Vec2;
+  91 |         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);.  
+|                                              ^  
+89 |         Vec2.subtract(this.offSet, this.touchStart, this.lastPosition);  
+90 |         let nodePos = this.node.getPosition() as unknown as Vec2;  
+91 |         this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-16T12:25:14.046Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_3 from pack:///chunks/bc/bc43947608c1867250edfeb7e6aed3db029e3579.js.
+    at ExecutorSystem._throwUnresolved (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:145:15)
+    at ExecutorSystem._resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:94:21)
+    at SystemJS.resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:28:23)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_3 from pack:///chunks/bc/bc43947608c1867250edfeb7e6aed3db029e3579.js.
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)
+    at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:253:22)
+    at SystemJS.onload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:62:18)
+    at triggerOnload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:270:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:431:7
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+2022-11-16T12:25:14.054Z - warn: [Scene] Missing class: 67016LY33pPjpMF7bkdwWylError: [Scene] Missing class: 67016LY33pPjpMF7bkdwWyl
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-16T12:25:14.060Z - error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+Error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-16T12:25:14.079Z - warn: [Scene] Missing class: 615f5YpBt5AKoRvQbPBObNFError: [Scene] Missing class: 615f5YpBt5AKoRvQbPBObNF
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-16T12:25:14.081Z - error: [Scene] Script "615f5YpBt5AKoRvQbPBObNF" attached to "Card" in prefab "Card" is missing or invalid. Detailed information:
+Node path: "Card"
+Asset url: "db://assets/Prefeb/Card"
+Script UUID: "615f5629-06de-402a-846f-41b3c139b345"
+Class ID: "615f5YpBt5AKoRvQbPBObNF"
+Error: [Scene] Script "615f5YpBt5AKoRvQbPBObNF" attached to "Card" in prefab "Card" is missing or invalid. Detailed information:
+Node path: "Card"
+Asset url: "db://assets/Prefeb/Card"
+Script UUID: "615f5629-06de-402a-846f-41b3c139b345"
+Class ID: "615f5YpBt5AKoRvQbPBObNF"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-16T12:25:15.863Z - error: [Preview]Unable to resolve bare specifier '__unresolved_6' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-16T12:25:15.876Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_6' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-16T12:25:15.886Z - error: [Preview]unhandledrejection: Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/chunks/06/061526692b3c17281f731b467675adcb64e5ad3d.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-16T12:25:15.890Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/chunks/06/061526692b3c17281f731b467675adcb64e5ad3d.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-16T12:27:01.364Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'onCollisionEnter') in http://localhost:7456/scripting/x/chunks/29/296d1cf52ae244e9fa29f979dc29be5a0bf7bdf2.js
+2022-11-16T14:06:05.985Z - warn: Metrics: no valid info

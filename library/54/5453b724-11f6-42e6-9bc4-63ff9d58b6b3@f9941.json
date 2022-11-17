@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pngegg",
+    "atlas": "",
+    "rect": {
+      "x": 29,
+      "y": 87,
+      "width": 1337,
+      "height": 1732
+    },
+    "offset": {
+      "x": -2.5,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 1400,
+      "height": 1900
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5453b724-11f6-42e6-9bc4-63ff9d58b6b3@6c48a",
+    "packable": true
+  }
+}

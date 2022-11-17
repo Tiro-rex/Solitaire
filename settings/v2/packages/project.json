@@ -8,13 +8,43 @@
       },
       {
         "index": 2,
-        "name": "stack"
+        "name": " stack1"
+      },
+      {
+        "index": 3,
+        "name": "stack2"
+      },
+      {
+        "index": 4,
+        "name": "stack3"
+      },
+      {
+        "index": 5,
+        "name": "stack4"
+      },
+      {
+        "index": 6,
+        "name": "stack5"
+      },
+      {
+        "index": 7,
+        "name": "stack6"
+      },
+      {
+        "index": 8,
+        "name": "stack7"
       }
     ],
     "collisionMatrix": {
       "0": 0,
-      "1": 4,
-      "2": 2
+      "1": 508,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2
     }
   }
 }

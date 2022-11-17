@@ -6,6 +6,12 @@ import { CARDS_ARRAY, CardType } from './GameConstant';
 import { GameManager } from './GameManager';
 import ReaveldCard from './ReaveldCard';
 const { ccclass, property } = _decorator;
+declare global {
+    interface Window {
+        moveCard: boolean;
+    }
+}
+window.moveCard = false;
 
 @ccclass('GameScreen')
 export class GameScreen extends Component {
@@ -42,17 +48,16 @@ export class GameScreen extends Component {
     h2: any
     lastindex: any;
 
+
+    // instantiationOfStack=true;
+
     onLaod() {
 
-    } start() {
+    }
+    start() {
         this.arrayOfCard2 = CARDS_ARRAY;
         this.Shuffel(this.arrayOfCard2);
         this.stack();
-        PhysicsSystem2D.instance.enable = true;
-        let coll = this.node.getComponent(Collider);
-       // coll.on("onCollisionEnter", this.onBeginContact, this)
-        // this.node.on('onCollisionEnter', this.onCollisionEnter, this);
-        // this.node.on('onCollisionEnter', this.onCollisionEnter, this);
     }
     OnClick() {
 
@@ -102,7 +107,7 @@ export class GameScreen extends Component {
         }
         let lastCard: ReaveldCard = stack.children[stack.children.length - 1].getComponent(ReaveldCard)
         lastCard.faceDown.active = false;
-        lastCard.faceUp.active = true;
+        // lastCard.faceUp.active = true;
         // console.log("last", this.lastindex);
         //console.log("array", this.h2);
     }
@@ -113,7 +118,6 @@ export class GameScreen extends Component {
             this.stacklogic(stack, i)
         }
     }
-
     defaultPlayArea(stackNumber) {
         // let stack: number;
         switch (stackNumber) {
@@ -149,12 +153,6 @@ export class GameScreen extends Component {
         });
     }
 
-    // onBeginContact(selfCollider: Collider2D, otherCollider: Collider2D, event: IPhysics2DContact | null) {
-    //     console.log("sjhdksjhk");
-    //     // let selfcollider = event.selfCollider;
-    //     // let otherCollider = event.otherCollider;
-    //     // console.log("self", selfcollider);
-    //     // console.log("other", otherCollider);
-    // }
+
 
 }

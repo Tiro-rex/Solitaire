@@ -1022,5 +1022,13 @@
   "d4d5d1b2-daab-4b40-82ca-02334e088a57": {
     "url": "db://assets/Script/PileMaxFanOperation.ts",
     "value": {}
+  },
+  "e0b731c1-fbc2-4fe1-beba-df24862496b4": {
+    "url": "db://assets/Image Assets/rame.png",
+    "value": {}
+  },
+  "5453b724-11f6-42e6-9bc4-63ff9d58b6b3": {
+    "url": "db://assets/Image Assets/pngegg.png",
+    "value": {}
   }
 }

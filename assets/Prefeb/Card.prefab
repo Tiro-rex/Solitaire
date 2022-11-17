@@ -992,11 +992,11 @@
     "__prefab": {
       "__id__": 47
     },
-    "tag": 0,
+    "tag": 9,
     "_group": 2,
-    "_density": 1,
+    "_density": 0,
     "_sensor": false,
-    "_friction": 0.2,
+    "_friction": 0,
     "_restitution": 0,
     "_offset": {
       "__type__": "cc.Vec2",
@@ -1012,7 +1012,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "a4g0jpCzhKm7+VR1rWSW/V"
+    "fileId": "fdDxbP2olPGKxYzFNFl3kL"
   },
   {
     "__type__": "cc.RigidBody2D",
@@ -1025,11 +1025,11 @@
     "__prefab": {
       "__id__": 49
     },
-    "enabledContactListener": false,
+    "enabledContactListener": true,
     "bullet": false,
     "awakeOnLoad": true,
     "_group": 2,
-    "_type": 0,
+    "_type": 2,
     "_allowSleep": true,
     "_gravityScale": 0,
     "_linearDamping": 0,
@@ -1045,7 +1045,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "ab+uJIC8ZOT7epxNklSUr/"
+    "fileId": "ccGGyJC0NPm53gqm2BZetd"
   },
   {
     "__type__": "cc.PrefabInfo",
