@@ -948,7 +948,7 @@
     "value": {}
   },
   "f64ad112-a3e0-4b5a-92dd-9d7a43d00da1": {
-    "url": "db://assets/Script/GameManager.ts",
+    "url": "db://assets/Script/WinPile.ts",
     "value": {}
   },
   "670162d8-df7a-4f8e-9305-edb91dc16ca5": {
@@ -1029,6 +1029,30 @@
   },
   "5453b724-11f6-42e6-9bc4-63ff9d58b6b3": {
     "url": "db://assets/Image Assets/pngegg.png",
+    "value": {}
+  },
+  "fefe8c42-ce17-443b-be13-adecd148094d": {
+    "url": "db://assets/Script/EventEmitter.ts",
+    "value": {}
+  },
+  "bb985209-4e3a-4d7e-87e0-49e792766b75": {
+    "url": "db://assets/Image Assets/loading.png",
+    "value": {}
+  },
+  "0bb3039b-6a42-4cd1-8dbd-6f24ae43fc3b": {
+    "url": "db://assets/Image Assets/bgCard.png",
+    "value": {}
+  },
+  "0bb3039b-6a42-4cd1-8dbd-6f24ae43fc3b@f9941": {
+    "url": "db://assets/Image Assets/bgCard.png@f9941",
+    "value": {}
+  },
+  "7bfa3296-2478-4658-864c-2463858260fa": {
+    "url": "db://assets/Image Assets/bg.png",
+    "value": {}
+  },
+  "d34bfe4b-f403-4e77-bc79-9c22d84a7485": {
+    "url": "db://assets/Image Assets/bg1.png",
     "value": {}
   }
 }

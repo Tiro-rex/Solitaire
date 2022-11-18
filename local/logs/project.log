@@ -3549,3 +3549,1380 @@ Class ID: "615f5YpBt5AKoRvQbPBObNF"
     at http://localhost:7456/scripting/systemjs/system.js:334:43
 2022-11-16T12:27:01.364Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'onCollisionEnter') in http://localhost:7456/scripting/x/chunks/29/296d1cf52ae244e9fa29f979dc29be5a0bf7bdf2.js
 2022-11-16T14:06:05.985Z - warn: Metrics: no valid info
+2022-11-17T04:55:51.884Z - log: [Package] menu@1.0.0 enable
+2022-11-17T04:55:51.886Z - log: [Package] profile@1.0.0 enable
+2022-11-17T04:55:51.895Z - log: [Package] project@1.0.2 enable
+2022-11-17T04:55:51.900Z - log: [Package] messages@1.0.0 enable
+2022-11-17T04:55:51.908Z - log: [Package] program@1.0.0 enable
+2022-11-17T04:55:51.914Z - log: [Package] tester@1.0.0 enable
+2022-11-17T04:55:51.919Z - log: [Package] preferences@1.0.0 enable
+2022-11-17T04:55:52.481Z - log: Setup mods mgr.: 268.629ms
+2022-11-17T04:55:52.496Z - verbose: [Engine] QuickCompile engine (516ms)
+2022-11-17T04:55:52.498Z - log: [Package] engine@1.0.6 enable
+2022-11-17T04:55:53.499Z - log: [Package] programming@1.0.0 enable
+2022-11-17T04:55:53.930Z - log: [Package] device@1.0.1 enable
+2022-11-17T04:55:53.973Z - log: [Package] ui-kit@1.0.1 enable
+2022-11-17T04:55:54.009Z - log: [Package] engine-extends@1.0.0 enable
+2022-11-17T04:55:54.087Z - log: [Package] asset-db@1.0.0 enable
+2022-11-17T04:55:54.131Z - log: [Package] scene@1.0.0 enable
+2022-11-17T04:55:54.375Z - log: [Package] server@1.0.0 enable
+2022-11-17T04:55:54.417Z - log: [Package] utils@1.0.0 enable
+2022-11-17T04:55:58.746Z - log: [Package] preview@1.0.1 enable
+2022-11-17T04:55:58.794Z - log: [Package] animator@1.0.0 enable
+2022-11-17T04:56:00.132Z - log: [Package] builder@1.3.2 enable
+2022-11-17T04:56:00.172Z - log: [Package] shortcuts@1.0.1 enable
+2022-11-17T04:56:00.213Z - log: [Package] animation-graph@1.0.0 enable
+2022-11-17T04:56:00.236Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-11-17T04:56:00.264Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-11-17T04:56:00.325Z - log: [Package] about@1.0.0 enable
+2022-11-17T04:56:00.377Z - log: [Package] assets@1.0.0 enable
+2022-11-17T04:56:00.440Z - log: [Package] console@1.0.0 enable
+2022-11-17T04:56:00.731Z - log: [Package] extension@3.0.16 enable
+2022-11-17T04:56:00.773Z - log: [Package] hierarchy@1.0.0 enable
+2022-11-17T04:56:00.817Z - log: [Package] inspector@1.0.0 enable
+2022-11-17T04:56:00.856Z - log: [Package] lightmap@1.0.4 enable
+2022-11-17T04:56:00.909Z - log: [Package] node-library@1.0.1 enable
+2022-11-17T04:56:00.936Z - log: [Package] package-asset@1.0.0 enable
+2022-11-17T04:56:00.975Z - log: [Package] process@1.0.0 enable
+2022-11-17T04:56:01.032Z - log: [Package] reference-image@1.0.0 enable
+2022-11-17T04:56:01.064Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-11-17T04:56:01.092Z - log: [Package] android@1.0.0 enable
+2022-11-17T04:56:01.126Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-11-17T04:56:01.155Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-11-17T04:56:01.182Z - log: [Package] cocos-play@1.0.0 enable
+2022-11-17T04:56:01.213Z - log: [Package] huawei-agc@1.0.0 enable
+2022-11-17T04:56:01.258Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-11-17T04:56:01.298Z - log: [Package] ios@1.0.0 enable
+2022-11-17T04:56:01.341Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-11-17T04:56:01.355Z - verbose: [AssetDB] Require engine code (1827ms)
+2022-11-17T04:56:01.383Z - log: [Package] link-sure@1.0.0 enable
+2022-11-17T04:56:01.414Z - log: [Package] linux@1.0.0 enable
+2022-11-17T04:56:01.450Z - log: [Package] mac@1.0.0 enable
+2022-11-17T04:56:01.594Z - log: [Package] native@1.0.0 enable
+2022-11-17T04:56:01.635Z - log: [Package] ohos@1.0.0 enable
+2022-11-17T04:56:01.669Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-11-17T04:56:01.704Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-11-17T04:56:01.735Z - log: [Package] qtt@1.0.0 enable
+2022-11-17T04:56:01.766Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-11-17T04:56:01.815Z - log: [Package] web-desktop@1.0.0 enable
+2022-11-17T04:56:01.865Z - log: [Package] web-mobile@1.0.0 enable
+2022-11-17T04:56:01.903Z - log: [Package] wechatgame@1.0.1 enable
+2022-11-17T04:56:01.938Z - log: [Package] windows@1.0.0 enable
+2022-11-17T04:56:01.975Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-11-17T04:56:02.260Z - log: [Package] cocos-service@3.0.3 enable
+2022-11-17T04:56:02.302Z - log: [Package] importer@1.0.0 enable
+2022-11-17T04:56:02.584Z - log: [Im-plugin] Check im-plugin version.
+2022-11-17T04:56:02.597Z - log: [Package] im-plugin@3.0.8 enable
+2022-11-17T04:56:06.968Z - verbose: [Scene] Require engine code (1ms)
+2022-11-17T04:56:06.969Z - verbose: [Scene] Startup engine (0ms)
+2022-11-17T04:56:07.024Z - log: [Scene] Cocos Creator v3.5.2
+2022-11-17T04:56:07.576Z - verbose: [Scene] Open engine (607ms)
+2022-11-17T04:56:07.576Z - verbose: [Scene] Configure engine (0ms)
+2022-11-17T04:56:07.171Z - info: [Scene] Forward render pipeline initialized.
+2022-11-17T04:56:07.820Z - log: [Im-plugin] No online info of im-plugin.
+2022-11-17T04:57:18.674Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-11-17T05:37:45.998Z - warn: [Scene] Set property failed: 82HVPfbnFK96mdxW9FnuSL does not existError: [Scene] Set property failed: 82HVPfbnFK96mdxW9FnuSL does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at PrefabSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\prefab-scene-facade.ccc:1:1756)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-11-17T05:55:07.419Z - log: [Scene] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.425Z - log: [Scene] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.425Z - log: [Scene] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.425Z - log: [Scene] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.425Z - log: [Scene] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.434Z - error: [Window] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at <process:scene>
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.436Z - error: [Window] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at <process:scene>
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.436Z - error: [Window] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at <process:scene>
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.436Z - error: [Window] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at <process:scene>
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T05:55:07.436Z - error: [Window] Cannot read property 'replace' of undefinedTypeError: Cannot read property 'replace' of undefined
+    at <process:scene>
+    at Object.parsingPath (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\utils.ccc:1:489)
+    at Object.decodePatch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\decode.ccc:1:4354)
+    at Object.patch (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\utils\dump\index.ccc:1:772)
+    at DumpUtil.restoreProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\utils\dump\index.ccc:1:278)
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:5802)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14051)
+    at step (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1298
+    at <anonymous>
+2022-11-17T07:38:03.287Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:38:03.357Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:112:47
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:127:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:62:16)
+2022-11-17T07:38:03.359Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:38:03.360Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:112:47
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:127:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:62:16)
+2022-11-17T07:38:03.360Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:38:03.361Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:112:47
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:127:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:62:16)
+2022-11-17T07:38:03.362Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:38:03.363Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:112:47
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:127:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:62:16)
+2022-11-17T07:38:03.364Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:38:03.365Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:112:47
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:127:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:62:16)
+2022-11-17T07:38:03.366Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:38:03.366Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:112:47
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:127:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:62:16)
+2022-11-17T07:38:03.367Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:38:03.367Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:112:47
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:127:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/c5/c5cb4d95a04d15b001254e589f6080cec656abcb.js:62:16)
+2022-11-17T07:39:54.845Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:39:54.924Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:39:54.925Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:39:54.927Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:39:54.928Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:39:54.928Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:39:54.929Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:39:54.930Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:39:54.931Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:39:54.932Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:39:54.933Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:39:54.934Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:39:54.935Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:39:54.936Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:41:00.807Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:41:00.905Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:41:00.907Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:41:00.908Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:41:00.910Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:41:00.913Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:41:00.914Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:41:00.916Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:41:00.917Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:41:00.918Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:41:00.919Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:41:00.921Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T07:41:00.922Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'suit')
+2022-11-17T07:41:00.923Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'suit')
+    at ReaveldCard.init (http://localhost:7456/scripting/x/chunks/0b/0ba56ca73692cdf7d4b93edbb01517d4404f8f83.js:70:39)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:112:45
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:126:13)
+    at Pile.start (http://localhost:7456/scripting/x/chunks/f3/f3f7425a89a6ca726de07d021a0eaf5b7889368f.js:62:16)
+2022-11-17T08:00:21.063Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-17T08:00:21.103Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:116:49
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:127:13)
+    at Pile.init (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:67:16)
+2022-11-17T08:00:21.104Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-17T08:00:21.105Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:116:49
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:127:13)
+    at Pile.init (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:67:16)
+2022-11-17T08:00:21.106Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-17T08:00:21.107Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:116:49
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:127:13)
+    at Pile.init (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:67:16)
+2022-11-17T08:00:21.108Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-17T08:00:21.109Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:116:49
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:127:13)
+    at Pile.init (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:67:16)
+2022-11-17T08:00:21.110Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-17T08:00:21.111Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:116:49
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:127:13)
+    at Pile.init (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:67:16)
+2022-11-17T08:00:21.112Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-17T08:00:21.113Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:116:49
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:99
+    at Pile.stacklogic (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:127:13)
+    at Pile.init (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:67:16)
+2022-11-17T08:00:21.232Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-17T08:00:21.241Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:116:49
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/6f/6f6dbe0f19a35f67df9462b79c345da7a2607074.js:8:196)
+2022-11-17T08:29:36.908Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/03/03644841dc9dcea910ac155ad4774a4ad9b5d912.js
+2022-11-17T08:29:37.056Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:29:37.082Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:29:37.083Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:29:37.084Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:29:37.085Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:29:37.085Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:29:37.086Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:29:37.087Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:29:37.095Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:29:37.096Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:29:37.109Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:29:37.110Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:29:50.088Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/03/03644841dc9dcea910ac155ad4774a4ad9b5d912.js
+2022-11-17T08:31:54.171Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/03/03644841dc9dcea910ac155ad4774a4ad9b5d912.js
+2022-11-17T08:32:04.532Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/03/03644841dc9dcea910ac155ad4774a4ad9b5d912.js
+2022-11-17T08:32:04.631Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:32:04.636Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:32:04.640Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:32:04.641Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:32:04.647Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:32:04.654Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:32:04.668Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:32:04.669Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:32:04.687Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:32:04.687Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:32:04.692Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T08:32:04.693Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T08:34:53.783Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/03/03644841dc9dcea910ac155ad4774a4ad9b5d912.js
+2022-11-17T09:42:29.390Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/6d/6d72be375387a02d080c0076f0acf4ca564cbc81.js
+2022-11-17T09:42:29.532Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:42:29.548Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:42:29.549Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:42:29.550Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:42:29.551Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:42:29.551Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:42:29.569Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:42:29.570Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:42:29.571Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:42:29.572Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:42:29.591Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:42:29.592Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:45:56.283Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/6d/6d72be375387a02d080c0076f0acf4ca564cbc81.js
+2022-11-17T09:46:07.508Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'moveCard') in http://localhost:7456/scripting/x/chunks/7f/7fb7ef64a353b2af11ed9112613700a69ac977e5.js
+2022-11-17T09:46:07.605Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:46:07.608Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:46:07.612Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:46:07.614Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:46:07.618Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:46:07.627Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:46:07.639Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:46:07.640Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:46:07.656Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:46:07.658Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:46:07.662Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'SetActive')
+2022-11-17T09:46:07.663Z - error: [Preview]TypeError: Cannot read properties of null (reading 'SetActive')
+    at b2RigidBody2D.setActive (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179557:22)
+    at b2RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:179403:16)
+    at RigidBody2D.onEnable (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:263266:24)
+    at OneOffInvoker.invokeOnEnable [as _invoke] (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153316:18)
+    at OneOffInvoker.invoke (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:153186:16)
+    at NodeActivator.activateNode (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:154420:27)
+    at Node._onHierarchyChangedBase (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:152688:46)
+    at Node._onHierarchyChanged (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155945:55)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151789:16)
+    at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
+2022-11-17T09:46:39.326Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'width') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-17T10:43:57.644Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'onTouchEnd') in http://localhost:7456/scripting/x/chunks/37/37cff30a7e7a4e8dea331101f81f7954a403b9b1.js
+2022-11-17T10:44:10.865Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'onTouchEnd') in http://localhost:7456/scripting/x/chunks/37/37cff30a7e7a4e8dea331101f81f7954a403b9b1.js
+2022-11-17T10:49:18.526Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'onTouchEnd') in http://localhost:7456/scripting/x/chunks/56/56cf5a69ab36363f885ec9a5bdd2021836b1ac7f.js
+2022-11-17T10:50:34.692Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/Pile.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\Pile.ts: Unexpected token (21:4)
+
+  19 |         coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+  20 |         this.cardR.getComponent(ReaveldCard).
+> 21 |     }
+     |     ^
+  22 |     onBeginContact(self: Collider2D, other: Collider2D) {
+  23 |
+  24 |         if (self.tag == 1 && window.moveCard) {.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/Pile.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\Pile.ts: Unexpected token (21:4)
+
+  19 |         coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+  20 |         this.cardR.getComponent(ReaveldCard).
+> 21 |     }
+     |     ^
+  22 |     onBeginContact(self: Collider2D, other: Collider2D) {
+  23 |
+  24 |         if (self.tag == 1 && window.moveCard) {.  
+|     ^  
+22 |     onBeginContact(self: Collider2D, other: Collider2D) {  
+23 |  
+24 |         if (self.tag == 1 && window.moveCard) {.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-17T10:50:34.768Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/Pile.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\Pile.ts: Unexpected token (21:4)
+
+  19 |         coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+  20 |         this.cardR.getComponent(ReaveldCard).
+> 21 |     }
+     |     ^
+  22 |     onBeginContact(self: Collider2D, other: Collider2D) {
+  23 |
+  24 |         if (self.tag == 1 && window.moveCard) {.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/Pile.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\Pile.ts: Unexpected token (21:4)
+
+  19 |         coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+  20 |         this.cardR.getComponent(ReaveldCard).
+> 21 |     }
+     |     ^
+  22 |     onBeginContact(self: Collider2D, other: Collider2D) {
+  23 |
+  24 |         if (self.tag == 1 && window.moveCard) {.  
+|     ^  
+22 |     onBeginContact(self: Collider2D, other: Collider2D) {  
+23 |  
+24 |         if (self.tag == 1 && window.moveCard) {.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-17T10:50:34.764Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-17T10:50:34.766Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-17T10:50:34.767Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-17T10:50:34.768Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-17T10:50:34.768Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-17T10:50:34.769Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-17T10:50:34.769Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-17T10:50:34.774Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack1" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack1"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack1" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack1"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-17T10:50:34.776Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack2" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack2"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack2" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack2"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-17T10:50:34.777Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack3" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack3"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack3" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack3"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-17T10:50:34.778Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack4" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack4"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack4" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack4"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-17T10:50:34.779Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack5" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack5"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack5" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack5"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-17T10:50:34.779Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack6" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack6"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack6" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack6"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-17T10:50:34.780Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack7" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack7"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack7" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack7"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-17T10:50:36.707Z - error: [Preview]Unable to resolve bare specifier '__unresolved_5' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-17T10:50:36.717Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_5' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-17T10:51:18.703Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/75/75b7cc72fc082b38d97b56e88e67221b25438d23.js
+2022-11-17T11:26:55.746Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'x') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-17T11:27:04.037Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'x') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-17T11:43:51.074Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/6a/6abdde4ba79f0a97e7dcea25ca5c1a8b4fe29a13.js
+2022-11-17T11:43:53.437Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/6a/6abdde4ba79f0a97e7dcea25ca5c1a8b4fe29a13.js
+2022-11-17T11:43:55.932Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/6a/6abdde4ba79f0a97e7dcea25ca5c1a8b4fe29a13.js
+2022-11-17T11:44:19.338Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:21.703Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:22.920Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:23.679Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:24.345Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:24.921Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:25.471Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:26.054Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:44:26.512Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T11:56:14.992Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'length') in http://localhost:7456/scripting/x/chunks/33/33461499aedb8d3857eedd4525c769b01376bbfe.js
+2022-11-17T13:50:30.809Z - warn: Metrics: no valid info
+2022-11-18T05:17:34.537Z - log: [Package] menu@1.0.0 enable
+2022-11-18T05:17:34.541Z - log: [Package] profile@1.0.0 enable
+2022-11-18T05:17:34.562Z - log: [Package] project@1.0.2 enable
+2022-11-18T05:17:34.570Z - log: [Package] messages@1.0.0 enable
+2022-11-18T05:17:34.586Z - log: [Package] program@1.0.0 enable
+2022-11-18T05:17:34.604Z - log: [Package] tester@1.0.0 enable
+2022-11-18T05:17:34.613Z - log: [Package] preferences@1.0.0 enable
+2022-11-18T05:17:36.166Z - log: Setup mods mgr.: 1.001s
+2022-11-18T05:17:36.193Z - verbose: [Engine] QuickCompile engine (1481ms)
+2022-11-18T05:17:36.199Z - log: [Package] engine@1.0.6 enable
+2022-11-18T05:17:37.558Z - log: [Package] programming@1.0.0 enable
+2022-11-18T05:17:38.167Z - log: [Package] device@1.0.1 enable
+2022-11-18T05:17:38.213Z - log: [Package] ui-kit@1.0.1 enable
+2022-11-18T05:17:38.240Z - log: [Package] engine-extends@1.0.0 enable
+2022-11-18T05:17:38.321Z - log: [Package] asset-db@1.0.0 enable
+2022-11-18T05:17:38.369Z - log: [Package] scene@1.0.0 enable
+2022-11-18T05:17:38.617Z - log: [Package] server@1.0.0 enable
+2022-11-18T05:17:38.725Z - log: [Package] utils@1.0.0 enable
+2022-11-18T05:17:43.155Z - log: [Package] preview@1.0.1 enable
+2022-11-18T05:17:43.191Z - log: [Package] animator@1.0.0 enable
+2022-11-18T05:17:44.094Z - log: [Package] builder@1.3.2 enable
+2022-11-18T05:17:44.129Z - log: [Package] shortcuts@1.0.1 enable
+2022-11-18T05:17:44.163Z - log: [Package] animation-graph@1.0.0 enable
+2022-11-18T05:17:44.206Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-11-18T05:17:44.229Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-11-18T05:17:44.259Z - log: [Package] about@1.0.0 enable
+2022-11-18T05:17:44.293Z - log: [Package] assets@1.0.0 enable
+2022-11-18T05:17:44.326Z - log: [Package] console@1.0.0 enable
+2022-11-18T05:17:44.505Z - log: [Package] extension@3.0.16 enable
+2022-11-18T05:17:44.541Z - log: [Package] hierarchy@1.0.0 enable
+2022-11-18T05:17:44.574Z - log: [Package] inspector@1.0.0 enable
+2022-11-18T05:17:44.607Z - log: [Package] lightmap@1.0.4 enable
+2022-11-18T05:17:44.645Z - log: [Package] node-library@1.0.1 enable
+2022-11-18T05:17:44.667Z - log: [Package] package-asset@1.0.0 enable
+2022-11-18T05:17:44.703Z - log: [Package] process@1.0.0 enable
+2022-11-18T05:17:44.759Z - log: [Package] reference-image@1.0.0 enable
+2022-11-18T05:17:44.805Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-11-18T05:17:44.849Z - log: [Package] android@1.0.0 enable
+2022-11-18T05:17:44.890Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-11-18T05:17:44.930Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-11-18T05:17:44.974Z - log: [Package] cocos-play@1.0.0 enable
+2022-11-18T05:17:45.015Z - log: [Package] huawei-agc@1.0.0 enable
+2022-11-18T05:17:45.056Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-11-18T05:17:45.100Z - log: [Package] ios@1.0.0 enable
+2022-11-18T05:17:45.140Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-11-18T05:17:45.181Z - log: [Package] link-sure@1.0.0 enable
+2022-11-18T05:17:45.223Z - log: [Package] linux@1.0.0 enable
+2022-11-18T05:17:45.265Z - log: [Package] mac@1.0.0 enable
+2022-11-18T05:17:45.395Z - log: [Package] native@1.0.0 enable
+2022-11-18T05:17:45.432Z - log: [Package] ohos@1.0.0 enable
+2022-11-18T05:17:45.472Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-11-18T05:17:45.514Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-11-18T05:17:45.556Z - log: [Package] qtt@1.0.0 enable
+2022-11-18T05:17:45.598Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-11-18T05:17:45.660Z - log: [Package] web-desktop@1.0.0 enable
+2022-11-18T05:17:45.702Z - log: [Package] web-mobile@1.0.0 enable
+2022-11-18T05:17:45.758Z - log: [Package] wechatgame@1.0.1 enable
+2022-11-18T05:17:45.805Z - log: [Package] windows@1.0.0 enable
+2022-11-18T05:17:45.848Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-11-18T05:17:46.127Z - log: [Package] cocos-service@3.0.3 enable
+2022-11-18T05:17:46.183Z - log: [Package] importer@1.0.0 enable
+2022-11-18T05:17:46.473Z - log: [Im-plugin] Check im-plugin version.
+2022-11-18T05:17:46.483Z - log: [Package] im-plugin@3.0.8 enable
+2022-11-18T05:17:46.906Z - verbose: [AssetDB] Require engine code (3174ms)
+2022-11-18T05:17:51.927Z - log: [Im-plugin] No online info of im-plugin.
+2022-11-18T05:17:53.898Z - verbose: [Scene] Require engine code (2ms)
+2022-11-18T05:17:53.899Z - verbose: [Scene] Startup engine (1ms)
+2022-11-18T05:17:53.963Z - log: [Scene] Cocos Creator v3.5.2
+2022-11-18T05:17:54.519Z - verbose: [Scene] Open engine (620ms)
+2022-11-18T05:17:54.520Z - verbose: [Scene] Configure engine (0ms)
+2022-11-18T05:17:54.142Z - info: [Scene] Forward render pipeline initialized.
+2022-11-18T05:28:53.708Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-11-18T05:53:40.232Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:40.383Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:40.563Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:41.226Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:41.411Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:41.568Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:41.750Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:41.907Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:42.074Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:53:42.235Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'suit') in http://localhost:7456/scripting/x/chunks/f3/f3cbfd59f1f6353829d4c9d64a84db80019f24b4.js
+2022-11-18T05:59:23.522Z - error: [Preview]Uncaught TypeError: this.creatCard is not a function in http://localhost:7456/scripting/x/chunks/fd/fd16dae8fc2bf0dd543cf340d7d875aced4f02b0.js
+2022-11-18T06:20:45.656Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'push') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T06:20:45.673Z - error: [Preview]Uncaught TypeError: node._updateSiblingIndex is not a function in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T06:20:46.442Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'm03') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T06:20:46.528Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'capturingTarget') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T06:20:46.551Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'capturingTarget') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T06:20:46.558Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'capturingTarget') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T06:20:46.945Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'm03') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T06:57:28.468Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'addChild') in http://localhost:7456/scripting/x/chunks/05/05fce55bf34e7894d5b8c4d9afb4cecf778dcfdf.js
+2022-11-18T06:57:44.092Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'addChild') in http://localhost:7456/scripting/x/chunks/05/05fce55bf34e7894d5b8c4d9afb4cecf778dcfdf.js
+2022-11-18T07:26:51.232Z - error: [Preview]Uncaught TypeError: child.setParent is not a function in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T07:27:40.547Z - error: [Preview]Uncaught TypeError: child.setParent is not a function in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T07:40:01.626Z - error: [Preview]Uncaught TypeError: Cannot set properties of undefined (setting 'active') in http://localhost:7456/scripting/x/chunks/59/59543fc4d3f109d21587b0a18bf1e4add1113464.js
+2022-11-18T07:41:28.189Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'faceDown') in http://localhost:7456/scripting/x/chunks/66/66a8412cdba534e7d02bae5526029e8a9a21dbff.js
+2022-11-18T07:42:24.273Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'faceDown') in http://localhost:7456/scripting/x/chunks/e4/e400c65aecfe58c3933d4eb6cd158a0b2459001e.js
+2022-11-18T07:45:59.676Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/60/606a4cc239f28491079baa710282f758bcb38902.js
+2022-11-18T07:47:04.745Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/bf/bf4a36fbeb2553d1d0c737203c3730031030a023.js
+2022-11-18T08:20:40.747Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'setParent') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T08:35:10.471Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (89:39)
+
+  87 |     }
+  88 |     OnResetDeck(cardArray) {
+> 89 |         for (let i = 0; i < this.h, i++) {
+     |                                        ^
+  90 |             let resetCard = cardArray[this.count--];
+  91 |             this.resetdeckButton.addChild(resetCard);
+  92 |.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (89:39)
+
+  87 |     }
+  88 |     OnResetDeck(cardArray) {
+> 89 |         for (let i = 0; i < this.h, i++) {
+     |                                        ^
+  90 |             let resetCard = cardArray[this.count--];
+  91 |             this.resetdeckButton.addChild(resetCard);
+  92 |.  
+|                                        ^  
+90 |             let resetCard = cardArray[this.count--];  
+91 |             this.resetdeckButton.addChild(resetCard);  
+92 |.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-18T08:35:10.531Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (89:39)
+
+  87 |     }
+  88 |     OnResetDeck(cardArray) {
+> 89 |         for (let i = 0; i < this.h, i++) {
+     |                                        ^
+  90 |             let resetCard = cardArray[this.count--];
+  91 |             this.resetdeckButton.addChild(resetCard);
+  92 |.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (89:39)
+
+  87 |     }
+  88 |     OnResetDeck(cardArray) {
+> 89 |         for (let i = 0; i < this.h, i++) {
+     |                                        ^
+  90 |             let resetCard = cardArray[this.count--];
+  91 |             this.resetdeckButton.addChild(resetCard);
+  92 |.  
+|                                        ^  
+90 |             let resetCard = cardArray[this.count--];  
+91 |             this.resetdeckButton.addChild(resetCard);  
+92 |.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-18T08:35:10.525Z - warn: [Scene] Missing class: 67016LY33pPjpMF7bkdwWylError: [Scene] Missing class: 67016LY33pPjpMF7bkdwWyl
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-18T08:35:10.532Z - error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+Error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-18T08:35:12.464Z - error: [Preview]Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-18T08:35:12.467Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_4' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-18T08:35:45.656Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'setParent') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T08:36:32.586Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'setParent') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T09:54:40.592Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'setParent') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T09:54:42.562Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'setParent') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T09:54:43.631Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'setParent') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T09:54:44.333Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'setParent') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-11-18T10:17:29.301Z - error: [Preview]Uncaught Error in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/external/%2540cocos/box2d.js
+2022-11-18T10:18:22.416Z - error: [Preview]Uncaught Error in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/external/%2540cocos/box2d.js
+2022-11-18T10:57:50.120Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts: Error: Error when fetching file D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts: Error: ENOENT: no such file or directory, open 'D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts'.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts: Error: Error when fetching file D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts: Error: ENOENT: no such file or directory, open 'D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts'.  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-18T10:57:50.168Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts: Error: Error when fetching file D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts: Error: ENOENT: no such file or directory, open 'D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts'.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameManager.ts: Error: Error when fetching file D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts: Error: ENOENT: no such file or directory, open 'D:\GAMIXLABS\Solitaire\assets\Script\GameManager.ts'.  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-18T10:57:50.174Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_2 from pack:///chunks/bf/bf8bb147309a2a7875dfe6269eecc2d62f4ced49.js.
+    at ExecutorSystem._throwUnresolved (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:145:15)
+    at ExecutorSystem._resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:94:21)
+    at SystemJS.resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:28:23)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_2 from pack:///chunks/bf/bf8bb147309a2a7875dfe6269eecc2d62f4ced49.js.
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)
+    at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:253:22)
+    at SystemJS.onload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:62:18)
+    at triggerOnload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:270:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:431:7
+    at async file:///D:/GAMIXLABS/Solitaire/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+2022-11-18T10:57:50.188Z - warn: [Scene] Missing class: 67016LY33pPjpMF7bkdwWylError: [Scene] Missing class: 67016LY33pPjpMF7bkdwWyl
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-18T10:57:50.193Z - error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+Error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-18T10:57:51.940Z - error: [Preview]unhandledrejection: Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/chunks/ee/ee40508c2a84998733bab5dd7cf1b35351b6673c.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-18T10:57:51.951Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/chunks/ee/ee40508c2a84998733bab5dd7cf1b35351b6673c.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-18T10:57:51.972Z - error: [Preview]Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/chunks/ee/ee40508c2a84998733bab5dd7cf1b35351b6673c.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-18T10:57:51.974Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/chunks/ee/ee40508c2a84998733bab5dd7cf1b35351b6673c.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43

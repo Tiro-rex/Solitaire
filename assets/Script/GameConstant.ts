@@ -1,3 +1,5 @@
+import { EventEmitter } from "./EventEmitter";
+
 export const enum Suits {
     h,
     d,
@@ -39,7 +41,7 @@ export const CardType={
     facedown:2
 }
 export const enum Colour {
-    None,
+    None=0,
     Black,
     Red,
 
@@ -256,3 +258,5 @@ export const CARDS_ARRAY = [
         "rank": "K"
     }
 ]
+
+export const cardMove = new EventEmitter();
