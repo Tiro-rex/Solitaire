@@ -1,7 +1,7 @@
 
-import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3, Button, math, Collider2D, ICollisionEvent, Collider, BoxCollider2D, Contact2DType, IPhysics2DContact, PhysicsSystem2D, } from 'cc';
+import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3, Button, math, Collider2D, ICollisionEvent, Collider, BoxCollider2D, Contact2DType, IPhysics2DContact, PhysicsSystem2D, sp, } from 'cc';
 import { Card } from './Card';
-import { Ranks, Colour, Suits } from './GameConstant';
+import { Ranks, Colour, Suits, cardMove, DCard, snapParent } from './GameConstant';
 import { CARDS_ARRAY, CardType } from './GameConstant';
 import { Pile } from './Pile';
 import ReaveldCard from './ReaveldCard';
@@ -22,10 +22,10 @@ export class GameScreen extends Component {
     reaveldCard: Node;
 
     @property(Button)
-    deck: (Button);
+    deck: Button;
 
     @property(Node)
-    resetdeckButton: (Node);
+    resetdeckButton: Node;
 
     @property(Node)
     stack1: Node
@@ -56,19 +56,23 @@ export class GameScreen extends Component {
     public lastindex: any;
     count: number;
     initiallyGeneratedCard = 0;
+    playingCard: void;
+    deckSnap: any;
 
 
     // instantiationOfStack=true;
 
     onLaod() {
-
     }
     start() {
+        // PhysicsSystem2D.instance.enable = true;
+        // this.stackcoll();
         this.SuffeledArray = CARDS_ARRAY;
         this.Shuffel(this.SuffeledArray);
         this.generateAllCards(this.SuffeledArray);
         this.initilizeStack();
     }
+
     OnClick() {
 
         if (this.initiallyGeneratedCard == 52) {
@@ -77,6 +81,7 @@ export class GameScreen extends Component {
         }
         else {
             this.deckCard(this.allCardsArrays);
+            DCard.on("fromDeck", this.removeParentFrokmdeck, this);
         }
     }
     OnResetDeck() {
@@ -91,7 +96,20 @@ export class GameScreen extends Component {
         this.reaveldCard.addChild(card);
         card.getComponent(ReaveldCard).faceDown.active = false;
         this.h = this.h2.push(card);
-        console.log("length", this.h)
+    }
+    removeParentFrokmdeck(card) {
+        this.reaveldCard.removeChild(card);
+        this.initiallyGeneratedCard += 1;
+        this.count += 1;
+        snapParent.on("ParentforSnap", this.fun, this)
+        DCard.removeListener("fromDeck", this.removeParentFrokmdeck, this)
+       
+    }
+   
+    fun(sp) {
+       sp.sp.addChild(sp.c);
+
+        snapParent.removeListener('ParentforSnap', this.fun, this)
     }
 
 
@@ -115,10 +133,10 @@ export class GameScreen extends Component {
     }
     initilizeStack() {
         this.count = 0;
-        for (let i = 1; i <= 7; i++) {
+        for (let i = 0; i < 7; i++) {
             this.count += i;
-            let stack = this.defaultPlayArea(i).getComponent(Pile)
-            stack.init(this.allCardsArrays, i, this.count)
+            let stack = this.defaultPlayArea(i + 1).getComponent(Pile)
+            stack.init(this.allCardsArrays, i + 1, this.count)
         }
         this.count += 7;
         this.initiallyGeneratedCard = this.count;
@@ -148,12 +166,13 @@ export class GameScreen extends Component {
             }, milliseconds);
         });
     }
-//     sortByRank(cardArray) {
-//         let arr = [...cardArray]
-// for(let i=0;i<arr.length;i++){
-    
-// }
 
+    // onDisable() {
+    //     for (let i = 0; i <= 7; i++) {
+    //         let pile = this.defaultPlayArea(i)
+    //         let coll = pile.getComponent(Collider2D);
+    //         coll.off(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+    //     }
     // }
 
 }

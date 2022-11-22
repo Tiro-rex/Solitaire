@@ -1,5 +1,6 @@
 import { _decorator, Component, Node, TERRAIN_HEIGHT_BASE, color, Label, Vec2, Vec3, Touch, Color, math, systemEvent } from 'cc';
-import { cardMove, Colour, Ranks, Suits } from './GameConstant';
+import { SUPPORT_JIT } from 'cc/env';
+import { cardMove, cardRanks, Colour, DCard, Ranks, Suits } from './GameConstant';
 import { GameScreen } from './GameScreen';
 const { ccclass, property } = _decorator;
 
@@ -17,17 +18,20 @@ export default class ReaveldCard extends Component {
     @property(Node)
     faceDown: Node;
 
-public cardColor: string;
-public cardace: string;
-public cardNumber: string;
-public touchStart = new Vec2();
-public offSet = new Vec2();
-public newPosition = new Vec3();
-public lastPosition = new Vec2()
-public zoomPercentage = 100;
-public lastZoomPercentage = 100;
-public gameS: GameScreen;
-
+    public cardColor: string;
+    public cardace: string;
+    public cardNumber: string;
+    public touchStart = new Vec2();
+    public offSet = new Vec2();
+    public newPosition = new Vec3();
+    public lastPosition = new Vec2()
+    public zoomPercentage = 100;
+    public lastZoomPercentage = 100;
+    public gameS: GameScreen;
+    public parentToCheck: string;
+    public value: number;
+    public valueString: string;
+    suitofCard: any;
 
 
 
@@ -37,14 +41,15 @@ public gameS: GameScreen;
         // let get = this.game.Shuffel(data)
         // console.log(get);
 
+        // this.rankValue(data.rank);
         this.cardFace.string = data.suit;
         this.cardRank.string = data.rank;
         this.cardRank2.string = data.rank;
+        this.value = data.value
         this.cardNumber = data.rank;
         if (this.cardFace.string == '♥' || this.cardFace.string == '♦') {
             this.cardace = data.suit;
             this.cardRank.color = new Color(255, 0, 0);
-
             this.cardRank2.color = new Color(255, 0, 0);
             this.cardFace.color = new Color(255, 0, 0);
         }
@@ -63,8 +68,9 @@ public gameS: GameScreen;
 
         this.touchStart = e.getUILocation();
         Vec2.subtract(this.offSet, this.node.getParent().getPosition() as unknown as Vec2, this.touchStart);
-        console.log("heyys", this.cardace, this.cardNumber);
-        console.log("Parent", this.node.getParent())
+        console.log("heyys", this.cardace, this.cardNumber, this.value);
+        // console.log("Parent", this.node)
+        this.parentToCheck = this.node.getParent().name;
 
     }
     onMoveStart(e: Touch | null) {
@@ -75,9 +81,19 @@ public gameS: GameScreen;
         this.touchStart = this.lastPosition;
         window.moveCard = true;
     }
-    onTouchEnd(p:Touch) {
-        cardMove.emit("snapCard",this.node);
+    onTouchEnd(p: Touch) {
+        if (this.parentToCheck.toString() == 'ReavledCard') {
+            //console.log("herere_==><")
+            DCard.emit("fromDeck", this.node);
+        }
+        else {
+            // console.log(this.parentToCheck.toString());
+            cardMove.emit("snapCard", this.node);
+        }
     }
+
+   
+    
 }
 
 

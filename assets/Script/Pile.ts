@@ -1,6 +1,6 @@
-import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3, Button, Collider2D, PhysicsSystem2D, Contact2DType } from 'cc';
+import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3, Button, Collider2D, PhysicsSystem2D, Contact2DType, game } from 'cc';
 import { Card } from './Card';
-import { cardMove, CARDS_ARRAY } from './GameConstant';
+import { cardMove, CARDS_ARRAY, Ranks, snapParent } from './GameConstant';
 import { GameScreen } from './GameScreen';
 import ReaveldCard from './ReaveldCard';
 const { ccclass, property } = _decorator;
@@ -8,11 +8,14 @@ const { ccclass, property } = _decorator;
 
 @ccclass('Pile')
 export class Pile extends Component {
+    // @property(Node)
+    // deckOfCard: Node;
 
-    offSet = new Vec2();
+    offCard: any[];
 
-    public cardR: ReaveldCard;
-    snapParent: Node
+    public cardR: any;
+    snapParent: any;
+    // snapcard: boolean = false;
 
     start() {
         PhysicsSystem2D.instance.enable = true;
@@ -20,36 +23,45 @@ export class Pile extends Component {
         coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
         // this.cardR.getComponent(ReaveldCard)
     }
-
+    onDisable() {
+        this.node.off(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+    }
     async init(array, len, count) {
-        //console.log(array, len, count);
+        // console.log(array, len, count);
+        // if (len == 1) {
+        //     console.log("ifloop")
+        //     this.node.addChild(array[count - 1]);
+        // }
+        // else {
         for (let i = 0; i < len; i++) {
-            await this.delay(200, this.node.addChild(array[count - 1 + i]));
+            await this.delay(200, this.node.addChild(array[count + i]));
 
         }
+        // }
         this.node.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
 
     }
     onBeginContact(self: Collider2D, other: Collider2D) {
         this.snapParent = self.node;
-        // other.node.getComponent(ReaveldCard)
+        this.cardR = other.node;
+        // console.log("hhihihi", self);
+        snapParent.emit("ParentforSnap", { sp: this.snapParent, c: this.cardR })
+
+
+
+        // console.log("Snaping Parent", this.snapParent);
+
         if (self.tag == 1 && window.moveCard) {
-            // //let newPos = self.node.getPosition();
-            // this.node.addChild(other.node);
-            // console.log("Parent-->", Parent)
-            // console.log("Postion collider", newPos);
-            //other.node.setPosition(newPos);
-            //other.node.setSiblingIndex(1);
-            // console.log("stack-->", self.tag);
             cardMove.on("snapCard", this.snapCardToParent, this)
+            console.log("stack-->", self.tag);
         }
         if (self.tag == 2 && window.moveCard) {
             cardMove.on("snapCard", this.snapCardToParent, this)
             console.log("stack-->", self.tag);
         }
         if (self.tag == 3 && window.moveCard) {
-            console.log("stack-->", self.tag);
             cardMove.on("snapCard", this.snapCardToParent, this)
+            console.log("stack-->", self.tag);
         }
         if (self.tag == 4 && window.moveCard) {
             cardMove.on("snapCard", this.snapCardToParent, this)
@@ -68,16 +80,26 @@ export class Pile extends Component {
             console.log("stack-->", self.tag);
         }
     }
+    // checkBeforesnap() {
 
-
+    //     console.log("card", value)
+    // }
     snapCardToParent(card) {
-        // console.log("Card In Snap", card);
-        console.log("before 1-->", this.snapParent.children.length);
-        console.log("before 2-->", this.node.children.length);
-        this.snapParent.addChild(card);
-        console.log("after 1-->", this.snapParent.children.length);
-        console.log("after 2-->", this.node.children.length);
 
+        this.node.removeChild(card);
+        let value = this.cardR.getComponent(ReaveldCard).value
+        let index = this.node.children.length;
+        let indexforstack = this.snapParent.children.length
+        let cardInStack = this.snapParent.children[index - 1].getComponent(ReaveldCard).value
+
+        console.log("card  ", value.toString())
+        console.log("cardStack  ", cardInStack.toString())
+        if (value + 1 == cardInStack) {
+            this.snapParent.addChild(card);
+        } else {
+            // /this.node.addChild(card);
+        }
+        this.snapParent.children[indexforstack - 1].getComponent(ReaveldCard).faceDown.active = false;
         cardMove.removeListener("snapCard", this.snapCardToParent, this)
     }
 

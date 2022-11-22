@@ -7,8 +7,8 @@ export const enum Suits {
     s
 };
 
-// export const Ranks =
-//     ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'];
+export const cardRanks =
+    ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'];
 
 export const enum Ranks {
     None,
@@ -35,13 +35,13 @@ export const Places = {
     PILE: 'PILE',
     DECK: 'DECK'
 };
-export const CardType={
-    none:0,
-    faceup:1,
-    facedown:2
+export const CardType = {
+    none: 0,
+    faceup: 1,
+    facedown: 2
 }
 export const enum Colour {
-    None=0,
+    None = 0,
     Black,
     Red,
 
@@ -51,212 +51,267 @@ export const enum Colour {
 export const CARDS_ARRAY = [
     {
         "suit": "♠",
-        "rank": "A"
+        "rank": "A",
+        "value":1
     },
     {
         "suit": "♣",
-        "rank": "A"
+        "rank": "A",
+        "value":1
+        
     },
     {
         "suit": "♦",
-        "rank": "A"
+        "rank": "A",
+        "value":1
     },
     {
         "suit": "♥",
-        "rank": "A"
+        "rank": "A",
+        "value":1
     },
     {
         "suit": "♥",
-        "rank": 2
+        "rank": 2,
+        "value":2
     },
     {
         "suit": "♥",
-        "rank": 3
+        "rank": 3,
+        "value":3
     },
     {
         "suit": "♥",
-        "rank": 4
+        "rank": 4,
+        "value":4
     },
     {
         "suit": "♥",
-        "rank": 5
+        "rank": 5,
+        "value":5
     },
     {
         "suit": "♥",
-        "rank": 6
+        "rank": 6,
+        "value":6
     },
     {
         "suit": "♥",
-        "rank": 7
+        "rank": 7,
+        "value":7
     },
     {
         "suit": "♥",
-        "rank": 8
+        "rank": 8,
+        "value":8
     },
     {
         "suit": "♥",
-        "rank": 9
+        "rank": 9,
+        "value":9
     },
     {
         "suit": "♥",
-        "rank": 10
+        "rank": 10,
+        "value":10
     },
     {
         "suit": "♥",
-        "rank": "J"
+        "rank": "J",
+        "value":11
     },
     {
         "suit": "♥",
-        "rank": "Q"
+        "rank": "Q",
+        "value":12
     },
     {
         "suit": "♥",
-        "rank": "K"
+        "rank": "K",
+        "value":13
     },
     {
         "suit": "♦",
-        "rank": 2
+        "rank": 2,
+        "value":2
     },
     {
         "suit": "♦",
-        "rank": 3
+        "rank": 3,
+        "value":3
     },
     {
         "suit": "♦",
-        "rank": 4
+        "rank": 4,
+        "value":4
     },
     {
         "suit": "♦",
-        "rank": 5
+        "rank": 5,
+        "value":5
     },
     {
         "suit": "♦",
-        "rank": 6
+        "rank": 6,
+        "value":6
     },
     {
         "suit": "♦",
-        "rank": 7
+        "rank": 7,
+        "value":7
     },
     {
         "suit": "♦",
-        "rank": 8
+        "rank": 8,
+        "value":8
     },
     {
         "suit": "♦",
-        "rank": 9
+        "rank": 9,
+        "value":9
     },
     {
         "suit": "♦",
-        "rank": 10
+        "rank": 10,
+        "value":10
     },
     {
         "suit": "♦",
-        "rank": "J"
+        "rank": "J",
+        "value":11
     },
     {
         "suit": "♦",
-        "rank": "Q"
+        "rank": "Q",
+        "value":12
     },
     {
         "suit": "♦",
-        "rank": "K"
+        "rank": "K",
+        "value":13
     },
     {
         "suit": "♣",
-        "rank": 2
+        "rank": 2,
+        "value":2
     },
     {
         "suit": "♣",
-        "rank": 3
+        "rank": 3,
+        "value":3
     },
     {
         "suit": "♣",
-        "rank": 4
+        "rank": 4,
+        "value":4
     },
     {
         "suit": "♣",
-        "rank": 5
+        "rank": 5,
+        "value":5
     },
     {
         "suit": "♣",
-        "rank": 6
+        "rank": 6,
+        "value":6
     },
     {
         "suit": "♣",
-        "rank": 7
+        "rank": 7,
+        "value":7
     },
     {
         "suit": "♣",
-        "rank": 8
+        "rank": 8,
+        "value":8
     },
     {
         "suit": "♣",
-        "rank": 9
+        "rank": 9,
+        "value":9
     },
     {
         "suit": "♣",
-        "rank": 10
+        "rank": 10,
+        "value":10
     },
     {
         "suit": "♣",
-        "rank": "J"
+        "rank": "J",
+        "value":11
     },
     {
         "suit": "♣",
-        "rank": "Q"
+        "rank": "Q",
+        "value":12
     },
     {
         "suit": "♣",
-        "rank": "K"
+        "rank": "K",
+        "value":13
     },
     {
         "suit": "♠",
-        "rank": 2
+        "rank": 2,
+        "value":2
     },
     {
         "suit": "♠",
-        "rank": 3
+        "rank": 3,
+        "value":3
     },
     {
         "suit": "♠",
-        "rank": 4
+        "rank": 4,
+        "value":4
     },
     {
         "suit": "♠",
-        "rank": 5
+        "rank": 5,
+        "value":5
     },
     {
         "suit": "♠",
-        "rank": 6
+        "rank": 6,
+        "value":6
     },
     {
         "suit": "♠",
-        "rank": 7
+        "rank": 7,
+        "value":7
     },
     {
         "suit": "♠",
-        "rank": 8
+        "rank": 8,
+        "value":8
     },
     {
         "suit": "♠",
-        "rank": 9
+        "rank": 9,
+        "value":9
     },
     {
         "suit": "♠",
-        "rank": 10
+        "rank": 10,
+        "value":10
     },
     {
         "suit": "♠",
-        "rank": "J"
+        "rank": "J",
+        "value":11
     },
     {
         "suit": "♠",
-        "rank": "Q"
+        "rank": "Q",
+        "value":12
     },
     {
         "suit": "♠",
-        "rank": "K"
+        "rank": "K",
+        "value":13
     }
 ]
 
 export const cardMove = new EventEmitter();
+export const DCard = new EventEmitter();
+export const snapParent =new EventEmitter();

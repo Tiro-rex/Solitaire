@@ -4926,3 +4926,269 @@ Class ID: "67016LY33pPjpMF7bkdwWyl"
     at http://localhost:7456/scripting/systemjs/system.js:336:39
     at Array.map (<anonymous>)
     at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-18T14:02:25.797Z - warn: Metrics: no valid info
+2022-11-18T14:02:25.822Z - error: Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: Invalid guestInstanceId: 6
+    at getGuestForWebContents (electron/js2c/browser_init.js:181:6307)
+    at electron/js2c/browser_init.js:181:5372
+    at electron/js2c/browser_init.js:181:1637
+    at electron/js2c/browser_init.js:197:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9782)
+    at Object.emit (events.js:315:20)
+2022-11-21T05:06:22.961Z - log: [Package] menu@1.0.0 enable
+2022-11-21T05:06:22.965Z - log: [Package] profile@1.0.0 enable
+2022-11-21T05:06:22.984Z - log: [Package] project@1.0.2 enable
+2022-11-21T05:06:22.992Z - log: [Package] messages@1.0.0 enable
+2022-11-21T05:06:23.009Z - log: [Package] program@1.0.0 enable
+2022-11-21T05:06:23.019Z - log: [Package] tester@1.0.0 enable
+2022-11-21T05:06:23.028Z - log: [Package] preferences@1.0.0 enable
+2022-11-21T05:06:24.731Z - log: Setup mods mgr.: 1.087s
+2022-11-21T05:06:24.757Z - verbose: [Engine] QuickCompile engine (1636ms)
+2022-11-21T05:06:24.761Z - log: [Package] engine@1.0.6 enable
+2022-11-21T05:06:26.131Z - log: [Package] programming@1.0.0 enable
+2022-11-21T05:06:26.685Z - log: [Package] device@1.0.1 enable
+2022-11-21T05:06:26.723Z - log: [Package] ui-kit@1.0.1 enable
+2022-11-21T05:06:26.749Z - log: [Package] engine-extends@1.0.0 enable
+2022-11-21T05:06:26.845Z - log: [Package] asset-db@1.0.0 enable
+2022-11-21T05:06:26.901Z - log: [Package] scene@1.0.0 enable
+2022-11-21T05:06:27.194Z - log: [Package] server@1.0.0 enable
+2022-11-21T05:06:27.307Z - log: [Package] utils@1.0.0 enable
+2022-11-21T05:06:32.813Z - log: [Package] preview@1.0.1 enable
+2022-11-21T05:06:32.852Z - log: [Package] animator@1.0.0 enable
+2022-11-21T05:06:34.540Z - log: [Package] builder@1.3.2 enable
+2022-11-21T05:06:34.588Z - log: [Package] shortcuts@1.0.1 enable
+2022-11-21T05:06:34.634Z - log: [Package] animation-graph@1.0.0 enable
+2022-11-21T05:06:34.658Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-11-21T05:06:34.690Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-11-21T05:06:34.737Z - log: [Package] about@1.0.0 enable
+2022-11-21T05:06:34.784Z - log: [Package] assets@1.0.0 enable
+2022-11-21T05:06:34.831Z - log: [Package] console@1.0.0 enable
+2022-11-21T05:06:35.117Z - log: [Package] extension@3.0.16 enable
+2022-11-21T05:06:35.171Z - log: [Package] hierarchy@1.0.0 enable
+2022-11-21T05:06:35.219Z - log: [Package] inspector@1.0.0 enable
+2022-11-21T05:06:35.266Z - log: [Package] lightmap@1.0.4 enable
+2022-11-21T05:06:35.316Z - log: [Package] node-library@1.0.1 enable
+2022-11-21T05:06:35.346Z - log: [Package] package-asset@1.0.0 enable
+2022-11-21T05:06:35.385Z - log: [Package] process@1.0.0 enable
+2022-11-21T05:06:35.435Z - log: [Package] reference-image@1.0.0 enable
+2022-11-21T05:06:35.461Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-11-21T05:06:35.494Z - log: [Package] android@1.0.0 enable
+2022-11-21T05:06:35.525Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-11-21T05:06:35.557Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-11-21T05:06:35.589Z - log: [Package] cocos-play@1.0.0 enable
+2022-11-21T05:06:35.621Z - log: [Package] huawei-agc@1.0.0 enable
+2022-11-21T05:06:35.654Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-11-21T05:06:35.689Z - log: [Package] ios@1.0.0 enable
+2022-11-21T05:06:35.725Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-11-21T05:06:35.757Z - log: [Package] link-sure@1.0.0 enable
+2022-11-21T05:06:35.789Z - log: [Package] linux@1.0.0 enable
+2022-11-21T05:06:35.821Z - log: [Package] mac@1.0.0 enable
+2022-11-21T05:06:36.007Z - log: [Package] native@1.0.0 enable
+2022-11-21T05:06:36.046Z - log: [Package] ohos@1.0.0 enable
+2022-11-21T05:06:36.077Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-11-21T05:06:36.109Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-11-21T05:06:36.141Z - log: [Package] qtt@1.0.0 enable
+2022-11-21T05:06:36.174Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-11-21T05:06:36.234Z - log: [Package] web-desktop@1.0.0 enable
+2022-11-21T05:06:36.295Z - log: [Package] web-mobile@1.0.0 enable
+2022-11-21T05:06:36.351Z - log: [Package] wechatgame@1.0.1 enable
+2022-11-21T05:06:36.381Z - log: [Package] windows@1.0.0 enable
+2022-11-21T05:06:36.413Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-11-21T05:06:36.823Z - log: [Package] cocos-service@3.0.3 enable
+2022-11-21T05:06:36.871Z - log: [Package] importer@1.0.0 enable
+2022-11-21T05:06:37.313Z - log: [Im-plugin] Check im-plugin version.
+2022-11-21T05:06:37.341Z - log: [Package] im-plugin@3.0.8 enable
+2022-11-21T05:06:40.033Z - verbose: [AssetDB] Require engine code (6051ms)
+2022-11-21T05:06:43.440Z - log: [Im-plugin] No online info of im-plugin.
+2022-11-21T05:06:53.195Z - verbose: [Scene] Require engine code (4ms)
+2022-11-21T05:06:53.197Z - verbose: [Scene] Startup engine (1ms)
+2022-11-21T05:06:53.307Z - log: [Scene] Cocos Creator v3.5.2
+2022-11-21T05:06:54.504Z - verbose: [Scene] Open engine (1306ms)
+2022-11-21T05:06:54.504Z - verbose: [Scene] Configure engine (0ms)
+2022-11-21T05:06:53.684Z - info: [Scene] Forward render pipeline initialized.
+2022-11-21T05:24:54.649Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-11-21T05:25:31.962Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'node') in http://localhost:7456/scripting/x/chunks/05/0508bbd3ffd972daa5368c80f2243ec1a4c15c38.js
+2022-11-21T05:33:35.259Z - error: [Preview]Uncaught TypeError: card.getParent(...).removeChildren is not a function in http://localhost:7456/scripting/x/chunks/19/19f92e1752faa8b5d87bd4ac2696f65c1b80a7ec.js
+2022-11-21T05:44:50.614Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/20/20a21b07566a6c0962eef1da7b3e62f1eca8dd1d.js
+2022-11-21T05:45:01.331Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/20/20a21b07566a6c0962eef1da7b3e62f1eca8dd1d.js
+2022-11-21T05:45:59.143Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/4d/4dfe126a3dfe8b52186938cd8011f47888d411ee.js
+2022-11-21T05:56:53.822Z - error: [Preview]Uncaught TypeError: #<Node> is not a function in http://localhost:7456/scripting/x/chunks/c1/c14d70e7bf1513a38693023b7a2c1be5fe440d28.js
+2022-11-21T05:58:11.561Z - error: [Preview]Uncaught TypeError: #<Node> is not a function in http://localhost:7456/scripting/x/chunks/02/02e0a278d0e17d7e26f850802897c658ab91b84a.js
+2022-11-21T05:58:53.979Z - error: [Preview]Uncaught TypeError: #<Node> is not a function in http://localhost:7456/scripting/x/chunks/de/dee3f3b745d16eba2e841d0f7ad44defaa277af4.js
+2022-11-21T05:59:48.485Z - error: [Preview]Uncaught TypeError: card.findIndex is not a function in http://localhost:7456/scripting/x/chunks/00/008fb3a272aa563649dc705b874dba1f3e6cc282.js
+2022-11-21T06:09:50.840Z - error: [Preview]Uncaught TypeError: Cannot set properties of undefined (setting 'active') in http://localhost:7456/scripting/x/chunks/31/31e322842eda048b13bc8d9dcbf73e166dfa599b.js
+2022-11-21T06:19:22.398Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b1/b1a40f7ffc9a3ab5743d49ce7cca736f9aa27f12.js
+2022-11-21T06:19:59.273Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b1/b1a40f7ffc9a3ab5743d49ce7cca736f9aa27f12.js
+2022-11-21T06:20:08.443Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b1/b1a40f7ffc9a3ab5743d49ce7cca736f9aa27f12.js
+2022-11-21T06:20:10.190Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b1/b1a40f7ffc9a3ab5743d49ce7cca736f9aa27f12.js
+2022-11-21T06:20:11.031Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b1/b1a40f7ffc9a3ab5743d49ce7cca736f9aa27f12.js
+2022-11-21T06:22:42.165Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/29/29dad2d0c2b8cd3a2da1d6e06388362de03f6aa1.js
+2022-11-21T06:27:09.377Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/8e/8ef77c968eb852b76b9b6d9e709941c538d826b6.js
+2022-11-21T06:33:27.593Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/4f/4fe8b59b9865f6898bb5fee44ffb90713f53fbff.js
+2022-11-21T06:37:10.347Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/4f/4fe8b59b9865f6898bb5fee44ffb90713f53fbff.js
+2022-11-21T07:15:19.348Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/64/640b960491d3221c1cfdaaf3b5235b8a92b7f188.js
+2022-11-21T07:28:56.252Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/64/640b960491d3221c1cfdaaf3b5235b8a92b7f188.js
+2022-11-21T07:46:46.424Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'removeChild') in http://localhost:7456/scripting/x/chunks/de/de010e66941678ce2467961b475b9211e03e80a6.js
+2022-11-21T07:53:53.372Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'removeChild') in http://localhost:7456/scripting/x/chunks/de/de010e66941678ce2467961b475b9211e03e80a6.js
+2022-11-21T08:04:08.342Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'removeChild') in http://localhost:7456/scripting/x/chunks/de/de010e66941678ce2467961b475b9211e03e80a6.js
+2022-11-21T08:08:12.971Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapcard') in http://localhost:7456/scripting/x/chunks/0a/0a6c5e3fd89cb63779d7c2cc9f9f28196f28e3c5.js
+2022-11-21T08:15:08.232Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapcard') in http://localhost:7456/scripting/x/chunks/0a/0a6c5e3fd89cb63779d7c2cc9f9f28196f28e3c5.js
+2022-11-21T08:15:28.045Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapcard') in http://localhost:7456/scripting/x/chunks/8b/8bb22c7e954cf285b7e45c8314d45f85819e1bc7.js
+2022-11-21T08:16:48.441Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapcard') in http://localhost:7456/scripting/x/chunks/0a/0a9089fae20de77cbd9e124764d9e2df0c9312ea.js
+2022-11-21T08:23:44.172Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapcard') in http://localhost:7456/scripting/x/chunks/9e/9e7627e30c1bdaaa93c80e0e68b0cae3f5dd40c0.js
+2022-11-21T08:25:47.734Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (95:13)
+
+  93 |         this.h = this.h2.push(card);
+  94 |         console.log("length", this.h)
+> 95 |         let h(card.getComponent(Pile).snapcard)
+     |              ^
+  96 |         if (pile) {
+  97 |             this.reaveldCard.removeChild(card);
+  98 |         }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (95:13)
+
+  93 |         this.h = this.h2.push(card);
+  94 |         console.log("length", this.h)
+> 95 |         let h(card.getComponent(Pile).snapcard)
+     |              ^
+  96 |         if (pile) {
+  97 |             this.reaveldCard.removeChild(card);
+  98 |         }.  
+|              ^  
+96 |         if (pile) {  
+97 |             this.reaveldCard.removeChild(card);  
+98 |         }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-21T08:25:47.781Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (95:13)
+
+  93 |         this.h = this.h2.push(card);
+  94 |         console.log("length", this.h)
+> 95 |         let h(card.getComponent(Pile).snapcard)
+     |              ^
+  96 |         if (pile) {
+  97 |             this.reaveldCard.removeChild(card);
+  98 |         }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire/assets/Script/GameScreen.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire\assets\Script\GameScreen.ts: Missing semicolon. (95:13)
+
+  93 |         this.h = this.h2.push(card);
+  94 |         console.log("length", this.h)
+> 95 |         let h(card.getComponent(Pile).snapcard)
+     |              ^
+  96 |         if (pile) {
+  97 |             this.reaveldCard.removeChild(card);
+  98 |         }.  
+|              ^  
+96 |         if (pile) {  
+97 |             this.reaveldCard.removeChild(card);  
+98 |         }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-21T08:25:47.789Z - warn: [Scene] Missing class: 67016LY33pPjpMF7bkdwWylError: [Scene] Missing class: 67016LY33pPjpMF7bkdwWyl
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-21T08:25:47.798Z - error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+Error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-21T08:25:49.290Z - error: [Preview]Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-21T08:25:49.292Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-21T08:29:02.882Z - error: [Preview]Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-21T08:29:02.883Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-21T08:35:59.586Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/00/009388d052bcd0f4bb29b5c816ed76e5e2f9997d.js
+2022-11-21T08:36:23.622Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/00/009388d052bcd0f4bb29b5c816ed76e5e2f9997d.js
+2022-11-21T09:50:35.137Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/df/df7c62c7b23921c8fe7311647e0eff7878e90994.js
+2022-11-21T09:59:38.260Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/c0/c079cf94c9eca0ea37ddadeb2929a47e19a7de3c.js
+2022-11-21T09:59:56.052Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/c0/c079cf94c9eca0ea37ddadeb2929a47e19a7de3c.js
+2022-11-21T10:03:53.572Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/20/205f195938a35eea297e80032093152af322a42c.js
+2022-11-21T10:04:01.775Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/20/205f195938a35eea297e80032093152af322a42c.js
+2022-11-21T10:04:03.054Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/20/205f195938a35eea297e80032093152af322a42c.js
+2022-11-21T10:04:03.897Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/20/205f195938a35eea297e80032093152af322a42c.js
+2022-11-21T10:05:38.560Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/f8/f82206403aebb8581bb22a8c15a20bbb472e9b81.js
+2022-11-21T10:14:21.546Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/45/45c593f3fb8cf001053ebaa41376405944300b37.js
+2022-11-21T10:20:11.028Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'apply') in http://localhost:7456/scripting/x/chunks/3b/3b21837cd7144f19f011974c21eaf83f30c31c5f.js
+2022-11-21T10:34:34.024Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/9d/9d02d273a3ea70b6bee7fbb407b2035545fec4ab.js
+2022-11-21T10:37:01.759Z - error: [Preview]Uncaught TypeError: this.pile.snapCardToParent is not a function in http://localhost:7456/scripting/x/chunks/ea/eaac54a15d5e65217b1b246fa83a5f301032351c.js
+2022-11-21T10:39:03.276Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'snapCardToParent') in http://localhost:7456/scripting/x/chunks/ea/eaac54a15d5e65217b1b246fa83a5f301032351c.js
+2022-11-21T10:55:19.691Z - error: [Preview]Uncaught TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Scene'
+    |     property '_children' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Node'
+    --- property '_parent' closes the circle in http://localhost:7456/scripting/x/chunks/34/343cdba99caba44cc4158d9137cca1a0aaa95a4b.js
+2022-11-21T11:46:20.310Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/90/90a2bfc85068ff982cef3c0fad0d263548e7a6bb.js
+2022-11-21T12:51:04.463Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/87/873fa6ce44865147c30618d1692680f2347dbd4e.js
+2022-11-21T12:51:12.337Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/87/873fa6ce44865147c30618d1692680f2347dbd4e.js
+2022-11-21T12:51:19.678Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/87/873fa6ce44865147c30618d1692680f2347dbd4e.js
+2022-11-21T14:35:52.178Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-21T14:35:52.198Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/74/746c361374bf6735d010ba49ae49fccf39342c26.js:69:26
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/74/746c361374bf6735d010ba49ae49fccf39342c26.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/74/746c361374bf6735d010ba49ae49fccf39342c26.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/74/746c361374bf6735d010ba49ae49fccf39342c26.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/74/746c361374bf6735d010ba49ae49fccf39342c26.js:8:99
+    at Pile.init (http://localhost:7456/scripting/x/chunks/74/746c361374bf6735d010ba49ae49fccf39342c26.js:75:13)
+    at GameScreen.initilizeStack (http://localhost:7456/scripting/x/chunks/c6/c64b1245d733c0cc94ac5ef6feb3b4d98370aef5.js:179:19)
+2022-11-21T14:40:05.622Z - error: [Preview]unhandledrejection: Cannot read properties of undefined (reading 'setParent')
+2022-11-21T14:40:05.644Z - error: [Preview]TypeError: Cannot read properties of undefined (reading 'setParent')
+    at Node.addChild (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:151897:17)
+    at http://localhost:7456/scripting/x/chunks/cd/cde939c9bdc7a6dab9c1fc8caae39e23a39e7a57.js:69:26
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (http://localhost:7456/scripting/x/chunks/cd/cde939c9bdc7a6dab9c1fc8caae39e23a39e7a57.js:6:105)
+    at _next (http://localhost:7456/scripting/x/chunks/cd/cde939c9bdc7a6dab9c1fc8caae39e23a39e7a57.js:8:196)
+    at http://localhost:7456/scripting/x/chunks/cd/cde939c9bdc7a6dab9c1fc8caae39e23a39e7a57.js:8:366
+    at new Promise (<anonymous>)
+    at http://localhost:7456/scripting/x/chunks/cd/cde939c9bdc7a6dab9c1fc8caae39e23a39e7a57.js:8:99
+    at Pile.init (http://localhost:7456/scripting/x/chunks/cd/cde939c9bdc7a6dab9c1fc8caae39e23a39e7a57.js:75:13)
+    at GameScreen.initilizeStack (http://localhost:7456/scripting/x/chunks/ac/accf563afd77a55c6299ca64970efe7be9c57241.js:179:19)
+2022-11-21T14:44:16.057Z - warn: Metrics: no valid info
