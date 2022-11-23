@@ -1,6 +1,6 @@
 import { _decorator, Component, Node, TERRAIN_HEIGHT_BASE, color, Label, Vec2, Vec3, Touch, Color, math, systemEvent } from 'cc';
 import { SUPPORT_JIT } from 'cc/env';
-import { cardMove, cardRanks, Colour, DCard, Ranks, Suits } from './GameConstant';
+import { cardMove, cardRanks, Colour, DCard, PosSnap, Ranks, StackPos, Suits, TouchEnd } from './GameConstant';
 import { GameScreen } from './GameScreen';
 const { ccclass, property } = _decorator;
 
@@ -32,6 +32,7 @@ export default class ReaveldCard extends Component {
     public value: number;
     public valueString: string;
     suitofCard: any;
+    touchEndPos: Vec2;
 
 
 
@@ -81,19 +82,64 @@ export default class ReaveldCard extends Component {
         this.touchStart = this.lastPosition;
         window.moveCard = true;
     }
-    onTouchEnd(p: Touch) {
-        if (this.parentToCheck.toString() == 'ReavledCard') {
-            //console.log("herere_==><")
-            DCard.emit("fromDeck", this.node);
+    onTouchEnd(p: Touch | null) {
+        // console.log("PostionAtTheTouchEnd", p.getUILocation());
+        let touchEndPos = p.getUILocation();
+
+        let nodePos = this.node.getPosition() as unknown as Vec2;
+        console.log("pa", touchEndPos.x)
+        console.log("posxl", TouchEnd.TouchEndS1);
+        // console.log("posxr",);
+
+        if (touchEndPos.x < TouchEnd.TouchEndS1.xl && touchEndPos.x > TouchEnd.TouchEndS1.xr) {
+            this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack1, Child: this.node });
         }
-        else {
-            // console.log(this.parentToCheck.toString());
-            cardMove.emit("snapCard", this.node);
+
+        if (touchEndPos.x < TouchEnd.TouchEndS2.xl && touchEndPos.x > TouchEnd.TouchEndS2.xr) {
+            this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack2, Child: this.node });
         }
+
+        if (touchEndPos.x < TouchEnd.TouchEndS3.xl && touchEndPos.x > TouchEnd.TouchEndS3.xr) {
+            this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack3, Child: this.node });
+        }
+
+        if (touchEndPos.x < TouchEnd.TouchEndS4.xl && touchEndPos.x > TouchEnd.TouchEndS4.xr) {
+            this.node.removeFromParent()
+            // console.log("heyy");
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack4, Child: this.node });
+        }
+
+        if (touchEndPos.x < TouchEnd.TouchEndS5.xl && touchEndPos.x > TouchEnd.TouchEndS5.xr) {
+            this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack5, Child: this.node });
+        }
+
+        if (touchEndPos.x < TouchEnd.TouchEndS6.xl && touchEndPos.x > TouchEnd.TouchEndS6.xr) {
+            this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack6, Child: this.node });
+        }
+
+        if (touchEndPos.x < TouchEnd.TouchEndS7.xl && touchEndPos.x > TouchEnd.TouchEndS7.xr) {
+            this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack7, Child: this.node });
+        }
+
+
+        // if (this.parentToCheck.toString() == 'ReavledCard') {
+        //     //console.log("herere_==><")
+        //     DCard.emit("fromDeck", this.node);
+        // }
+        // else {
+        //     // console.log(this.parentToCheck.toString());
+        //     cardMove.emit("snapCard", this.node);
+        // }
     }
 
-   
-    
+
+
 }
 
 

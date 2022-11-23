@@ -33,18 +33,38 @@
       {
         "index": 8,
         "name": "stack7"
+      },
+      {
+        "index": 9,
+        "name": "winStack1"
+      },
+      {
+        "index": 10,
+        "name": "winStack2"
+      },
+      {
+        "index": 11,
+        "name": "winStack3"
+      },
+      {
+        "index": 12,
+        "name": "winStack4"
       }
     ],
     "collisionMatrix": {
       "0": 0,
-      "1": 508,
+      "1": 8188,
       "2": 2,
       "3": 2,
       "4": 2,
       "5": 2,
       "6": 2,
       "7": 2,
-      "8": 2
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 2
     }
   }
 }

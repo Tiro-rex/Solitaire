@@ -1,6 +1,6 @@
 import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3, Button, Collider2D, PhysicsSystem2D, Contact2DType, game } from 'cc';
 import { Card } from './Card';
-import { cardMove, CARDS_ARRAY, Ranks, snapParent } from './GameConstant';
+import { cardMove, CARDS_ARRAY, Ranks, snapLogic } from './GameConstant';
 import { GameScreen } from './GameScreen';
 import ReaveldCard from './ReaveldCard';
 const { ccclass, property } = _decorator;
@@ -18,13 +18,13 @@ export class Pile extends Component {
     // snapcard: boolean = false;
 
     start() {
-        PhysicsSystem2D.instance.enable = true;
-        let coll = this.node.getComponent(Collider2D);
-        coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+        // PhysicsSystem2D.instance.enable = true;
+        // let coll = this.node.getComponent(Collider2D);
+        // coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
         // this.cardR.getComponent(ReaveldCard)
     }
     onDisable() {
-        this.node.off(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
+        // this.node.off(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
     }
     async init(array, len, count) {
         // console.log(array, len, count);
@@ -41,65 +41,81 @@ export class Pile extends Component {
         this.node.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
 
     }
-    onBeginContact(self: Collider2D, other: Collider2D) {
-        this.snapParent = self.node;
-        this.cardR = other.node;
-        // console.log("hhihihi", self);
-        snapParent.emit("ParentforSnap", { sp: this.snapParent, c: this.cardR })
+    // onBeginContact(self: Collider2D, other: Collider2D) {
+    //     this.snapParent = self.node;
+    //     this.cardR = other.node;
+    //     snapLogic.emit("ParentforSnap", { Sp: this.snapParent, c: this.cardR })
+    //     // console.log("hhihihi", self);
+    //     // console.log({ sp: this.snapParent, c: this.cardR });
 
 
 
-        // console.log("Snaping Parent", this.snapParent);
+    //     // console.log("Snaping Parent", this.snapParent);
 
-        if (self.tag == 1 && window.moveCard) {
-            cardMove.on("snapCard", this.snapCardToParent, this)
-            console.log("stack-->", self.tag);
-        }
-        if (self.tag == 2 && window.moveCard) {
-            cardMove.on("snapCard", this.snapCardToParent, this)
-            console.log("stack-->", self.tag);
-        }
-        if (self.tag == 3 && window.moveCard) {
-            cardMove.on("snapCard", this.snapCardToParent, this)
-            console.log("stack-->", self.tag);
-        }
-        if (self.tag == 4 && window.moveCard) {
-            cardMove.on("snapCard", this.snapCardToParent, this)
-            console.log("stack-->", self.tag);
-        }
-        if (self.tag == 5 && window.moveCard) {
-            cardMove.on("snapCard", this.snapCardToParent, this)
-            console.log("stack-->", self.tag);
-        }
-        if (self.tag == 6 && window.moveCard) {
-            cardMove.on("snapCard", this.snapCardToParent, this)
-            console.log("stack-->", self.tag);
-        }
-        if (self.tag == 7 && window.moveCard) {
-            cardMove.on("snapCard", this.snapCardToParent, this)
-            console.log("stack-->", self.tag);
-        }
-    }
+    //     if (self.tag == 1 && window.moveCard) {
+    //         cardMove.on("snapCard", this.snapCardToParent, this)
+    //         console.log("stack-->", self.tag);
+    //     }
+    //     if (self.tag == 2 && window.moveCard) {
+    //         cardMove.on("snapCard", this.snapCardToParent, this)
+    //         console.log("stack-->", self.tag);
+    //     }
+    //     if (self.tag == 3 && window.moveCard) {
+    //         cardMove.on("snapCard", this.snapCardToParent, this)
+    //         console.log("stack-->", self.tag);
+    //     }
+    //     if (self.tag == 4 && window.moveCard) {
+    //         cardMove.on("snapCard", this.snapCardToParent, this)
+    //         console.log("stack-->", self.tag);
+    //     }
+    //     if (self.tag == 5 && window.moveCard) {
+    //         cardMove.on("snapCard", this.snapCardToParent, this)
+    //         console.log("stack-->", self.tag);
+    //     }
+    //     if (self.tag == 6 && window.moveCard) {
+    //         cardMove.on("snapCard", this.snapCardToParent, this)
+    //         console.log("stack-->", self.tag);
+    //     }
+    //     if (self.tag == 7 && window.moveCard) {
+    //         cardMove.on("snapCard", this.snapCardToParent, this)
+    //         console.log("stack-->", self.tag);
+    //     }
+    // }
     // checkBeforesnap() {
 
     //     console.log("card", value)
     // }
+    // checkindex()
+    // {
+    //     let index = this.node.children.length;
+    //     if(index==0){
+    //         this.snapParent.addChildc
+    //     }
+    // }
     snapCardToParent(card) {
 
-        this.node.removeChild(card);
-        let value = this.cardR.getComponent(ReaveldCard).value
-        let index = this.node.children.length;
         let indexforstack = this.snapParent.children.length
+        this.node.removeChild(card);
+        let index = this.node.children.length;
+        if (index == 0) {
+            this.node.addChild(card);
+        }
+        this.node.children[index - 1].getComponent(ReaveldCard).faceDown.active = false;
+        let value = this.cardR.getComponent(ReaveldCard).value
+        if (indexforstack <= 0) {
+            return;
+        }
         let cardInStack = this.snapParent.children[index - 1].getComponent(ReaveldCard).value
-
         console.log("card  ", value.toString())
         console.log("cardStack  ", cardInStack.toString())
         if (value + 1 == cardInStack) {
             this.snapParent.addChild(card);
+
         } else {
-            // /this.node.addChild(card);
+            console.log("elsePart");
+
         }
-        this.snapParent.children[indexforstack - 1].getComponent(ReaveldCard).faceDown.active = false;
+        // this.snapParent.children[indexforstack - 1].getComponent(ReaveldCard).faceDown.active = false;
         cardMove.removeListener("snapCard", this.snapCardToParent, this)
     }
 

@@ -1,7 +1,7 @@
 
 import { _decorator, Component, Node, Prefab, instantiate, EventMouse, Touch, Vec2, Vec3, Button, math, Collider2D, ICollisionEvent, Collider, BoxCollider2D, Contact2DType, IPhysics2DContact, PhysicsSystem2D, sp, } from 'cc';
 import { Card } from './Card';
-import { Ranks, Colour, Suits, cardMove, DCard, snapParent } from './GameConstant';
+import { Ranks, Colour, Suits, cardMove, DCard, snapLogic, PosSnap } from './GameConstant';
 import { CARDS_ARRAY, CardType } from './GameConstant';
 import { Pile } from './Pile';
 import ReaveldCard from './ReaveldCard';
@@ -65,12 +65,15 @@ export class GameScreen extends Component {
     onLaod() {
     }
     start() {
+        PosSnap.on("stackPos", this.snapCard, this)
         // PhysicsSystem2D.instance.enable = true;
         // this.stackcoll();
         this.SuffeledArray = CARDS_ARRAY;
         this.Shuffel(this.SuffeledArray);
         this.generateAllCards(this.SuffeledArray);
         this.initilizeStack();
+        // snapLogic.on("ParentforSnap", this.snapForDeck, this)
+
     }
 
     OnClick() {
@@ -81,7 +84,7 @@ export class GameScreen extends Component {
         }
         else {
             this.deckCard(this.allCardsArrays);
-            DCard.on("fromDeck", this.removeParentFrokmdeck, this);
+            // DCard.on("fromDeck", this.removeParentFrokmdeck, this);
         }
     }
     OnResetDeck() {
@@ -89,6 +92,7 @@ export class GameScreen extends Component {
         this.initiallyGeneratedCard = this.count;
         this.deck.node.active = true;
         this.deck.interactable = true;
+
     }
 
     deckCard(cardArray) {
@@ -96,22 +100,66 @@ export class GameScreen extends Component {
         this.reaveldCard.addChild(card);
         card.getComponent(ReaveldCard).faceDown.active = false;
         this.h = this.h2.push(card);
+        // window.moveCard = true;
     }
     removeParentFrokmdeck(card) {
+        // snapLogic.on("ParentforSnap", this.snapForDeck, this)
         this.reaveldCard.removeChild(card);
+
+        console.log("RemoveDeck");
         this.initiallyGeneratedCard += 1;
         this.count += 1;
-        snapParent.on("ParentforSnap", this.fun, this)
         DCard.removeListener("fromDeck", this.removeParentFrokmdeck, this)
-       
-    }
-   
-    fun(sp) {
-       sp.sp.addChild(sp.c);
 
-        snapParent.removeListener('ParentforSnap', this.fun, this)
     }
 
+    snapForDeck(Sp) {
+        console.log("gameScreenEvent", Sp);
+        // let value = this.reaveldCard.children[1].getComponent(ReaveldCard).value
+        // console.log("deck value", value
+        // Sp.Sp.addChild();
+        // lastCard.TOUCH_END();
+
+    }
+    snapCard(cardPos) {
+
+        // console.log("stackp1", stackp1);
+        let stackp1 = this.stack1.getPosition();
+        let stackp2 = this.stack2.getPosition();
+        let stackp3 = this.stack3.getPosition();
+        let stackp4 = this.stack4.getPosition();
+        let stackp5 = this.stack5.getPosition();
+        let stackp6 = this.stack6.getPosition();
+        let stackp7 = this.stack7.getPosition();
+        console.log("stackp5", stackp5.x)
+        console.log("stackp6", stackp6.x)
+        console.log("stackp7", stackp7.x)
+
+
+        if (Math.floor(stackp1.x) == cardPos.cardPos.x) {
+            this.stack1.addChild(cardPos.Child)
+        }
+        if (Math.floor(stackp2.x) == cardPos.cardPos.x) {
+            this.stack2.addChild(cardPos.Child)
+        }
+        if (Math.floor(stackp3.x) == cardPos.cardPos.x) {
+            this.stack3.addChild(cardPos.Child)
+        }
+        if (Math.floor(stackp4.x) == cardPos.cardPos.x) {
+            this.stack4.addChild(cardPos.Child)
+            console.log("herehr", cardPos.cardPos.x);
+        }
+        if (Math.floor(stackp5.x) == cardPos.cardPos.x) {
+            this.stack5.addChild(cardPos.Child)
+        }
+        if (Math.floor(stackp6.x) == cardPos.cardPos.x) {
+            this.stack6.addChild(cardPos.Child)
+        }
+        if (Math.floor(stackp7.x) == cardPos.cardPos.x) {
+            this.stack7.addChild(cardPos.Child)
+
+        }
+    }
 
 
     generateAllCards(cardArray) {
@@ -121,6 +169,7 @@ export class GameScreen extends Component {
             card.getComponent(ReaveldCard).init(arr[i]);
             this.allCardsArrays.push(card);
         }
+
     }
     Shuffel(data) {
         let currIndex = data.length, randomInadex;

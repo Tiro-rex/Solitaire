@@ -5,9 +5,9 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/cc.custom-macro",
-      "./temp/declarations/cc",
       "./temp/declarations/jsb",
+      "./temp/declarations/cc",
+      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/cc.env"
     ],
     "paths": {
@@ -15,7 +15,7 @@
         "C:\\CocosDashboard_1.2.1\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "D:\\GAMIXLABS\\Solitaire\\assets\\*"
+        "D:\\GAMIXLABS\\Solitaire - Copy\\assets\\*"
       ]
     },
     "experimentalDecorators": true,
