@@ -33,7 +33,7 @@ export default class ReaveldCard extends Component {
     public valueString: string;
     suitofCard: any;
     touchEndPos: Vec2;
-
+    array: any[] = [];
 
 
     onLaod() {
@@ -71,7 +71,13 @@ export default class ReaveldCard extends Component {
         Vec2.subtract(this.offSet, this.node.getParent().getPosition() as unknown as Vec2, this.touchStart);
         console.log("heyys", this.cardace, this.cardNumber, this.value);
         // console.log("Parent", this.node)
-        this.parentToCheck = this.node.getParent().name;
+        let childrenInArray = this.node.getParent().children;
+        // `this.array.push(childrenInArray);
+        // for (let i = 0; i < this.array.length; i++) {
+        //     let arr = this.array[i];
+        //     var pos = arr.getPosition();
+        //     console.log("Position", pos)
+        // }`
 
     }
     onMoveStart(e: Touch | null) {
@@ -92,39 +98,39 @@ export default class ReaveldCard extends Component {
         // console.log("posxr",);
 
         if (touchEndPos.x < TouchEnd.TouchEndS1.xl && touchEndPos.x > TouchEnd.TouchEndS1.xr) {
-            this.node.removeFromParent()
-            PosSnap.emit("stackPos", { cardPos: StackPos.stack1, Child: this.node });
+            // this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack1, Child: this.node, parent: this.node.getParent() });
         }
 
         if (touchEndPos.x < TouchEnd.TouchEndS2.xl && touchEndPos.x > TouchEnd.TouchEndS2.xr) {
-            this.node.removeFromParent()
-            PosSnap.emit("stackPos", { cardPos: StackPos.stack2, Child: this.node });
+            // this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack2, Child: this.node, parent: this.node.getParent() });
         }
 
         if (touchEndPos.x < TouchEnd.TouchEndS3.xl && touchEndPos.x > TouchEnd.TouchEndS3.xr) {
-            this.node.removeFromParent()
-            PosSnap.emit("stackPos", { cardPos: StackPos.stack3, Child: this.node });
+            // this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack3, Child: this.node, parent: this.node.getParent() });
         }
 
         if (touchEndPos.x < TouchEnd.TouchEndS4.xl && touchEndPos.x > TouchEnd.TouchEndS4.xr) {
-            this.node.removeFromParent()
+            // this.node.removeFromParent()
             // console.log("heyy");
-            PosSnap.emit("stackPos", { cardPos: StackPos.stack4, Child: this.node });
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack4, Child: this.node, parent: this.node.getParent() });
         }
 
         if (touchEndPos.x < TouchEnd.TouchEndS5.xl && touchEndPos.x > TouchEnd.TouchEndS5.xr) {
-            this.node.removeFromParent()
-            PosSnap.emit("stackPos", { cardPos: StackPos.stack5, Child: this.node });
+            // this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack5, Child: this.node, parent: this.node.getParent() });
         }
 
         if (touchEndPos.x < TouchEnd.TouchEndS6.xl && touchEndPos.x > TouchEnd.TouchEndS6.xr) {
-            this.node.removeFromParent()
-            PosSnap.emit("stackPos", { cardPos: StackPos.stack6, Child: this.node });
+            // this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack6, Child: this.node, parent: this.node.getParent() });
         }
 
         if (touchEndPos.x < TouchEnd.TouchEndS7.xl && touchEndPos.x > TouchEnd.TouchEndS7.xr) {
-            this.node.removeFromParent()
-            PosSnap.emit("stackPos", { cardPos: StackPos.stack7, Child: this.node });
+            // this.node.removeFromParent()
+            PosSnap.emit("stackPos", { cardPos: StackPos.stack7, Child: this.node, parent: this.node.getParent() });
         }
 
 

@@ -58,6 +58,8 @@ export class GameScreen extends Component {
     initiallyGeneratedCard = 0;
     playingCard: void;
     deckSnap: any;
+    remove: boolean = false;
+    array: any[] = [];
 
 
     // instantiationOfStack=true;
@@ -131,32 +133,143 @@ export class GameScreen extends Component {
         let stackp5 = this.stack5.getPosition();
         let stackp6 = this.stack6.getPosition();
         let stackp7 = this.stack7.getPosition();
-        console.log("stackp5", stackp5.x)
-        console.log("stackp6", stackp6.x)
-        console.log("stackp7", stackp7.x)
 
 
         if (Math.floor(stackp1.x) == cardPos.cardPos.x) {
+            cardPos.parent.removeChild(cardPos.Child)
+
             this.stack1.addChild(cardPos.Child)
         }
         if (Math.floor(stackp2.x) == cardPos.cardPos.x) {
-            this.stack2.addChild(cardPos.Child)
+            // console.log("para", cardPos);
+            cardPos.parent.removeChild(cardPos.Child)
+            let len = cardPos.parent.children.length
+            let lentgh2 = this.stack2.children.length
+            let selectedCardVlaue = cardPos.Child.getComponent(ReaveldCard).value
+            let stacckCardavlue = this.stack2.children[lentgh2 - 1].getComponent(ReaveldCard).value;
+            console.log("selected Card Value", selectedCardVlaue);
+            console.log("StackCardValue", stacckCardavlue);
+            if (stacckCardavlue == selectedCardVlaue + 1) {
+                if (len + 1 || len == null) {
+                    cardPos.parent.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
+                    // return;
+                    let selected = this.stack2.addChild(cardPos.Child)
+                   
+                    
+                    // len = -1;
+                }
+            }
+            else {
+                cardPos.parent.addChild(cardPos.Child);
+            }
+            // else if (len - 1) {
+            //     cardPos.parent.addChild(cardPos.ChildS);
+            // }
         }
         if (Math.floor(stackp3.x) == cardPos.cardPos.x) {
-            this.stack3.addChild(cardPos.Child)
+            cardPos.parent.removeChild(cardPos.Child)
+            let len = cardPos.parent.children.length
+            let lentgh2 = this.stack3.children.length
+            let selectedCardVlaue = cardPos.Child.getComponent(ReaveldCard).value
+            let stacckCardavlue = this.stack3.children[lentgh2 - 1].getComponent(ReaveldCard).value;
+            console.log("selected Card Value", selectedCardVlaue);
+            console.log("StackCardValue", stacckCardavlue);
+            if (stacckCardavlue == selectedCardVlaue + 1) {
+                if (len + 1 || len == null) {
+                    cardPos.parent.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
+                    // return;
+                    this.stack3.addChild(cardPos.Child)
+                    len = -1;
+                }
+            }
+            else {
+                cardPos.parent.addChild(cardPos.Child);
+            }
         }
         if (Math.floor(stackp4.x) == cardPos.cardPos.x) {
-            this.stack4.addChild(cardPos.Child)
-            console.log("herehr", cardPos.cardPos.x);
+            cardPos.parent.removeChild(cardPos.Child)
+            let len = cardPos.parent.children.length
+            let lentgh2 = this.stack4.children.length
+            let selectedCardVlaue = cardPos.Child.getComponent(ReaveldCard).value
+            let stacckCardavlue = this.stack4.children[lentgh2 - 1].getComponent(ReaveldCard).value;
+            console.log("selected Card Value", selectedCardVlaue);
+            console.log("StackCardValue", stacckCardavlue);
+            if (stacckCardavlue == selectedCardVlaue + 1) {
+                if (len + 1 || len == null) {
+                    cardPos.parent.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
+                    // return;
+                    this.stack4.addChild(cardPos.Child)
+                    len = -1;
+                }
+            }
+            else {
+                cardPos.parent.addChild(cardPos.Child);
+            }
+            // console.log("herehr", cardPos.cardPos.x);
         }
         if (Math.floor(stackp5.x) == cardPos.cardPos.x) {
-            this.stack5.addChild(cardPos.Child)
+            cardPos.parent.removeChild(cardPos.Child)
+            let len = cardPos.parent.children.length
+            let lentgh2 = this.stack5.children.length
+            let selectedCardVlaue = cardPos.Child.getComponent(ReaveldCard).value
+            let stacckCardavlue = this.stack5.children[lentgh2 - 1].getComponent(ReaveldCard).value;
+            console.log("selected Card Value", selectedCardVlaue);
+            console.log("StackCardValue", stacckCardavlue);
+            if (stacckCardavlue == selectedCardVlaue + 1) {
+                if (len + 1 || len == null) {
+                    cardPos.parent.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
+                    // return;
+                    this.stack6.addChild(cardPos.Child)
+                    len = -1;
+                }
+            }
+            else {
+                cardPos.parent.addChild(cardPos.Child);
+            }
         }
         if (Math.floor(stackp6.x) == cardPos.cardPos.x) {
-            this.stack6.addChild(cardPos.Child)
+            cardPos.parent.removeChild(cardPos.Child)
+            let len = cardPos.parent.children.length
+            let lentgh2 = this.stack6.children.length
+            let selectedCardVlaue = cardPos.Child.getComponent(ReaveldCard).value
+            let stacckCardavlue = this.stack6.children[lentgh2 - 1].getComponent(ReaveldCard).value;
+            console.log("selected Card Value", selectedCardVlaue);
+            console.log("StackCardValue", stacckCardavlue);
+            if (stacckCardavlue == selectedCardVlaue + 1) {
+                if (len + 1 || len == null) {
+                    cardPos.parent.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
+                    // return;
+                    this.stack6.addChild(cardPos.Child)
+                    len = -1;
+                }
+            }
+            else {
+                cardPos.parent.addChild(cardPos.Child);
+            }
         }
         if (Math.floor(stackp7.x) == cardPos.cardPos.x) {
-            this.stack7.addChild(cardPos.Child)
+            cardPos.parent.removeChild(cardPos.Child)
+            let len = cardPos.parent.children.length
+            let lentgh2 = this.stack7.children.length
+            let selectedCardVlaue = cardPos.Child.getComponent(ReaveldCard).value
+            let stacckCardavlue = this.stack7.children[lentgh2 - 1].getComponent(ReaveldCard).value;
+            if (stacckCardavlue == selectedCardVlaue + 1) {
+                if (len + 1 || len == null) {
+                    cardPos.parent.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
+                    // return;
+                    this.stack7.addChild(cardPos.Child)
+                    len = -1;
+                }
+            }
+            else {
+                cardPos.parent.addChild(cardPos.Child);
+            }
+            console.log("selected Card Value", selectedCardVlaue);
+            console.log("StackCardValue", stacckCardavlue);
+            // else if (len - 1) {
+            //     cardPos.parent.addChild(cardPos.ChildS);
+
+            // }
 
         }
     }

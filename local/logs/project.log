@@ -6157,3 +6157,461 @@ Class ID: "f64adESo+BLWpLdnXpD0A2h"
     at Node.setParent (http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js:155902:41)
 2022-11-23T08:34:40.015Z - error: [Preview]Uncaught TypeError: lastCard.TOUCH_END is not a function in http://localhost:7456/scripting/x/chunks/a2/a234a967a1b306919af1563fd62916d336cc8e7d.js
 2022-11-23T08:34:48.768Z - warn: Metrics: no valid info
+2022-11-23T09:40:40.834Z - warn: [Window] connect ETIMEDOUT 114.116.203.23:443Error: connect ETIMEDOUT 114.116.203.23:443
+    at process.<anonymous> (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\user\dist\platform\child.ccc:1:2278)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2022-11-23T09:41:22.022Z - log: [Package] menu@1.0.0 enable
+2022-11-23T09:41:22.028Z - log: [Package] profile@1.0.0 enable
+2022-11-23T09:41:22.056Z - log: [Package] project@1.0.2 enable
+2022-11-23T09:41:22.066Z - log: [Package] messages@1.0.0 enable
+2022-11-23T09:41:22.081Z - log: [Package] program@1.0.0 enable
+2022-11-23T09:41:22.093Z - log: [Package] tester@1.0.0 enable
+2022-11-23T09:41:22.103Z - log: [Package] preferences@1.0.0 enable
+2022-11-23T09:41:23.309Z - log: Setup mods mgr.: 706.696ms
+2022-11-23T09:41:23.328Z - verbose: [Engine] QuickCompile engine (1133ms)
+2022-11-23T09:41:23.332Z - log: [Package] engine@1.0.6 enable
+2022-11-23T09:41:24.313Z - log: [Package] programming@1.0.0 enable
+2022-11-23T09:41:24.883Z - log: [Package] device@1.0.1 enable
+2022-11-23T09:41:24.918Z - log: [Package] ui-kit@1.0.1 enable
+2022-11-23T09:41:24.951Z - log: [Package] engine-extends@1.0.0 enable
+2022-11-23T09:41:25.046Z - log: [Package] asset-db@1.0.0 enable
+2022-11-23T09:41:25.102Z - log: [Package] scene@1.0.0 enable
+2022-11-23T09:41:25.347Z - log: [Package] server@1.0.0 enable
+2022-11-23T09:41:25.454Z - log: [Package] utils@1.0.0 enable
+2022-11-23T09:41:29.749Z - log: [Package] preview@1.0.1 enable
+2022-11-23T09:41:29.793Z - log: [Package] animator@1.0.0 enable
+2022-11-23T09:41:31.271Z - log: [Package] builder@1.3.2 enable
+2022-11-23T09:41:31.319Z - log: [Package] shortcuts@1.0.1 enable
+2022-11-23T09:41:31.372Z - log: [Package] animation-graph@1.0.0 enable
+2022-11-23T09:41:31.403Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-11-23T09:41:31.437Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-11-23T09:41:31.491Z - log: [Package] about@1.0.0 enable
+2022-11-23T09:41:31.532Z - log: [Package] assets@1.0.0 enable
+2022-11-23T09:41:31.588Z - log: [Package] console@1.0.0 enable
+2022-11-23T09:41:31.923Z - log: [Package] extension@3.0.16 enable
+2022-11-23T09:41:31.970Z - log: [Package] hierarchy@1.0.0 enable
+2022-11-23T09:41:32.015Z - log: [Package] inspector@1.0.0 enable
+2022-11-23T09:41:32.061Z - log: [Package] lightmap@1.0.4 enable
+2022-11-23T09:41:32.108Z - log: [Package] node-library@1.0.1 enable
+2022-11-23T09:41:32.144Z - log: [Package] package-asset@1.0.0 enable
+2022-11-23T09:41:32.186Z - log: [Package] process@1.0.0 enable
+2022-11-23T09:41:32.236Z - log: [Package] reference-image@1.0.0 enable
+2022-11-23T09:41:32.273Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-11-23T09:41:32.307Z - log: [Package] android@1.0.0 enable
+2022-11-23T09:41:32.337Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-11-23T09:41:32.379Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-11-23T09:41:32.411Z - log: [Package] cocos-play@1.0.0 enable
+2022-11-23T09:41:32.454Z - log: [Package] huawei-agc@1.0.0 enable
+2022-11-23T09:41:32.486Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-11-23T09:41:32.525Z - log: [Package] ios@1.0.0 enable
+2022-11-23T09:41:32.551Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-11-23T09:41:32.581Z - log: [Package] link-sure@1.0.0 enable
+2022-11-23T09:41:32.613Z - log: [Package] linux@1.0.0 enable
+2022-11-23T09:41:32.645Z - log: [Package] mac@1.0.0 enable
+2022-11-23T09:41:32.836Z - log: [Package] native@1.0.0 enable
+2022-11-23T09:41:32.878Z - log: [Package] ohos@1.0.0 enable
+2022-11-23T09:41:32.910Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-11-23T09:41:32.945Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-11-23T09:41:32.978Z - log: [Package] qtt@1.0.0 enable
+2022-11-23T09:41:33.011Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-11-23T09:41:33.085Z - log: [Package] web-desktop@1.0.0 enable
+2022-11-23T09:41:33.141Z - log: [Package] web-mobile@1.0.0 enable
+2022-11-23T09:41:33.201Z - log: [Package] wechatgame@1.0.1 enable
+2022-11-23T09:41:33.230Z - log: [Package] windows@1.0.0 enable
+2022-11-23T09:41:33.270Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-11-23T09:41:33.698Z - log: [Package] cocos-service@3.0.3 enable
+2022-11-23T09:41:33.745Z - log: [Package] importer@1.0.0 enable
+2022-11-23T09:41:34.158Z - log: [Im-plugin] Check im-plugin version.
+2022-11-23T09:41:34.174Z - log: [Package] im-plugin@3.0.8 enable
+2022-11-23T09:41:36.667Z - verbose: [AssetDB] Require engine code (6016ms)
+2022-11-23T09:41:38.686Z - log: [Im-plugin] No online info of im-plugin.
+2022-11-23T09:41:49.915Z - verbose: [Scene] Require engine code (1ms)
+2022-11-23T09:41:49.916Z - verbose: [Scene] Startup engine (1ms)
+2022-11-23T09:41:49.999Z - log: [Scene] Cocos Creator v3.5.2
+2022-11-23T09:41:50.893Z - verbose: [Scene] Open engine (976ms)
+2022-11-23T09:41:50.893Z - verbose: [Scene] Configure engine (0ms)
+2022-11-23T09:41:50.325Z - info: [Scene] Forward render pipeline initialized.
+2022-11-23T09:59:04.184Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-11-23T10:04:57.730Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/GameConstant.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire%20-%20Copy\assets\Script\GameConstant.ts: Unexpected token (51:4)
+
+  49 |
+  50 | export const stackPos = {
+> 51 |     {
+     |     ^
+  52 |         stack1:()
+  53 |     }
+  54 | }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/GameConstant.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire%20-%20Copy\assets\Script\GameConstant.ts: Unexpected token (51:4)
+
+  49 |
+  50 | export const stackPos = {
+> 51 |     {
+     |     ^
+  52 |         stack1:()
+  53 |     }
+  54 | }.  
+|     ^  
+52 |         stack1:()  
+53 |     }  
+54 | }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-23T10:04:58.234Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_1 from pack:///chunks/fb/fb05a639848a293fa011829a4ab506121b4908fe.js.
+    at ExecutorSystem._throwUnresolved (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:145:15)
+    at ExecutorSystem._resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:94:21)
+    at SystemJS.resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:28:23)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_1 from pack:///chunks/fb/fb05a639848a293fa011829a4ab506121b4908fe.js.
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)
+    at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:253:22)
+    at SystemJS.onload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:62:18)
+    at triggerOnload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:270:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:431:7
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+2022-11-23T10:04:58.246Z - error: [Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/GameConstant.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire%20-%20Copy\assets\Script\GameConstant.ts: Unexpected token (51:4)
+
+  49 |
+  50 | export const stackPos = {
+> 51 |     {
+     |     ^
+  52 |         stack1:()
+  53 |     }
+  54 | }.[Programming] Failed to load module file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/GameConstant.ts: SyntaxError: C:\CocosDashboard_1.2.1\file:\D:\GAMIXLABS\Solitaire%20-%20Copy\assets\Script\GameConstant.ts: Unexpected token (51:4)
+
+  49 |
+  50 | export const stackPos = {
+> 51 |     {
+     |     ^
+  52 |         stack1:()
+  53 |     }
+  54 | }.  
+|     ^  
+52 |         stack1:()  
+53 |     }  
+54 | }.  
+at Object.encode (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-11-23T10:04:58.238Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_1 from pack:///chunks/68/68b424e8d9e4d6e53ffb35b52f8ff9ccea06593b.js.
+    at ExecutorSystem._throwUnresolved (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:145:15)
+    at ExecutorSystem._resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:94:21)
+    at SystemJS.resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:28:23)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_1 from pack:///chunks/68/68b424e8d9e4d6e53ffb35b52f8ff9ccea06593b.js.
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)
+    at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:253:22)
+    at SystemJS.onload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:62:18)
+    at triggerOnload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:270:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:431:7
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+2022-11-23T10:04:58.238Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_1 from pack:///chunks/83/83ec037b9b28616017e406b76d62e401eb9d85f6.js.
+    at ExecutorSystem._throwUnresolved (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:145:15)
+    at ExecutorSystem._resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:94:21)
+    at SystemJS.resolve (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:28:23)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Failed to resolve __unresolved_1 from pack:///chunks/83/83ec037b9b28616017e406b76d62e401eb9d85f6.js.
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+    at async Object.execute (file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:8:7)
+    at async Executor._importPrerequisiteModules (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)
+    at Logger._logHandler (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.error (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:253:22)
+    at SystemJS.onload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:62:18)
+    at triggerOnload (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:270:10)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:431:7
+    at async file:///D:/GAMIXLABS/Solitaire%20-%20Copy/temp/programming/packer-driver/targets/editor/chunks/09/09e496b395f3362281c93269a29d6d47678870a4.js:13:13
+2022-11-23T10:04:58.254Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.255Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.256Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.256Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.257Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.257Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.258Z - warn: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCsError: [Scene] Missing class: 48346LAGsxENaIdWIZ3zlCs
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.260Z - warn: [Scene] Missing class: 67016LY33pPjpMF7bkdwWylError: [Scene] Missing class: 67016LY33pPjpMF7bkdwWyl
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.265Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack1" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack1"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack1" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack1"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.265Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack2" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack2"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack2" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack2"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.266Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack3" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack3"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack3" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack3"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.266Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack4" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack4"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack4" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack4"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.267Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack5" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack5"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack5" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack5"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.268Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack6" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack6"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack6" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack6"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.269Z - error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack7" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack7"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+Error: [Scene] Script "48346LAGsxENaIdWIZ3zlCs" attached to "stack7" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen/PlayArea/stack7"
+Script UUID: "483462c0-1acc-4435-a21d-588677ce50ac"
+Class ID: "48346LAGsxENaIdWIZ3zlCs"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.271Z - error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+Error: [Scene] Script "67016LY33pPjpMF7bkdwWyl" attached to "GameScreen" is missing or invalid. Detailed information:
+Node path: "Canvas/GameScreen"
+Script UUID: "670162d8-df7a-4f8e-9305-edb91dc16ca5"
+Class ID: "67016LY33pPjpMF7bkdwWyl"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:04:58.317Z - warn: [Scene] Missing class: 615f5YpBt5AKoRvQbPBObNFError: [Scene] Missing class: 615f5YpBt5AKoRvQbPBObNF
+    at Object.classFinder (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-11-23T10:04:58.322Z - error: [Scene] Script "615f5YpBt5AKoRvQbPBObNF" attached to "Card" in prefab "Card" is missing or invalid. Detailed information:
+Node path: "Card"
+Asset url: "db://assets/Prefeb/Card"
+Script UUID: "615f5629-06de-402a-846f-41b3c139b345"
+Class ID: "615f5YpBt5AKoRvQbPBObNF"
+Error: [Scene] Script "615f5YpBt5AKoRvQbPBObNF" attached to "Card" in prefab "Card" is missing or invalid. Detailed information:
+Node path: "Card"
+Asset url: "db://assets/Prefeb/Card"
+Script UUID: "615f5629-06de-402a-846f-41b3c139b345"
+Class ID: "615f5YpBt5AKoRvQbPBObNF"
+
+    at report (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-11-23T10:05:00.991Z - error: [Preview]Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-11-23T10:05:01.007Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/chunks/7c/7cbb3ed998b1973f492af7954527f9c68c4a8e96.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:679:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:675:99)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1020:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1208:26)
+    at http://localhost:7456/scripting/systemjs/system.js:336:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:334:43
+2022-11-23T12:58:38.875Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'x') in http://localhost:7456/scripting/x/chunks/d0/d07a14254f927286ff677cc816a1932b65a24571.js
+2022-11-23T13:02:05.826Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'x') in http://localhost:7456/scripting/x/chunks/d9/d904376c11fa63dc3c62661677b4de5175c59520.js
+2022-11-23T13:34:45.471Z - error: [Preview]Uncaught TypeError: cardPos.Child.getComponent(...).removeFromParent is not a function in http://localhost:7456/scripting/x/chunks/95/950bac6efc90b14116118bf85e6b72d47b8d2f18.js
+2022-11-23T14:12:02.608Z - warn: Metrics: no valid info
