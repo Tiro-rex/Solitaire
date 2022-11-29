@@ -5,10 +5,7 @@ const { ccclass, property } = _decorator;
 @ccclass('WinPile')
 export class WinPile extends Component {
 
-    onLoad() {
-
-       
-    }
+    
 
 }
 

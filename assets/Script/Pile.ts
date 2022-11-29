@@ -15,115 +15,22 @@ export class Pile extends Component {
 
     public cardR: any;
     snapParent: any;
-    // snapcard: boolean = false;
 
-    start() {
-        // PhysicsSystem2D.instance.enable = true;
-        // let coll = this.node.getComponent(Collider2D);
-        // coll.on(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
-        // this.cardR.getComponent(ReaveldCard)
-    }
-    onDisable() {
-        // this.node.off(Contact2DType.BEGIN_CONTACT, this.onBeginContact, this);
-    }
     async init(array, len, count) {
-        // console.log(array, len, count);
-        // if (len == 1) {
-        //     console.log("ifloop")
-        //     this.node.addChild(array[count - 1]);
-        // }
-        // else {
+    
         for (let i = 0; i < len; i++) {
             await this.delay(200, this.node.addChild(array[count + i]));
 
         }
-        // }
+        
         this.node.children[len - 1].getComponent(ReaveldCard).faceDown.active = false;
 
     }
-    // onBeginContact(self: Collider2D, other: Collider2D) {
-    //     this.snapParent = self.node;
-    //     this.cardR = other.node;
-    //     snapLogic.emit("ParentforSnap", { Sp: this.snapParent, c: this.cardR })
-    //     // console.log("hhihihi", self);
-    //     // console.log({ sp: this.snapParent, c: this.cardR });
 
-
-
-    //     // console.log("Snaping Parent", this.snapParent);
-
-    //     if (self.tag == 1 && window.moveCard) {
-    //         cardMove.on("snapCard", this.snapCardToParent, this)
-    //         console.log("stack-->", self.tag);
-    //     }
-    //     if (self.tag == 2 && window.moveCard) {
-    //         cardMove.on("snapCard", this.snapCardToParent, this)
-    //         console.log("stack-->", self.tag);
-    //     }
-    //     if (self.tag == 3 && window.moveCard) {
-    //         cardMove.on("snapCard", this.snapCardToParent, this)
-    //         console.log("stack-->", self.tag);
-    //     }
-    //     if (self.tag == 4 && window.moveCard) {
-    //         cardMove.on("snapCard", this.snapCardToParent, this)
-    //         console.log("stack-->", self.tag);
-    //     }
-    //     if (self.tag == 5 && window.moveCard) {
-    //         cardMove.on("snapCard", this.snapCardToParent, this)
-    //         console.log("stack-->", self.tag);
-    //     }
-    //     if (self.tag == 6 && window.moveCard) {
-    //         cardMove.on("snapCard", this.snapCardToParent, this)
-    //         console.log("stack-->", self.tag);
-    //     }
-    //     if (self.tag == 7 && window.moveCard) {
-    //         cardMove.on("snapCard", this.snapCardToParent, this)
-    //         console.log("stack-->", self.tag);
-    //     }
-    // }
-    // checkBeforesnap() {
-
-    //     console.log("card", value)
-    // }
-    // checkindex()
-    // {
-    //     let index = this.node.children.length;
-    //     if(index==0){
-    //         this.snapParent.addChildc
-    //     }
-    // }
-    snapCardToParent(card) {
-
-        let indexforstack = this.snapParent.children.length
-        this.node.removeChild(card);
-        let index = this.node.children.length;
-        if (index == 0) {
-            this.node.addChild(card);
-        }
-        this.node.children[index - 1].getComponent(ReaveldCard).faceDown.active = false;
-        let value = this.cardR.getComponent(ReaveldCard).value
-        if (indexforstack <= 0) {
-            return;
-        }
-        let cardInStack = this.snapParent.children[index - 1].getComponent(ReaveldCard).value
-        console.log("card  ", value.toString())
-        console.log("cardStack  ", cardInStack.toString())
-        if (value + 1 == cardInStack) {
-            this.snapParent.addChild(card);
-
-        } else {
-            console.log("elsePart");
-
-        }
-        // this.snapParent.children[indexforstack - 1].getComponent(ReaveldCard).faceDown.active = false;
-        cardMove.removeListener("snapCard", this.snapCardToParent, this)
-    }
-
-
-    delay(milliseconds: number, count): Promise<number> {
+    delay(milliseconds: number, method): Promise<number> {
         return new Promise<number>(resolve => {
             setTimeout(() => {
-                resolve(count);
+                resolve(method);
             }, milliseconds);
         });
     }

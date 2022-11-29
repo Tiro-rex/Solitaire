@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 18232.625299930573,
+      "mTimestamp": 39882.7827000618,
       "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
       "imports": [
         {
@@ -493,7 +493,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 12120742.370300293,
+      "mTimestamp": 8981037.495800018,
       "chunkId": "09e496b395f3362281c93269a29d6d47678870a4",
       "imports": [
         {
@@ -840,7 +840,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1669352830388,
+      "mTimestamp": 1669698368270,
       "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
       "imports": [],
       "type": "esm",
@@ -1663,10 +1663,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/GameScreen.ts": {
       "mTimestamp": {
-        "mtime": 1669363075294.704,
+        "mtime": 1669706605761.0847,
         "uuid": "670162d8-df7a-4f8e-9305-edb91dc16ca5"
       },
-      "chunkId": "7f8c979e2b426a2db74cc86973d894b93313123b",
+      "chunkId": "a98b1238c431fad5674ddcfe2c0b1b8785c1f7e1",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1800,10 +1800,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/Pile.ts": {
       "mTimestamp": {
-        "mtime": 1669197620336.7305,
+        "mtime": 1669706486707.8176,
         "uuid": "483462c0-1acc-4435-a21d-588677ce50ac"
       },
-      "chunkId": "68b424e8d9e4d6e53ffb35b52f8ff9ccea06593b",
+      "chunkId": "c5b9cc72ab5e3932ce87e85a26955fc7416529e1",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1826,22 +1826,8 @@
           }
         },
         {
-          "value": "./GameConstant",
-          "resolved": "__unresolved_1",
-          "loc": {
-            "start": {
-              "line": 3,
-              "column": 56
-            },
-            "end": {
-              "line": 3,
-              "column": 72
-            }
-          }
-        },
-        {
           "value": "./ReaveldCard",
-          "resolved": "__unresolved_2",
+          "resolved": "__unresolved_1",
           "loc": {
             "start": {
               "line": 5,
@@ -1880,13 +1866,6 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/GameConstant.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
             "url": "file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/ReaveldCard.ts"
           },
           "messages": []
@@ -1895,10 +1874,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/ReaveldCard.ts": {
       "mTimestamp": {
-        "mtime": 1669364949587.8862,
+        "mtime": 1669705874608.7485,
         "uuid": "615f5629-06de-402a-846f-41b3c139b345"
       },
-      "chunkId": "49e76d1aa56d8f3f1f1f0a52b078fa2da5184ac5",
+      "chunkId": "1f3da66e7fd7be12bce8a2eb48f8c9ee70cc32e6",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1969,10 +1948,10 @@
     },
     "file:///D:/GAMIXLABS/Solitaire%20-%20Copy/assets/Script/WinPile.ts": {
       "mTimestamp": {
-        "mtime": 1669183413133.571,
+        "mtime": 1669707341861.9958,
         "uuid": "f64ad112-a3e0-4b5a-92dd-9d7a43d00da1"
       },
-      "chunkId": "2e07d8138d8b8208cea3c593e9572c3528a24cd3",
+      "chunkId": "86aaa15691d7d6ad6ca53985e26b75aeb4acd85a",
       "imports": [
         {
           "value": "cc"

@@ -33,16 +33,19 @@ export default class ReaveldCard extends Component {
     public valueString: string;
     suitofCard: any;
     touchEndPos: Vec2;
-    array: any[] = [];
+    movableArray: Node[] = [];
+    childIndex: number;
+    childrenLength: number;
 
 
     onLaod() {
     }
-    init(data) {
+    init(data, movableArray) {
         // let get = this.game.Shuffel(data)
         // console.log(get);
 
         // this.rankValue(data.rank);
+        this.movableArray = movableArray;
         this.cardFace.string = data.suit;
         this.cardRank.string = data.rank;
         this.cardRank2.string = data.rank;
@@ -65,31 +68,41 @@ export default class ReaveldCard extends Component {
     }
 
     onTouchStart(e: Touch) {
-
-
         this.touchStart = e.getUILocation();
         Vec2.subtract(this.offSet, this.node.getParent().getPosition() as unknown as Vec2, this.touchStart);
         console.log("heyys", this.cardace, this.cardNumber, this.value);
-        // console.log("Parent", this.node)
-        let childrenInArray = this.node.getParent().children;
-        // `this.array.push(childrenInArray);
-        // for (let i = 0; i < this.array.length; i++) {
-        //     let arr = this.array[i];
-        //     var pos = arr.getPosition();
-        //     console.log("Position", pos)
-        // }`
+        this.childrenLength = this.node.getParent().children.length;
+        this.childIndex = this.node.getParent().children.indexOf(this.node)
+        console.log("children Length", this.childrenLength);
+        console.log("childIndex", this.childIndex);
 
     }
     onMoveStart(e: Touch | null) {
         this.lastPosition = e.getUILocation();
         Vec2.subtract(this.offSet, this.touchStart, this.lastPosition);
-        let nodePos = this.node.getPosition() as unknown as Vec2;
-        this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);
+        // let nodePos = this.node.getPosition() as unknown as Vec2;
+        // this.node.setPosition(nodePos.x - this.offSet.x, nodePos.y - this.offSet.y, 0.5);
         this.touchStart = this.lastPosition;
         window.moveCard = true;
+        this.moveStack(this.offSet)
+
     }
+
+    moveStack(offSet) {
+        let childs = this.node.getParent().children;
+        for (let index = 0; index < childs.length; index++) {
+            if (index >= this.childIndex) {
+                const element = childs[index];
+                let nodePos = element.getPosition() as unknown as Vec2;
+                element.setPosition(nodePos.x - offSet.x, nodePos.y - offSet.y, 0.5);
+            }
+
+        }
+    }
+
     onTouchEnd(p: Touch | null) {
         // console.log("PostionAtTheTouchEnd", p.getUILocation());
+
         let touchEndPos = p.getUILocation();
 
         let nodePos = this.node.getPosition() as unknown as Vec2;
@@ -132,7 +145,7 @@ export default class ReaveldCard extends Component {
             // this.node.removeFromParent()
             PosSnap.emit("stackPos", { cardPos: StackPos.stack7, Child: this.node, parent: this.node.getParent() });
         }
-
+//
 
         // if (this.parentToCheck.toString() == 'ReavledCard') {
         //     //console.log("herere_==><")

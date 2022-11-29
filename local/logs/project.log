@@ -6615,3 +6615,247 @@ Class ID: "615f5YpBt5AKoRvQbPBObNF"
 2022-11-23T13:02:05.826Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'x') in http://localhost:7456/scripting/x/chunks/d9/d904376c11fa63dc3c62661677b4de5175c59520.js
 2022-11-23T13:34:45.471Z - error: [Preview]Uncaught TypeError: cardPos.Child.getComponent(...).removeFromParent is not a function in http://localhost:7456/scripting/x/chunks/95/950bac6efc90b14116118bf85e6b72d47b8d2f18.js
 2022-11-23T14:12:02.608Z - warn: Metrics: no valid info
+2022-11-25T05:07:09.152Z - log: [Package] menu@1.0.0 enable
+2022-11-25T05:07:09.156Z - log: [Package] profile@1.0.0 enable
+2022-11-25T05:07:09.182Z - log: [Package] project@1.0.2 enable
+2022-11-25T05:07:09.187Z - log: [Package] messages@1.0.0 enable
+2022-11-25T05:07:09.206Z - log: [Package] program@1.0.0 enable
+2022-11-25T05:07:09.212Z - log: [Package] tester@1.0.0 enable
+2022-11-25T05:07:09.218Z - log: [Package] preferences@1.0.0 enable
+2022-11-25T05:07:10.250Z - log: Setup mods mgr.: 600.424ms
+2022-11-25T05:07:10.268Z - verbose: [Engine] QuickCompile engine (967ms)
+2022-11-25T05:07:10.271Z - log: [Package] engine@1.0.6 enable
+2022-11-25T05:07:11.238Z - log: [Package] programming@1.0.0 enable
+2022-11-25T05:07:11.728Z - log: [Package] device@1.0.1 enable
+2022-11-25T05:07:11.770Z - log: [Package] ui-kit@1.0.1 enable
+2022-11-25T05:07:11.809Z - log: [Package] engine-extends@1.0.0 enable
+2022-11-25T05:07:11.888Z - log: [Package] asset-db@1.0.0 enable
+2022-11-25T05:07:11.942Z - log: [Package] scene@1.0.0 enable
+2022-11-25T05:07:12.201Z - log: [Package] server@1.0.0 enable
+2022-11-25T05:07:12.309Z - log: [Package] utils@1.0.0 enable
+2022-11-25T05:07:16.505Z - log: [Package] preview@1.0.1 enable
+2022-11-25T05:07:16.540Z - log: [Package] animator@1.0.0 enable
+2022-11-25T05:07:17.782Z - log: [Package] builder@1.3.2 enable
+2022-11-25T05:07:17.826Z - log: [Package] shortcuts@1.0.1 enable
+2022-11-25T05:07:17.858Z - log: [Package] animation-graph@1.0.0 enable
+2022-11-25T05:07:17.895Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-11-25T05:07:17.919Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-11-25T05:07:17.953Z - log: [Package] about@1.0.0 enable
+2022-11-25T05:07:18.001Z - log: [Package] assets@1.0.0 enable
+2022-11-25T05:07:18.047Z - log: [Package] console@1.0.0 enable
+2022-11-25T05:07:18.256Z - log: [Package] extension@3.0.16 enable
+2022-11-25T05:07:18.297Z - log: [Package] hierarchy@1.0.0 enable
+2022-11-25T05:07:18.345Z - log: [Package] inspector@1.0.0 enable
+2022-11-25T05:07:18.389Z - log: [Package] lightmap@1.0.4 enable
+2022-11-25T05:07:18.439Z - log: [Package] node-library@1.0.1 enable
+2022-11-25T05:07:18.464Z - log: [Package] package-asset@1.0.0 enable
+2022-11-25T05:07:18.505Z - log: [Package] process@1.0.0 enable
+2022-11-25T05:07:18.547Z - log: [Package] reference-image@1.0.0 enable
+2022-11-25T05:07:18.582Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-11-25T05:07:18.607Z - log: [Package] android@1.0.0 enable
+2022-11-25T05:07:18.633Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-11-25T05:07:18.659Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-11-25T05:07:18.690Z - log: [Package] cocos-play@1.0.0 enable
+2022-11-25T05:07:18.721Z - log: [Package] huawei-agc@1.0.0 enable
+2022-11-25T05:07:18.753Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-11-25T05:07:18.788Z - log: [Package] ios@1.0.0 enable
+2022-11-25T05:07:18.816Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-11-25T05:07:18.848Z - log: [Package] link-sure@1.0.0 enable
+2022-11-25T05:07:18.879Z - log: [Package] linux@1.0.0 enable
+2022-11-25T05:07:18.912Z - log: [Package] mac@1.0.0 enable
+2022-11-25T05:07:19.035Z - log: [Package] native@1.0.0 enable
+2022-11-25T05:07:19.072Z - log: [Package] ohos@1.0.0 enable
+2022-11-25T05:07:19.103Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-11-25T05:07:19.135Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-11-25T05:07:19.167Z - log: [Package] qtt@1.0.0 enable
+2022-11-25T05:07:19.199Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-11-25T05:07:19.252Z - log: [Package] web-desktop@1.0.0 enable
+2022-11-25T05:07:19.297Z - log: [Package] web-mobile@1.0.0 enable
+2022-11-25T05:07:19.337Z - log: [Package] wechatgame@1.0.1 enable
+2022-11-25T05:07:19.371Z - log: [Package] windows@1.0.0 enable
+2022-11-25T05:07:19.394Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-11-25T05:07:19.711Z - log: [Package] cocos-service@3.0.3 enable
+2022-11-25T05:07:19.761Z - log: [Package] importer@1.0.0 enable
+2022-11-25T05:07:20.102Z - log: [Im-plugin] Check im-plugin version.
+2022-11-25T05:07:20.117Z - log: [Package] im-plugin@3.0.8 enable
+2022-11-25T05:07:21.040Z - verbose: [AssetDB] Require engine code (3731ms)
+2022-11-25T05:07:24.645Z - log: [Im-plugin] No online info of im-plugin.
+2022-11-25T05:07:29.066Z - verbose: [Scene] Require engine code (0ms)
+2022-11-25T05:07:29.067Z - verbose: [Scene] Startup engine (0ms)
+2022-11-25T05:07:29.136Z - log: [Scene] Cocos Creator v3.5.2
+2022-11-25T05:07:29.836Z - verbose: [Scene] Open engine (769ms)
+2022-11-25T05:07:29.836Z - verbose: [Scene] Configure engine (0ms)
+2022-11-25T05:07:29.420Z - info: [Scene] Forward render pipeline initialized.
+2022-11-25T05:08:29.618Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-11-25T05:13:42.680Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/bf/bffdc601ac21ddbd49402aec682a9180dfc4d6d0.js
+2022-11-25T05:14:24.526Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/e6/e6f64ca4f762bb34e6abe56ce0e4383ab40d03c7.js
+2022-11-25T05:27:06.035Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'removeChild') in http://localhost:7456/scripting/x/chunks/ae/ae40936821300ee3ed1141b021ed739506f051a2.js
+2022-11-25T05:27:55.218Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'removeChild') in http://localhost:7456/scripting/x/chunks/16/16466bc765ad4142ea1ae9a2e087071d316d80e9.js
+2022-11-25T05:28:44.341Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'removeChild') in http://localhost:7456/scripting/x/chunks/16/16466bc765ad4142ea1ae9a2e087071d316d80e9.js
+2022-11-25T05:29:55.097Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/a2/a2081d1dbd8eb69ba592c20bfa2ed8d38e42be0b.js
+2022-11-25T05:35:51.007Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/e8/e8b1b02e45933fad1ed11ef6c930e64af13e8e66.js
+2022-11-25T05:35:57.969Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/e8/e8b1b02e45933fad1ed11ef6c930e64af13e8e66.js
+2022-11-25T05:39:46.326Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/04/04983d68d971ada87d47ec39c3ded5bb688d73f2.js
+2022-11-25T05:39:57.450Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/1d/1da64754f5f96a97a7408d303956e3cb1a59b08d.js
+2022-11-25T05:42:52.292Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/1d/1da64754f5f96a97a7408d303956e3cb1a59b08d.js
+2022-11-25T05:43:16.052Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/fe/fefa330824c483c84941630c134e528af024a02c.js
+2022-11-25T05:43:39.764Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/fe/fefa330824c483c84941630c134e528af024a02c.js
+2022-11-25T05:45:08.747Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/fe/fefa330824c483c84941630c134e528af024a02c.js
+2022-11-25T05:49:23.252Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/ef/ef09178feb497315316f8f87ea0c6f0bafc61c3c.js
+2022-11-25T05:53:55.306Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'children') in http://localhost:7456/scripting/x/chunks/e0/e0a95b8211989030d1e154e1d7a733f4a1cc0a31.js
+2022-11-25T05:53:57.353Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'children') in http://localhost:7456/scripting/x/chunks/e0/e0a95b8211989030d1e154e1d7a733f4a1cc0a31.js
+2022-11-25T05:54:14.489Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'children') in http://localhost:7456/scripting/x/chunks/e0/e0a95b8211989030d1e154e1d7a733f4a1cc0a31.js
+2022-11-25T05:55:08.845Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'children') in http://localhost:7456/scripting/x/chunks/74/74c457f456af71a90da12051d1a1b5dd56cd16a9.js
+2022-11-25T05:57:31.318Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/25/255f193cf010351de7d39d0f45e6d77f0ef4efc3.js
+2022-11-25T05:58:30.334Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/25/255f193cf010351de7d39d0f45e6d77f0ef4efc3.js
+2022-11-25T05:59:29.537Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/fe/fefa330824c483c84941630c134e528af024a02c.js
+2022-11-25T06:01:26.984Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/5c/5c8c51b5336105a180c1a1e5357f0de5e62c149a.js
+2022-11-25T06:02:02.726Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/ce/ce990273ff625335963306d0134dcc8e5b24a175.js
+2022-11-25T06:02:14.202Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/ce/ce990273ff625335963306d0134dcc8e5b24a175.js
+2022-11-25T06:02:59.828Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/ce/ce990273ff625335963306d0134dcc8e5b24a175.js
+2022-11-25T06:04:26.334Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/ce/ce990273ff625335963306d0134dcc8e5b24a175.js
+2022-11-25T06:14:13.707Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/77/7754162843293a216663d780ac40313ebfb3e76c.js
+2022-11-25T06:14:28.138Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/77/7754162843293a216663d780ac40313ebfb3e76c.js
+2022-11-25T06:14:59.731Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/5f/5f214ee2d79b11292fd56fc7035099641dd77892.js
+2022-11-25T06:15:17.394Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/33/333cdc10c2e9c9923878bcfe7260a01e0adb53cc.js
+2022-11-25T06:15:32.630Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d9/d96b65287933268390a3ceba056478f47a6acc53.js
+2022-11-25T06:15:37.058Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d9/d96b65287933268390a3ceba056478f47a6acc53.js
+2022-11-25T06:15:38.178Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d9/d96b65287933268390a3ceba056478f47a6acc53.js
+2022-11-25T06:23:39.800Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/5a/5afdec4e92cd1458f4cb74fd89fd8ca81fbd742f.js
+2022-11-25T06:24:50.367Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/cf/cf6c3d2b0ce169b521bb1a109bf10d7f5672073b.js
+2022-11-25T06:27:35.922Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/c3/c35549294f60ec89ac3de9b86acf5abf9ef933e2.js
+2022-11-25T06:27:40.923Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/c3/c35549294f60ec89ac3de9b86acf5abf9ef933e2.js
+2022-11-25T06:29:20.312Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/db/db3c40069628da77a540ca4195d91666d32f43e7.js
+2022-11-25T06:30:07.089Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/c9/c992fbb3771b2ca6ccfdbfd968a3a96c2dd6d752.js
+2022-11-25T06:32:51.127Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/a7/a7e4b4ae572fdf89ff1ac60663b1395bb9aff6da.js
+2022-11-25T06:33:41.309Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/62/62a7029912a4adce9ee05b059d05a20414ffdf71.js
+2022-11-25T06:54:48.368Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'value') in http://localhost:7456/scripting/x/chunks/2e/2e65ae70794394d51c66399dfe241b812bd11d16.js
+2022-11-25T06:58:23.113Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/70/706e362db555db2983282d83c52efefe51c78e17.js
+2022-11-25T06:59:07.266Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'toString') in http://localhost:7456/scripting/x/chunks/52/521cf1bd13b265933620138d3826fcfb09256588.js
+2022-11-25T07:40:47.192Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/3a/3a1ebd1ceae6305e8b52e1f65b1af1b2facb507c.js
+2022-11-25T08:29:18.977Z - error: [Preview]Uncaught TypeError: arr.getPosition is not a function in http://localhost:7456/scripting/x/chunks/37/377450a861faf3d27db7e915a884ff8cf47485bf.js
+2022-11-25T08:29:27.235Z - error: [Preview]Uncaught TypeError: arr.getPosition is not a function in http://localhost:7456/scripting/x/chunks/37/377450a861faf3d27db7e915a884ff8cf47485bf.js
+2022-11-25T08:29:28.387Z - error: [Preview]Uncaught TypeError: arr.getPosition is not a function in http://localhost:7456/scripting/x/chunks/37/377450a861faf3d27db7e915a884ff8cf47485bf.js
+2022-11-25T08:38:46.658Z - warn: Metrics: no valid info
+2022-11-28T10:07:46.263Z - log: [Package] menu@1.0.0 enable
+2022-11-28T10:07:46.266Z - log: [Package] profile@1.0.0 enable
+2022-11-28T10:07:46.280Z - log: [Package] project@1.0.2 enable
+2022-11-28T10:07:46.285Z - log: [Package] messages@1.0.0 enable
+2022-11-28T10:07:46.296Z - log: [Package] program@1.0.0 enable
+2022-11-28T10:07:46.301Z - log: [Package] tester@1.0.0 enable
+2022-11-28T10:07:46.306Z - log: [Package] preferences@1.0.0 enable
+2022-11-28T10:07:47.222Z - log: Setup mods mgr.: 578.097ms
+2022-11-28T10:07:47.236Z - verbose: [Engine] QuickCompile engine (875ms)
+2022-11-28T10:07:47.238Z - log: [Package] engine@1.0.6 enable
+2022-11-28T10:07:48.092Z - log: [Package] programming@1.0.0 enable
+2022-11-28T10:07:48.543Z - log: [Package] device@1.0.1 enable
+2022-11-28T10:07:48.577Z - log: [Package] ui-kit@1.0.1 enable
+2022-11-28T10:07:48.605Z - log: [Package] engine-extends@1.0.0 enable
+2022-11-28T10:07:48.683Z - log: [Package] asset-db@1.0.0 enable
+2022-11-28T10:07:48.726Z - log: [Package] scene@1.0.0 enable
+2022-11-28T10:07:48.904Z - log: [Package] server@1.0.0 enable
+2022-11-28T10:07:48.990Z - log: [Package] utils@1.0.0 enable
+2022-11-28T10:07:52.642Z - log: [Package] preview@1.0.1 enable
+2022-11-28T10:07:52.683Z - log: [Package] animator@1.0.0 enable
+2022-11-28T10:07:53.619Z - log: [Package] builder@1.3.2 enable
+2022-11-28T10:07:53.653Z - log: [Package] shortcuts@1.0.1 enable
+2022-11-28T10:07:53.687Z - log: [Package] animation-graph@1.0.0 enable
+2022-11-28T10:07:53.722Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-11-28T10:07:53.754Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-11-28T10:07:53.795Z - log: [Package] about@1.0.0 enable
+2022-11-28T10:07:53.841Z - log: [Package] assets@1.0.0 enable
+2022-11-28T10:07:53.873Z - log: [Package] console@1.0.0 enable
+2022-11-28T10:07:54.053Z - log: [Package] extension@3.0.16 enable
+2022-11-28T10:07:54.085Z - log: [Package] hierarchy@1.0.0 enable
+2022-11-28T10:07:54.131Z - log: [Package] inspector@1.0.0 enable
+2022-11-28T10:07:54.164Z - log: [Package] lightmap@1.0.4 enable
+2022-11-28T10:07:54.210Z - log: [Package] node-library@1.0.1 enable
+2022-11-28T10:07:54.246Z - log: [Package] package-asset@1.0.0 enable
+2022-11-28T10:07:54.292Z - log: [Package] process@1.0.0 enable
+2022-11-28T10:07:54.336Z - log: [Package] reference-image@1.0.0 enable
+2022-11-28T10:07:54.371Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-11-28T10:07:54.396Z - log: [Package] android@1.0.0 enable
+2022-11-28T10:07:54.419Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-11-28T10:07:54.451Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-11-28T10:07:54.482Z - log: [Package] cocos-play@1.0.0 enable
+2022-11-28T10:07:54.513Z - log: [Package] huawei-agc@1.0.0 enable
+2022-11-28T10:07:54.545Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-11-28T10:07:54.578Z - log: [Package] ios@1.0.0 enable
+2022-11-28T10:07:54.607Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-11-28T10:07:54.638Z - log: [Package] link-sure@1.0.0 enable
+2022-11-28T10:07:54.668Z - log: [Package] linux@1.0.0 enable
+2022-11-28T10:07:54.702Z - log: [Package] mac@1.0.0 enable
+2022-11-28T10:07:54.824Z - log: [Package] native@1.0.0 enable
+2022-11-28T10:07:54.860Z - log: [Package] ohos@1.0.0 enable
+2022-11-28T10:07:54.891Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-11-28T10:07:54.923Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-11-28T10:07:54.954Z - log: [Package] qtt@1.0.0 enable
+2022-11-28T10:07:54.986Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-11-28T10:07:55.031Z - log: [Package] web-desktop@1.0.0 enable
+2022-11-28T10:07:55.077Z - log: [Package] web-mobile@1.0.0 enable
+2022-11-28T10:07:55.124Z - log: [Package] wechatgame@1.0.1 enable
+2022-11-28T10:07:55.148Z - log: [Package] windows@1.0.0 enable
+2022-11-28T10:07:55.172Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-11-28T10:07:55.438Z - log: [Package] cocos-service@3.0.3 enable
+2022-11-28T10:07:55.487Z - log: [Package] importer@1.0.0 enable
+2022-11-28T10:07:55.776Z - log: [Im-plugin] Check im-plugin version.
+2022-11-28T10:07:55.786Z - log: [Package] im-plugin@3.0.8 enable
+2022-11-28T10:07:56.533Z - verbose: [AssetDB] Require engine code (3287ms)
+2022-11-28T10:08:00.335Z - log: [Im-plugin] No online info of im-plugin.
+2022-11-28T10:08:03.495Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\CocosDashboard_1.2.1\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2022-11-28T10:08:03.972Z - verbose: [Scene] Require engine code (1ms)
+2022-11-28T10:08:03.973Z - verbose: [Scene] Startup engine (1ms)
+2022-11-28T10:08:04.047Z - log: [Scene] Cocos Creator v3.5.2
+2022-11-28T10:08:04.680Z - verbose: [Scene] Open engine (707ms)
+2022-11-28T10:08:04.681Z - verbose: [Scene] Configure engine (0ms)
+2022-11-28T10:08:04.297Z - info: [Scene] Forward render pipeline initialized.
+2022-11-28T10:10:10.432Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-11-28T10:11:32.945Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/5b/5b2d02ddb35e85b4b23240aaed1f1c0f5f652336.js
+2022-11-28T10:14:47.120Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f4/f45d70403374ecd6cecab0a8dc53627ce00b135d.js
+2022-11-28T10:16:03.830Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f4/f45d70403374ecd6cecab0a8dc53627ce00b135d.js
+2022-11-28T10:24:02.641Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f4/f45d70403374ecd6cecab0a8dc53627ce00b135d.js
+2022-11-28T10:27:47.375Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/38/38e5e2ab1e7f63f3211e6e9a2e83486e357ec1b3.js
+2022-11-28T10:28:23.932Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/38/38e5e2ab1e7f63f3211e6e9a2e83486e357ec1b3.js
+2022-11-28T10:32:02.307Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/5c/5c33d603bc2269bc0f66749a776b3a78c67ff313.js
+2022-11-28T10:32:10.809Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/5c/5c33d603bc2269bc0f66749a776b3a78c67ff313.js
+2022-11-28T10:40:58.116Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/76/765d8f2aec39f9ba397291e9b2e8911485931252.js
+2022-11-28T10:46:23.985Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/76/765d8f2aec39f9ba397291e9b2e8911485931252.js
+2022-11-28T11:02:25.089Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/48/48b3dbcbd85b8c9fea949cc523bbf5ed47417b8a.js
+2022-11-28T11:17:23.466Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/59/590ebfa5a1b99ba5d344eb32425c7b3f0cf1b123.js
+2022-11-28T11:20:38.626Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b3/b3a823dfd8aaae658a8bdd772bfedc383a10c870.js
+2022-11-28T11:24:25.266Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b3/b3a823dfd8aaae658a8bdd772bfedc383a10c870.js
+2022-11-28T11:29:15.068Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/56/56afae1776bccbe4d2ec96af03388cc4755cd850.js
+2022-11-28T11:44:54.847Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/e4/e476fa91e39ad1ddc21de6d5b20e43bdef81e301.js
+2022-11-28T11:45:34.948Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d9/d974c2c40f83e16a3a4d2f2a556e50cbc7c36e79.js
+2022-11-28T12:00:50.357Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d9/d974c2c40f83e16a3a4d2f2a556e50cbc7c36e79.js
+2022-11-28T12:03:24.824Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d9/d974c2c40f83e16a3a4d2f2a556e50cbc7c36e79.js
+2022-11-28T12:08:23.343Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/68/68f5ce24169f0c89be8290d9f5049c411c5c45c4.js
+2022-11-28T12:12:27.768Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/5d/5d4cf5fa3f1887e31b38e917d76643fdcf47bd01.js
+2022-11-28T12:32:50.873Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f5/f53f09dfac877fdbd92598abb2964312b26670ef.js
+2022-11-28T12:34:40.123Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f5/f53f09dfac877fdbd92598abb2964312b26670ef.js
+2022-11-28T12:53:24.960Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f5/f53f09dfac877fdbd92598abb2964312b26670ef.js
+2022-11-28T12:53:36.875Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f5/f53f09dfac877fdbd92598abb2964312b26670ef.js
+2022-11-28T13:00:05.799Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/b8/b8fcd313ffbb077bab9c9769eba239a631ad3a5e.js
+2022-11-28T13:24:50.309Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/c2/c2fdc905f29bcb061fb4eebe1f3ce712c8c4924a.js
+2022-11-28T13:51:30.721Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/3d/3de24582c3a9a7d37dacf6365bbb2f638f29857e.js
+2022-11-28T14:14:10.440Z - warn: Metrics: no valid info
